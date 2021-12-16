@@ -1,0 +1,1101 @@
+﻿participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._current_page_name,participant.time_started_utc,participant.visited,participant.mturk_worker_id,participant.mturk_assignment_id,participant.payoff,player.id_in_group,player.role,player.payoff,player.what_happens_with_payoffs,player.age,player.gender,player.degree,player.field_of_study,player.employment,player.familiarity,player.confidence,group.id_in_subsession,subsession.round_number,session.code,session.label,session.mturk_HITId,session.mturk_HITGroupId,session.comment,session.is_demo
+1,u55bqbgq,5ed559e5afbd830e2117ed55,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:04:56.213573,1,,,10.0,1,,0.0,I think the payoffs earned by the other participant are just kept by the researchers.,60,male,3,engineer,full,2,3,1,1,qd0ydl2t,,,,,0
+2,2mxr8wk1,5607080ed7def20012b733c3,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:00.273677,1,,,5.0,2,,0.0,they will earn what I gave them which is 5,27,female,2,natural,part,0,0,1,1,qd0ydl2t,,,,,0
+3,88kiqr9x,56e130548b1c33000a388671,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:03.622286,1,,,9.0,3,,0.0,I assume that it's calculated by the scoring system and just distributed like the rules stated.,28,male,1,na,full,3,3,1,1,qd0ydl2t,,,,,0
+4,4xdn9uid,614e0825d40616c90ebc1d49,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:04.749777,1,,,14.0,4,,0.0,"I don't know why, with the instructions it seemed to be mutually beneficial to send the maximum and then split evenly. There must have been an incentive to keep extra for yourself.",33,male,2,other,full,3,4,1,1,qd0ydl2t,,,,,0
+5,obx7d1nb,5ac4c721e1099600016a823b,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:05.829690,1,,,7.0,5,,0.0,They get that amount paid as a bonus.,50,male,2,other,full,4,4,1,1,qd0ydl2t,,,,,0
+6,b6ert0e3,5dc592c6aa431440aa755d5b,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:07.596210,1,,,5.0,6,,0.0,I have no clue,23,female,1,na,no,3,2,1,1,qd0ydl2t,,,,,0
+7,u8ixqpqg,5bd0d9bf25db7b0001786a5b,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:07.846099,1,,,0.0,7,,0.0,"They keep them, I'd guess",46,male,2,engineer,full,3,3,1,1,qd0ydl2t,,,,,0
+8,q42c5yh6,5f77b0c71436cf1d275d79d0,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:08.211954,1,,,5.0,8,,0.0,I think the other participant is a computer so will not get the payoffs.,31,female,4,psych,full,2,2,1,1,qd0ydl2t,,,,,0
+9,9ryxnrou,60712d937752fb8780e89951,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:09.077226,1,,,11.0,9,,0.0,I think they get whatever I sent back,33,male,3,other,full,4,3,1,1,qd0ydl2t,,,,,0
+10,ftalyn53,6111234ac8cfa49e38acbfb4,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:09.987261,1,,,10.0,10,,0.0,They continue to send it to other 2nd participants ,22,female,2,other,full,2,2,1,1,qd0ydl2t,,,,,0
+11,chd3ixpk,60e657938cf62fc6336423bb,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:12.011412,1,,,5.0,11,,0.0,The participant will also get an equal/fair amount.,38,female,2,other,full,2,2,1,1,qd0ydl2t,,,,,0
+12,yqg8vbsw,606ccdcf683538f9d9419171,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:12.082678,1,,,5.0,12,,0.0,"If there was a Participant 2, they would get the payoff agreed upon.  ",41,female,2,psych,full,0,2,1,1,qd0ydl2t,,,,,0
+13,2zkoy2m9,614f3f044ab295ed97809caa,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:12.627660,1,,,5.0,13,,0.0,They should get the payoff in my opinion,38,male,3,engineer,full,4,3,1,1,qd0ydl2t,,,,,0
+14,3dumg7cv,5f4912fc3c25512e73761c48,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:12.936008,1,,,5.0,14,,0.0,"I'm not sure what you mean. What happens to them is they get sent out to them? Or how did they decide? If they were #2, they didn't decide, I thought. ",37,male,2,politics,full,3,3,1,1,qd0ydl2t,,,,,0
+15,91ezcz1i,61366a0250ad37452b08b9a3,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:13.818630,1,,,7.0,15,,0.0,The participant gets to keep their points.,18,female,1,law,part,1,2,1,1,qd0ydl2t,,,,,0
+16,oxvwr0kc,56bfba439f7a1e000afdcba9,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:13.974126,1,,,9.0,16,,0.0,I think they are given a bonus based on the number of points they end up with,31,female,3,natural,full,0,2,1,1,qd0ydl2t,,,,,0
+17,kkwvut20,13gEOT731E6m9Z975LqnnOS7,0,1,24,introduction,ID,2021-12-13 18:05:16.312017,1,,,0.0,17,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+18,w6ey8iay,5f08891e392f740a659bbc7d,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:16.366014,1,,,5.0,18,,0.0,They get the money?  I'm not sure I understand the question.,38,male,2,natural,full,3,1,1,1,qd0ydl2t,,,,,0
+19,93hm68l5,611688156f6d22853511ffb3,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:17.129840,1,,,5.0,19,,0.0,they get it as a bonus,20,male,1,na,part,2,3,1,1,qd0ydl2t,,,,,0
+20,3g62b71b,6168a697ae9f4d8dcfada29b,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:19.203515,1,,,5.0,20,,0.0,"I think they will get $0.50 as payment for completing the study, and $0.50 as a bonus according to their actions.",29,female,3,other,full,3,2,1,1,qd0ydl2t,,,,,0
+21,mww9m1kw,55b424e1fdf99b526efcf8d0,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:19.580758,1,,,9.0,21,,0.0,"They will be sent as a bonus payment in the same way as myself, at which point they will cash them out to spend. ",39,male,1,na,no,3,3,1,1,qd0ydl2t,,,,,0
+22,kvsgoivs,614f24a17833e1e4b7184fae,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:20.992190,1,,,5.0,22,,0.0,The payoffs are put into a pot to be distributed to the sweepstakes winner,26,female,2,psych,full,3,2,1,1,qd0ydl2t,,,,,0
+23,uabtjl8z,57f2da5c6c19420001438d19,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:21.862715,1,,,5.0,23,,0.0,They will receive that amount in a bonus payment.,45,female,1,na,no,1,2,1,1,qd0ydl2t,,,,,0
+24,8ejqe502,60ebd106ca635af4d76098cd,0,15,24,ultimatum_human_strategy,GroupWaitPage,2021-12-13 18:05:23.202446,1,,,0.0,24,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+25,96rtfup6,5f5452df72345118f58d187b,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:34.896799,1,,,5.0,25,,0.0,He will keep his portion.,57,male,1,na,no,3,4,1,1,qd0ydl2t,,,,,0
+26,lqltbv1w,60fd7cb83d3fd9e74b6c9d43,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:05:50.840576,1,,,5.0,26,,0.0,"I believe the other participants are given an option to give either themselves all of the points, both of us a smaller amount of points, or me all of the points available.",19,male,1,natural,no,3,4,1,1,qd0ydl2t,,,,,0
+27,for23wln,5d42486206811e001ada5b4b,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:06:15.164171,1,,,8.0,27,,0.0,i think they will earn a bonus for the additional amount ,45,male,1,na,full,3,4,1,1,qd0ydl2t,,,,,0
+28,64zpakgo,5e3adfc595ff562fbdd130fa,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:06:58.690707,1,,,8.0,28,,0.0,I would guess that they would be turned into a bonus for them as well.,34,male,1,na,part,1,2,1,1,qd0ydl2t,,,,,0
+29,2d7yb6gn,60f19f3b96865df57e8444ce,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:07:04.279554,1,,,7.0,29,,0.0,I think they get the right payoff.,36,male,3,engineer,full,4,4,1,1,qd0ydl2t,,,,,0
+30,kay5osy6,5f919a881f37510203a7a638,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:07:35.711395,1,,,9.0,30,,0.0,I think the payoffs earned by the other participant might be put into another pool to play another round. ,26,female,3,econ,full,3,2,1,1,qd0ydl2t,,,,,0
+31,ephpbfz3,615ddab1e4f013092538b6c5,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:03.028642,1,,,10.0,31,,0.0,No clue,58,male,3,engineer,no,2,3,1,1,qd0ydl2t,,,,,0
+32,oaty9y89,5d612ae16512d700159face7,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:05.255222,1,,,5.0,32,,0.0,They should be tripled as well,35,female,3,other,full,3,4,1,1,qd0ydl2t,,,,,0
+33,zhrfysu3,5d1d073e2741ce0019113c67,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:07.800655,1,,,14.0,33,,0.0,I don't know,27,female,2,other,full,2,2,1,1,qd0ydl2t,,,,,0
+34,o0i89mcf,59dc458f77860e000151240e,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:09.537713,1,,,10.0,34,,0.0,I think the other person receives the payoffs as a bonus as well.,38,male,1,psych,part,3,4,1,1,qd0ydl2t,,,,,0
+35,o37ez5sz,5be6e664d86075000145bf44,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:11.379382,1,,,5.0,35,,0.0,i honestly dont really understand the question,24,male,0,na,no,3,3,1,1,qd0ydl2t,,,,,0
+36,hrevkl7n,5dc9a8c72e81ea87179e0f55,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:12.135017,1,,,5.0,36,,0.0,I think the other participant is awarded a bonus based on their points.,36,female,1,na,no,2,3,1,1,qd0ydl2t,,,,,0
+37,6tas2bg4,5e14d563c4e155ae93907ae1,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:12.719027,1,,,5.0,37,,0.0,They receive it as a 0.10/pt bonus like I did. ?,46,male,3,engineer,part,4,3,1,1,qd0ydl2t,,,,,0
+38,5rc6hefk,5f4a7a00dc1bde60ab8f7ac5,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:13.641402,1,,,0.0,38,,0.0,It's increased for each point they keep.,27,male,2,other,part,4,4,1,1,qd0ydl2t,,,,,0
+39,c46txdt2,60fcd7c233a5e135b4965e06,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:14.466887,1,,,8.0,39,,0.0,the same that happened to me,20,female,1,other,no,0,0,1,1,qd0ydl2t,,,,,0
+40,nfyp9en3,5fe76396a4feb05bf1629a6c,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:15.905195,1,,,7.0,40,,0.0,I don't think there's an actual other participant.,27,male,1,na,no,0,0,1,1,qd0ydl2t,,,,,0
+41,h3c2ynv3,5c5aecc774a76f0001a25ced,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:16.507112,1,,,9.0,41,,0.0,They get to keep the payoffs as a bonus.,34,male,1,natural,part,1,2,1,1,qd0ydl2t,,,,,0
+42,68sjnjx9,60ff82f49fbecec33107d890,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:16.805187,1,,,9.0,42,,0.0,I believe the payoffs are given to the other participant.,27,female,1,na,no,0,2,1,1,qd0ydl2t,,,,,0
+43,89c50ntb,56bb6812bf2129000b53ce26,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:17.640983,1,,,5.0,43,,0.0,The other participant gets the other amount that I gave if indeed there is another participant,45,female,2,other,full,3,3,1,1,qd0ydl2t,,,,,0
+44,0hd8scwh,6074b929f753216d88c77e88,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:20.088134,1,,,10.0,44,,0.0,The other participant will receive the base pay for the experiment and no bonus payment because I decided to distribute all the points to myself instead of sharing them with the other participant.,30,male,1,med,full,3,3,1,1,qd0ydl2t,,,,,0
+45,6vadzsod,5d5f07cdca10e90016bc0103,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:20.720658,1,,,14.0,45,,0.0,What happens to their payoffs? Well I'd hope it goes to their bank/prolific account...,34,male,3,econ,full,3,3,1,1,qd0ydl2t,,,,,0
+46,uwodntza,6108649840bf2b927ef3905c,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:21.618188,1,,,5.0,46,,0.0,They would still get the same amount i got ,33,male,3,engineer,full,4,4,1,1,qd0ydl2t,,,,,0
+47,ne8pi757,60ff33eea57872b7188f12e2,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:22.418779,1,,,5.0,47,,0.0,It goes into his prolific account.,29,female,2,other,full,0,0,1,1,qd0ydl2t,,,,,0
+48,gnuvi24w,604fe822b095421e07e3f93e,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:24.189549,1,,,5.0,48,,0.0,They receive the payoffs as described and are told if the offers were accepted or rejected.,29,male,3,engineer,full,2,3,1,1,qd0ydl2t,,,,,0
+49,u9dofqju,614e6cb7ae405c4deb45b906,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:24.960197,1,,,0.0,49,,0.0,they keep it,30,male,2,natural,full,3,2,1,1,qd0ydl2t,,,,,0
+50,0u9tb2t4,5cbe04b4f429ff00159de30e,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:26.096919,1,,,5.0,50,,0.0,I was afraid that there may be another round and the other participant will have the decision so I decided to be fair.,36,female,2,natural,full,4,4,1,1,qd0ydl2t,,,,,0
+51,szhfg4f2,55b67c31fdf99b26b999cc1e,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:26.533274,1,,,11.0,51,,0.0,They get the payoff of what I gave them plus what they had,40,female,1,na,full,3,3,1,1,qd0ydl2t,,,,,0
+52,0k0jts07,61743e9dc0bc8b79dc07f38b,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:26.915317,1,,,10.0,52,,0.0,They earn as well as I do.,29,other,1,other,full,4,3,1,1,qd0ydl2t,,,,,0
+53,6yidezg1,600c63a5dfb7171357a02440,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:26.956081,1,,,5.0,53,,0.0,They get to keep half,24,male,1,law,full,3,3,1,1,qd0ydl2t,,,,,0
+54,49khy4ar,60e9af9a43403df7e5194222,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:28.973966,1,,,5.0,54,,0.0,I think this is the perfect distribution.,33,male,2,psych,no,2,2,1,1,qd0ydl2t,,,,,0
+55,6bykl86q,5ff51b9e26fd088147de9b26,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:08:28.802139,1,,,5.0,55,,0.0,they receive their pay ,22,female,2,psych,full,1,0,1,1,qd0ydl2t,,,,,0
+56,a9aiy57z,5f6e2f793c9b1032dbe72def,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:09:16.769427,1,,,6.0,56,,0.0,It might be paid to them exactly as it happened,40,male,2,other,full,3,4,1,1,qd0ydl2t,,,,,0
+57,xco122d2,6166c0eb123b6e8b34628249,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:09:30.075890,1,,,9.0,57,,0.0,"I think most people will decide to keep all of the money themselves. Therefore, I decided to send no money. ",24,female,2,politics,no,3,4,1,1,qd0ydl2t,,,,,0
+58,p003be6b,5c0727ff1d461400012b61ee,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:45.347984,1,,,5.0,58,,0.0,"I'm not quite sure what you are asking. Are you asking what I think happens to the money that the other person gets? If so, I would assume that it ends up in their balance. ",53,female,1,na,full,3,2,1,1,qd0ydl2t,,,,,0
+59,e9qgbk37,58c1ce3c3783090001b49355,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:48.942519,1,,,2.0,59,,0.0,I assume that the people earn the payoffs that they are promised.  I don't really understand this question to be honest.  ,44,female,2,other_social,full,1,2,1,1,qd0ydl2t,,,,,0
+60,5s6zizk2,60ff0c8a83c4bf36bf52df28,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:49.293828,1,,,0.0,60,,0.0,They do not earn it if their offer is below the minimum I required,22,female,2,econ,full,2,2,1,1,qd0ydl2t,,,,,0
+61,9er92lpd,61648bb6ad1eceeee2c056ee,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:49.415088,1,,,4.0,61,,0.0,Given 0.1 pounds per point kept (exact same point system/payoff to me),26,male,2,med,full,2,2,1,1,qd0ydl2t,,,,,0
+62,kllboxqu,5aeeb4903c80f200013af2ed,0,3,24,dictator_human,GroupWaitPage,2021-12-13 18:10:50.443384,1,,,0.0,62,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+63,1eufia3o,56210effed6e5a000ac7f3a5,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:52.128518,1,,,8.0,63,,0.0,they will receive the amount to them as a bonus,38,other,2,engineer,full,4,4,1,1,qd0ydl2t,,,,,0
+64,hnwichw4,6123c6bc3055eec90f7dbabb,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:52.433462,1,,,8.0,64,,0.0,The other participant keeps the payoffs I had returned to them.,22,male,2,other,no,3,3,1,1,qd0ydl2t,,,,,0
+65,8yvcncm0,5f3c6e44dc97f2aee9a67c7b,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:56.458836,1,,,9.0,65,,0.0,I guess they spend it on stuff.,50,male,2,other,full,2,2,1,1,qd0ydl2t,,,,,0
+66,gq5sauwh,6085bb66296b0a411198d8fd,0,1,24,introduction,ID,2021-12-13 18:10:56.872483,1,,,0.0,66,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+67,vh0q9k88,591d369e88bbb500013a8517,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:57.354330,1,,,10.0,67,,0.0,I think it goes to them the same way that mine goes to me.,50,male,1,na,full,3,3,1,1,qd0ydl2t,,,,,0
+68,9epq8pg4,60fd6ea5d5e5f804bb6fc4cf,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:57.347256,1,,,5.0,68,,0.0,They keep their portion,29,female,2,other,full,1,2,1,1,qd0ydl2t,,,,,0
+69,6j8din3g,5ea77b0161f86b151f475c8f,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:57.527078,1,,,20.0,69,,0.0,They probably go nowhere because they probably don't exist.,34,male,4,law,full,3,2,1,1,qd0ydl2t,,,,,0
+70,9vfequ19,60fdd7f6ec1fd96d3c3a2b7a,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:57.900585,1,,,0.0,70,,0.0,They receive the amount I gave back ,19,female,1,psych,part,2,2,1,1,qd0ydl2t,,,,,0
+71,esfemhmo,56f9364e895094000c8f4967,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:58.377159,1,,,7.0,71,,0.0,earned as bonus,38,male,2,other,full,3,4,1,1,qd0ydl2t,,,,,0
+72,luqzin4e,6153cc9cd8ac0521250d0009,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:59.882727,1,,,9.0,72,,0.0,Hopefully they get paid,53,female,2,other_social,part,3,3,1,1,qd0ydl2t,,,,,0
+73,vnn258un,6102c8ad26a015adcd8aaac4,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:10:59.735566,1,,,0.0,73,,0.0,They receive them? I don't know?,27,female,3,other_social,full,0,1,1,1,qd0ydl2t,,,,,0
+74,xhhvvfu0,5ad4a9f30f5d3900016a4d8b,0,3,24,dictator_human,GroupWaitPage,2021-12-13 18:10:59.889908,1,,,0.0,74,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+75,rfj7sire,5f4af15a0add63150e16e55a,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:00.090262,1,,,8.0,75,,0.0,Im not sure that there was another participant,36,male,4,natural,full,3,4,1,1,qd0ydl2t,,,,,0
+76,agoqbey3,58e79ac632bebb0001b741ec,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:00.111491,1,,,12.0,76,,0.0,I have no idea maybe they are doubled,46,female,1,law,part,3,3,1,1,qd0ydl2t,,,,,0
+77,qw17mgq7,5dc59aea37023940a0860dea,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:00.244621,1,,,5.0,77,,0.0,"The other participant receives the payoff if their offer to me was equal or more than what I agreed to accept. If their offer to me was lower than what I agreed to accept, the other participant and I get nothing.",53,male,2,other,part,3,2,1,1,qd0ydl2t,,,,,0
+78,z1p5j460,61688317772399d5e4bdcd13,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:01.664267,1,,,5.0,78,,0.0,They get it in money. ,40,female,1,other_social,no,2,3,1,1,qd0ydl2t,,,,,0
+79,w9io4w7e,5c4fa169ee5ae100010a2057,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:02.903566,1,,,5.0,79,,0.0,They will receive a payoff plus a bonus ,41,male,1,na,full,4,4,1,1,qd0ydl2t,,,,,0
+80,82oiyban,61643da0ffad2d01e7b988b5,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:03.677059,1,,,5.0,80,,0.0,The other participant gets the money.,56,female,4,law,full,3,3,1,1,qd0ydl2t,,,,,0
+81,dmclsyyo,5f3ac1732efa0a74f975b1a8,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:05.471791,1,,,14.0,81,,0.0,I think some get more of a pay off compared to others depending on who is your partner in the game,27,female,1,na,part,3,3,1,1,qd0ydl2t,,,,,0
+82,8i481afx,601e1253bbecc3279e4fb472,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:10.584757,1,,,10.0,82,,0.0,They are able to reciprocate and thus earn everybody the most. ,38,male,3,other,full,3,3,1,1,qd0ydl2t,,,,,0
+83,u8wx92id,61088c529cff73b187d19e6d,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:15.665505,1,,,5.0,83,,0.0,I don't think there was another particpant i think it may have been a computer. ,39,female,2,other_social,full,3,4,1,1,qd0ydl2t,,,,,0
+84,tqq8tw11,616d9ef881036dfbfd63d2f4,0,15,24,ultimatum_human_strategy,GroupWaitPage,2021-12-13 18:11:21.989075,1,,,0.0,84,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+85,2fq6wncr,5f69f9dbe18c880116b0f178,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:24.895495,1,,,5.0,85,,0.0,I think they had the same conditions I did. They had 10 points and each point has a value of 0.1 pounds.,33,female,3,econ,full,1,2,1,1,qd0ydl2t,,,,,0
+86,e9xv7r9a,615efd1df11a7d21f0f12f68,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:11:25.570212,1,,,10.0,86,,0.0,I think he only gets the base payment,33,female,2,econ,full,2,2,1,1,qd0ydl2t,,,,,0
+87,yweb1me0,58a50aebbb9e0f0001aca2a7,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:12:04.830789,1,,,0.0,87,,0.0,The other participants get bonus which should have been partially mine.,43,male,3,law,part,3,3,1,1,qd0ydl2t,,,,,0
+88,mf9cno75,568e7144e3ef9e000da20149,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:12:59.806459,1,,,20.0,88,,0.0,tipled(tripled lol) when sent to me,37,male,1,na,full,3,3,1,1,qd0ydl2t,,,,,0
+89,xpw8xhd6,5ea90a840928983752c88275,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:13:48.099298,1,,,7.0,89,,0.0,Given in their study account.,37,male,3,econ,full,3,3,1,1,qd0ydl2t,,,,,0
+90,cz5zdcya,60fc7d423aa600bbb01b7813,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:13:52.126950,1,,,5.0,90,,0.0,"If the other participant is a real person and not a computer system, I think the other participant will keep the 5 points and also earn an addition to the base pay.",22,female,1,other,no,1,1,1,1,qd0ydl2t,,,,,0
+91,yvq2p5z2,6095a3cfda27eb98bb3b74f0,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:14:05.878342,1,,,5.0,91,,0.0,They receive them?  I'm not really sure what else would happen to them.,44,male,1,engineer,full,3,4,1,1,qd0ydl2t,,,,,0
+92,nel7r0km,616f727b03e888e0f8213eec,0,24,24,final_screen,EndOfExperiment,2021-12-13 18:15:36.099054,1,,,0.0,92,,0.0,decision-making,30,male,2,engineer,full,2,3,1,1,qd0ydl2t,,,,,0
+93,sv2wvcor,5a0b8d4c7ecfc50001be130d,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:03:55.970995,1,,,8.0,93,,0.0,they receive it,30,female,1,other,part,0,2,1,1,qd0ydl2t,,,,,0
+94,mtpnnixp,5af7094225561e00013acd70,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:03:58.946639,1,,,8.0,94,,0.0,They get paid to the other participant? Hopefully.,34,male,2,psych,full,3,3,1,1,qd0ydl2t,,,,,0
+95,mu9j8amj,5b6259be5256470001bd0c6d,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:03:59.170193,1,,,7.0,95,,0.0,I think they will be informed of how much they won and sent the payment as a bonus through Prolific.,35,male,1,na,no,3,4,1,1,qd0ydl2t,,,,,0
+96,z8jozpro,5eaef287fb863f5c922abad9,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:03:59.412278,1,,,5.0,96,,0.0,I think that they will accept the money,20,female,1,med,no,3,3,1,1,qd0ydl2t,,,,,0
+97,sg198n29,5c4684826a7dbc00017c0a87,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:00.393404,1,,,10.0,97,,0.0,They keep the base rate,22,other,1,na,no,3,4,1,1,qd0ydl2t,,,,,0
+98,lijanq5r,5f969b802a498b000aab2571,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:01.592382,1,,,6.0,98,,0.0,"I hope they receive a larger amount too. I thought maybe it was lottery points so now, I feel a little badly that I didn't split it half and half. When I thought it was just opportunity, I took more hoping for better chance but I feel bad that it equated to real payment.",42,female,3,psych,part,3,4,1,1,qd0ydl2t,,,,,0
+99,n4wpbh9w,5e24fbd4e1f467771c234e5f,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:02.172850,1,,,9.0,99,,0.0,I had to decide the payout for each participant.,36,female,1,engineer,part,3,3,1,1,qd0ydl2t,,,,,0
+100,jvfuq5o8,57d0a0bee3221e00015fe385,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:02.931282,1,,,11.0,100,,0.0,they get to keep it? not sure what you're asking,37,male,1,na,full,1,3,1,1,qd0ydl2t,,,,,0
+101,lgcx82ab,5f16f559325a640008bb9a07,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:03.453300,1,,,2.0,101,,0.0,they keep it,34,male,2,law,full,3,3,1,1,qd0ydl2t,,,,,0
+102,x38cyic5,5ff591cba89e1b000bfb9852,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:03.412675,1,,,0.0,102,,0.0,They keep them for themselves,35,male,1,na,full,3,4,1,1,qd0ydl2t,,,,,0
+103,2yb4bpaa,5a78e410ae9a0b0001a97274,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:03.550935,1,,,0.0,103,,0.0,They get a bonus for them,30,female,1,other,no,3,4,1,1,qd0ydl2t,,,,,0
+104,1ygcliwl,5589c7cefdf99b18bd86cf31,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:04.697536,1,,,10.0,104,,0.0,he gets nothing,38,male,2,other,full,4,4,1,1,qd0ydl2t,,,,,0
+105,vw3q8t1s,5bc0ac845a09ea00012e2d30,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:04.705635,1,,,5.0,105,,0.0,I think they receive it as a bonus.,34,female,1,other,part,1,4,1,1,qd0ydl2t,,,,,0
+106,mfipp5xl,5c935d881754ba001b25697a,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:05.381755,1,,,10.0,106,,0.0,I imagine they keep those amounts?,37,female,2,engineer,full,3,3,1,1,qd0ydl2t,,,,,0
+107,6hxf6bfi,5adeb4e9f6b58c0001fa70aa,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:08.913389,1,,,2.0,107,,0.0,He receives them,23,male,1,na,no,3,4,1,1,qd0ydl2t,,,,,0
+108,lsszarjh,5993020a5f49420001caf86b,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:09.095745,1,,,4.0,108,,0.0,I don't think they are real but a hypothetical situation.,52,female,3,other,full,2,3,1,1,qd0ydl2t,,,,,0
+109,ysc121oj,5fefa70c30cadfb105b65915,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:09.638753,1,,,5.0,109,,0.0,I assume it gets paid out as a bonus to them. ,57,female,2,other,no,3,4,1,1,qd0ydl2t,,,,,0
+110,jhshxvc7,614e2a0633223cd40a849ee3,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:09.951214,1,,,5.0,110,,0.0,They many get more or less payout depending on how the study is conducted.  Does greed = higher payout or does equity = high payout.,38,male,2,other,full,2,2,1,1,qd0ydl2t,,,,,0
+111,tbcurf3e,588e8b95670d6600012bd8dc,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:10.001510,1,,,15.0,111,,0.0,They are translated into their bonus.,54,female,1,na,full,3,3,1,1,qd0ydl2t,,,,,0
+112,e3t32v3x,5d37d2861566530016a061de,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:10.477684,1,,,11.0,112,,0.0,It is tripled  ,44,male,1,other,full,3,3,1,1,qd0ydl2t,,,,,0
+113,mec8hjey,56f7982b35c4760006278c61,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:10.430003,1,,,9.0,113,,0.0,They receive it.,34,male,2,other_social,full,3,4,1,1,qd0ydl2t,,,,,0
+114,lbbr4acw,6111986f4a5008037f6fe7f5,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:11.361859,1,,,5.0,114,,0.0,I am not sure. ,25,female,2,other,full,3,2,1,1,qd0ydl2t,,,,,0
+115,ltqflwzf,5f5353ff017c5965165df065,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:12.525692,1,,,4.0,115,,0.0,I think they get it as a bonus,36,female,2,other,part,1,2,1,1,qd0ydl2t,,,,,0
+116,msuhjscb,6101c2aaf8555a745cfb472b,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:13.803415,1,,,5.0,116,,0.0,I get it,50,female,1,na,no,0,2,1,1,qd0ydl2t,,,,,0
+117,cmcp2nj1,61006ef97b3147b00cccf8cd,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:14.443835,1,,,7.0,117,,0.0,The other participant receives his/her payment through prolific.,23,female,2,other,full,1,2,1,1,qd0ydl2t,,,,,0
+118,yzor1xqf,569cffa09e8363000c3087cd,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:14.906508,1,,,7.0,118,,0.0,they receive them as well,27,male,2,med,full,0,4,1,1,qd0ydl2t,,,,,0
+119,mud4eavm,5f03ba3355b1f25f0e07a7ff,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:18.564602,1,,,0.0,119,,0.0,they get them if it is accepted,20,female,1,other_social,no,1,3,1,1,qd0ydl2t,,,,,0
+120,zy65yaay,5d83c1e911cb3a0001570ea4,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:22.869065,1,,,0.0,120,,0.0,"I assumed that the payoffs earned by the other participant would be theirs to keep and would be added to their payment for this study. However, in this study I completed, neither of us earned anything in addition to the base pay. The other participant chose to keep all 10 points for himself, and I was willing to accept a minimum of 3 points. ",51,female,2,other,no,1,2,1,1,qd0ydl2t,,,,,0
+121,byoz9p3d,5dd352c51c219b35931aefd1,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:04:49.905442,1,,,5.0,121,,0.0,I think the other participant will earn a bonus of 50 cents like I did ,57,female,2,psych,full,2,3,1,1,qd0ydl2t,,,,,0
+122,iue3q9v1,6107047fbafeaf147ba228c0,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:05:39.812904,1,,,5.0,122,,0.0,The participant gets to keep them.,22,female,2,med,part,1,2,1,1,qd0ydl2t,,,,,0
+123,irczu8lq,611c566a4412b71fd8fb5e20,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:05:57.585906,1,,,9.0,123,,0.0,There might not be a participant 2 at all and it's made up,21,female,1,na,no,1,0,1,1,qd0ydl2t,,,,,0
+124,2xmfs16y,5bbf916162b9aa00011466a3,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:07:30.304290,1,,,7.0,124,,0.0,"I think they are inversely relatd to what I ultimately get paid.  The more for them, the less for me",64,female,2,econ,no,1,1,1,1,qd0ydl2t,,,,,0
+125,vpinomlh,60860909dc3bd4f7efeaef14,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:07:31.573169,1,,,5.0,125,,0.0,they get them,50,female,2,other,no,2,2,1,1,qd0ydl2t,,,,,0
+126,2kv6716x,57dd1a741334540001170404,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:07:41.293983,1,,,5.0,126,,0.0,They are converted into a bonus and then paid to them.,44,male,1,other,full,3,2,1,1,qd0ydl2t,,,,,0
+127,xepotbdr,61573df2a779b544c3729b54,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:07:54.617726,1,,,5.0,127,,0.0,They will get their payoffs on the rule of that.,28,female,2,engineer,part,4,4,1,1,qd0ydl2t,,,,,0
+128,1va28dii,6125b040ffa3c0b9e67b92c9,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:09:13.607291,1,,,0.0,128,,0.0,they keep them,25,male,2,other,no,1,1,1,1,qd0ydl2t,,,,,0
+129,kt95kpry,561bbdf9811d22000df3138a,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:14:55.956613,1,,,14.0,129,,0.0,I think that they will also get a bonus. ,37,male,2,other_social,full,2,3,1,1,qd0ydl2t,,,,,0
+130,j1q2iv7q,5685850c333cbd000d4e042f,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:16:52.777637,1,,,10.0,130,,0.0,I think they earn them according to the rules of the experiment and how their partner (me) made their decisions.,27,male,1,na,no,3,3,1,1,qd0ydl2t,,,,,0
+131,8z1q5fo3,5ed88b61ff2fef399ca66d92,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:13.295058,1,,,5.0,131,,0.0,The other participant will get the payoff,22,male,1,econ,no,4,3,1,1,qd0ydl2t,,,,,0
+132,q580hxva,600c66fafe6f05135db8ede9,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:13.219521,1,,,5.0,132,,0.0,To be honest i have no idea.,20,male,1,na,full,2,2,1,1,qd0ydl2t,,,,,0
+133,skduf90n,615d051e2366aeb051acb734,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:14.386635,1,,,5.0,133,,0.0,I have no idea.... I hope the other participant got exactly the points I relocated to the other participant,29,female,3,natural,full,4,4,1,1,qd0ydl2t,,,,,0
+134,lr6bt3x0,5f121091e95fdc03b5e897d0,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:14.909302,1,,,5.0,134,,0.0,I'm honestly not sure. ,28,female,1,other,no,0,0,1,1,qd0ydl2t,,,,,0
+135,e7x9xfd1,611ff6cc935b6de3fff0b896,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:15.324131,1,,,14.0,135,,0.0,The other participant earned more points then I did,28,female,2,natural,full,1,0,1,1,qd0ydl2t,,,,,0
+136,wig7cwr2,610c255527970227a005623e,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:15.472972,1,,,10.0,136,,0.0,They earn the money,28,male,2,med,full,3,3,1,1,qd0ydl2t,,,,,0
+137,t84snq20,59a1ddac5dfd6b000152601f,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:16.527689,1,,,2.0,137,,0.0,I think they take it. ,33,male,2,econ,full,3,3,1,1,qd0ydl2t,,,,,0
+138,c8dgacxs,5c1655c7ad682500017070d2,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:17.347598,1,,,5.0,138,,0.0,I think that they would receive that amount as a bonus payment.,33,male,1,other,full,1,1,1,1,qd0ydl2t,,,,,0
+139,fsiu2x0c,61562037d8d42a74687762c6,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:17.599569,1,,,5.0,139,,0.0,I think that they will receive an equal ammount,27,male,2,law,part,3,3,1,1,qd0ydl2t,,,,,0
+140,ydgumf0b,613536e3238caf9fc20ea9e7,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:19.229946,1,,,5.0,140,,0.0,They are given to the other participant,20,male,1,med,no,2,2,1,1,qd0ydl2t,,,,,0
+141,vl363n9i,5d5181fc842e8600171e5a78,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:22.116014,1,,,4.0,141,,0.0,they are divided between the two,36,male,2,other_social,full,3,3,1,1,qd0ydl2t,,,,,0
+142,3zreuv7l,5643708f942576000b66ec22,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:22.980988,1,,,11.0,142,,0.0,They are paid them.,29,male,2,psych,full,0,3,1,1,qd0ydl2t,,,,,0
+143,2u8ezvac,56f2319af2df32000d8fb1a4,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:23.656500,1,,,7.0,143,,0.0,I think possibly they could be greedy and only take a high offer value.,28,male,2,other,no,1,1,1,1,qd0ydl2t,,,,,0
+144,2if927q2,60fce0fcf9abe7218c789734,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:24.439952,1,,,5.0,144,,0.0,"I think they are offered to give x amount, but that if I don't agree they will get nothing.",40,female,3,other,full,0,2,1,1,qd0ydl2t,,,,,0
+145,odbmfwqz,614e1095303040298701c095,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:26.533647,1,,,5.0,145,,0.0,I think they got the same point to bonus ratio as i did,33,female,2,other,full,3,3,1,1,qd0ydl2t,,,,,0
+146,av8x9511,6150840e2b45145c1520efeb,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:27.029934,1,,,5.0,146,,0.0,They keep it,51,male,2,engineer,no,3,3,1,1,qd0ydl2t,,,,,0
+147,7tofbjl5,5f5b0f1be585c32184a4cf35,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:26.964388,1,,,9.0,147,,0.0,I think they get the same payoff as me,28,female,2,natural,full,3,2,1,1,qd0ydl2t,,,,,0
+148,ejgw4dpk,616ed044985dca605e572d22,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:29.124235,1,,,9.0,148,,0.0,They use them or send them to another player,56,female,1,na,no,3,3,1,1,qd0ydl2t,,,,,0
+149,xl2t38vp,613930f9c3c440ef9a34bf02,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:29.897734,1,,,9.0,149,,0.0,They will get whatever they accept - if they reject the offer given by me then they get nothing,59,female,2,natural,full,3,3,1,1,qd0ydl2t,,,,,0
+150,00h5bvn6,590208c89571f50001c666e3,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:29.774064,1,,,5.0,150,,0.0,They go to the other person.,34,male,2,other,no,1,0,1,1,qd0ydl2t,,,,,0
+151,ccq98vwt,6058bee6f83bac3e977d4c0b,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:30.409704,1,,,10.0,151,,0.0,I believe everyone was Participant A and that Participant B doesn't exist.,28,male,3,econ,full,2,4,1,1,qd0ydl2t,,,,,0
+152,ybcfvf1p,5ec9fb7d111ab7533578399d,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:31.010192,1,,,5.0,152,,0.0,I'm not sure? He just divided it 50/50. Pretty fair actually.,22,male,1,other,part,0,2,1,1,qd0ydl2t,,,,,0
+153,980wem25,5cb62e9293342300017a72a1,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:34.254122,1,,,8.0,153,,0.0,I believe they are able to allocate the points as they see fit.,31,male,2,other,full,1,1,1,1,qd0ydl2t,,,,,0
+154,2zaozzf5,5ec329937b846b182b00509c,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:35.037352,1,,,15.0,154,,0.0,"I think that depending on the points he got, they become a bonus.",23,male,1,econ,full,3,2,1,1,qd0ydl2t,,,,,0
+155,613xyzfc,60c4e1091b936c7b812e5af4,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:36.727359,1,,,5.0,155,,0.0,bonus payment?,44,male,2,med,full,1,2,1,1,qd0ydl2t,,,,,0
+156,004x5qbb,615bbe1b45c3c2e904778bce,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:43.045696,1,,,7.0,156,,0.0,I think they earn the bonus points like I do?,18,other,1,na,no,4,4,1,1,qd0ydl2t,,,,,0
+157,qmri60lo,60d7d5dc074e8bc367732eb6,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:45.558927,1,,,0.0,157,,0.0,they get to keep everything,41,female,3,other,full,1,2,1,1,qd0ydl2t,,,,,0
+158,vof4sij4,5d7ff85ffec5620017b07c40,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:46.819323,1,,,5.0,158,,0.0,They get to keep it.,44,female,1,econ,no,0,2,1,1,qd0ydl2t,,,,,0
+159,gj4zstza,5f36bde6d3369c0cadac39bf,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:25:56.025292,1,,,6.0,159,,0.0,They would've earned the same amount ,51,male,2,other,full,1,3,1,1,qd0ydl2t,,,,,0
+160,zxxdc9ro,601478ee2d7cc94b1f1855ec,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:26:03.040166,1,,,9.0,160,,0.0,They are given a bonus on top of the 50 cents. The bonus depends on the amount of points they had.,44,male,1,na,no,2,3,1,1,qd0ydl2t,,,,,0
+161,8om0ndzs,611157c508ec60f3cfb2628e,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:26:06.652372,1,,,5.0,161,,0.0,The other participant gets to keep what I gave them.,27,female,2,psych,no,1,1,1,1,qd0ydl2t,,,,,0
+162,wctpvxij,5d548912e1c7130018e019dc,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:26:09.577414,1,,,5.0,162,,0.0,i think most offers are an even 50/50 split and accepted,38,male,2,other,full,3,3,1,1,qd0ydl2t,,,,,0
+163,lpehbsgv,5f5107258dac162ba31673d1,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:26:31.227477,1,,,7.0,163,,0.0,I think that the other participant gets that payoff as money earned for the study.,43,female,3,other,full,0,2,1,1,qd0ydl2t,,,,,0
+164,qj1g2oh6,61076aea3f9aa048a71a4c8d,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:26:49.866462,1,,,3.0,164,,0.0,They go directly to their account.,19,female,1,engineer,no,3,3,1,1,qd0ydl2t,,,,,0
+165,y71npum7,59d5c894c732930001d88b5e,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:27:17.747585,1,,,9.0,165,,0.0,it relates to the study payout,29,male,2,engineer,full,3,1,1,1,qd0ydl2t,,,,,0
+166,ub5vamfz,5d4a41890e604c00011ade8b,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:27:38.777408,1,,,8.0,166,,0.0,The other participant receives their payoff just like I receive mine.,25,male,2,other,full,3,4,1,1,qd0ydl2t,,,,,0
+167,sjoghnj1,5ec403bb09d0e02a060bd5e6,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:28:22.718292,1,,,5.0,167,,0.0,I think the other participant receives them and can use the money as they wish? Unless they were a computer and not another research participant in which case they can't receive anything.,27,male,2,engineer,full,4,2,1,1,qd0ydl2t,,,,,0
+168,rnim5057,61023e0830e893bec6bd8f3c,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:30:21.096528,1,,,0.0,168,,0.0,"if we were able to come to an agreement, then we would have earned a bonus amount, but because the offer was rejected, we each get the agreed payoff from the study with no bonus",26,female,3,other,part,1,2,1,1,qd0ydl2t,,,,,0
+169,4j7671v4,610b3dc97b4bd5a01da75f44,0,3,24,dictator_human,GroupWaitPage,2021-12-13 19:36:28.147577,1,,,0.0,169,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+170,jvvmoq6m,613646cde4d38f8b78223fa6,0,3,24,dictator_human,GroupWaitPage,2021-12-13 19:43:59.429521,1,,,0.0,170,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+171,trif00ly,6104696d120a50b0ec51aa1f,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:52:03.429518,1,,,8.0,171,,0.0,I think the other participant payoffs will be used for something great.,22,female,2,other,no,0,3,1,1,qd0ydl2t,,,,,0
+172,jh9cdcvn,5fc521555cd05b000cfe0998,0,8,24,trust_human_strategy,GroupWaitPage,2021-12-13 19:52:05.473638,1,,,0.0,172,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+173,91ulmfwg,5b5a822e1ad8270001c4f28d,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:52:05.887842,1,,,2.0,173,,0.0,-,25,male,1,na,part,2,2,1,1,qd0ydl2t,,,,,0
+174,32uh1e5i,5f871995a3c40d0cbee04d20,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:52:06.596432,1,,,0.0,174,,0.0,I think that the payoff is not earned because it was too much for him/her to keep themselves,26,female,2,politics,full,3,3,1,1,qd0ydl2t,,,,,0
+175,arg0sn3j,5f78ce64cb5f144a98a4fa38,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:52:06.857331,1,,,7.0,175,,0.0,I feel they might earn whatever payoff they though they would get,24,female,2,other_social,full,2,2,1,1,qd0ydl2t,,,,,0
+176,hr347og3,5a4a94fef7b7bc00014e1462,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:52:07.404263,1,,,3.0,176,,0.0,the payoffs will be paid in bonus earned by the other participant,32,male,1,na,part,4,4,1,1,qd0ydl2t,,,,,0
+177,rkjp1ex4,5ed543442db0060a955d12e1,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:52:08.965450,1,,,13.0,177,,0.0, have no idea what is the pay and bonus structure for the other participant. ,33,male,3,engineer,full,4,4,1,1,qd0ydl2t,,,,,0
+178,qoiafhmd,5f8cbc5c355ea745e6cef2ca,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:52:12.423253,1,,,6.0,178,,0.0,I think the other participant receives his or her payoffs as described (the amount he kept plus what he or she received from me).,37,female,2,other,no,3,3,1,1,qd0ydl2t,,,,,0
+179,c8i9z21r,6144b5b7af5fefae377c46f9,0,18,24,ultimatum_human_strategy,Belief,2021-12-13 19:52:15.564815,1,,,0.0,179,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+180,732n0ryd,60b51c99ade9ff3585dff9e7,0,20,24,ultimatum_human_strategy,ResultsWaitPage,2021-12-13 19:52:17.890817,1,,,0.0,180,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+181,8lksrk9l,5f9057735c69b00e72665f84,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:52:26.678453,1,,,5.0,181,,0.0,I think the other participant will the the bonus I selected.,38,male,2,other,full,1,3,1,1,qd0ydl2t,,,,,0
+182,gzr2fzln,6003361889252e03cebd8fff,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:52:41.693066,1,,,5.0,182,,0.0,I think what happens to the payoffs earned by the other participant is that they are allocated the funds accordingly.,29,male,2,other,full,1,3,1,1,qd0ydl2t,,,,,0
+183,mjbz5k6x,5f2c4bf4e4f3080e6a469fcc,0,24,24,final_screen,EndOfExperiment,2021-12-13 19:54:54.048173,1,,,8.0,183,,0.0,They receive it as a bonus,37,female,1,na,part,3,1,1,1,qd0ydl2t,,,,,0
+184,0gmwfjr6,,0,1,24,introduction,ID,2021-12-13 20:05:11.286089,1,,,0.0,184,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+185,4sv480se,578e6c599bd3d70001e5057f,0,24,24,final_screen,EndOfExperiment,2021-12-13 20:06:22.079613,1,,,7.0,185,,0.0,"I think if they accept, whatever they accept x10 is their bonus, plus whatever the discrepancy between my guess and their minimum amount they are willing to accept is (x10).",25,male,3,other,full,3,3,1,1,qd0ydl2t,,,,,0
+186,1oozkowk,5c2c62542c45d400014a32e6,0,24,24,final_screen,EndOfExperiment,2021-12-13 20:06:23.149720,1,,,5.0,186,,0.0,I think the other participant also gets .50.,27,male,1,other,part,1,2,1,1,qd0ydl2t,,,,,0
+187,2xj0c796,5eeb19d4e0d561256d56d129,0,24,24,final_screen,EndOfExperiment,2021-12-13 20:06:30.767106,1,,,5.0,187,,0.0,They get to keep their amount as well?,28,female,1,na,no,1,1,1,1,qd0ydl2t,,,,,0
+188,615f7vt1,616d6463aa6ae2ee832b3804,0,24,24,final_screen,EndOfExperiment,2021-12-13 20:07:29.164868,1,,,5.0,188,,0.0,They receive the money.,32,male,2,other,no,2,1,1,1,qd0ydl2t,,,,,0
+189,8vbjrfi4,,0,1,24,introduction,ID,2021-12-13 20:09:00.214577,1,,,0.0,189,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+190,yaxrelpr,,0,1,24,introduction,ID,2021-12-13 20:09:00.906346,1,,,0.0,190,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+191,sw7dx1vi,612bb0204ad8e7e8bed041eb,0,24,24,final_screen,EndOfExperiment,2021-12-13 20:11:26.833382,1,,,7.0,191,,0.0,They keep the points that I split and gave to them. They earn a bonus also just like myself.,37,male,1,econ,full,3,4,1,1,qd0ydl2t,,,,,0
+192,x9eit64h,576704bffdff7a0001c12890,0,24,24,final_screen,EndOfExperiment,2021-12-13 20:12:35.728821,1,,,5.0,192,,0.0,I think they're bonused to them the same as would happen with me,39,male,3,other,full,4,2,1,1,qd0ydl2t,,,,,0
+193,x003wam1,610421096c1af729ade5aac1,0,3,24,dictator_human,GroupWaitPage,2021-12-13 20:13:29.215207,1,,,0.0,193,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+194,ddvx3c0t,,0,1,24,introduction,ID,2021-12-13 20:15:26.109305,1,,,0.0,194,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+195,q1n6k7uk,,0,1,24,introduction,ID,2021-12-13 20:15:26.807454,1,,,0.0,195,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+196,8vp2iozc,,0,1,24,introduction,ID,2021-12-13 20:15:27.480202,1,,,0.0,196,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+197,niss9fk1,5e39d872793a082024d9cf18,0,24,24,final_screen,EndOfExperiment,2021-12-13 20:16:13.294238,1,,,7.0,197,,0.0,i think that he receives it? i dont undertand the question,40,male,1,med,full,3,3,1,1,qd0ydl2t,,,,,0
+198,gxmau85u,5c9c3ae2d40ce20014233de6,0,24,24,final_screen,EndOfExperiment,2021-12-13 20:16:16.523777,1,,,5.0,198,,0.0,No idea,33,female,1,engineer,part,3,2,1,1,qd0ydl2t,,,,,0
+199,pyipcmby,,0,1,24,introduction,ID,2021-12-13 20:18:43.561221,1,,,0.0,199,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+200,gx9s67q4,,0,1,24,introduction,ID,2021-12-13 20:18:44.060821,1,,,0.0,200,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+201,pd1drqi9,1380077Zd2yml59L59qnnOS7,0,1,24,introduction,ID,2021-12-13 20:28:35.691726,1,,,0.0,201,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+202,g6w25ibn,,0,0,24,,,,0,,,0.0,202,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+203,b38opbgm,,0,0,24,,,,0,,,0.0,203,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+204,a6oz6oxc,,0,0,24,,,,0,,,0.0,204,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+205,4wxv4gkq,,0,0,24,,,,0,,,0.0,205,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+206,7ysdut3q,,0,0,24,,,,0,,,0.0,206,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+207,lgnvs597,,0,0,24,,,,0,,,0.0,207,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+208,4vd0dxtq,,0,0,24,,,,0,,,0.0,208,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+209,tvng7k9j,,0,0,24,,,,0,,,0.0,209,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+210,u5sbo8h8,,0,0,24,,,,0,,,0.0,210,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+211,m3u6afqr,,0,0,24,,,,0,,,0.0,211,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+212,mx7d11e7,,0,0,24,,,,0,,,0.0,212,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+213,q2v1te31,,0,0,24,,,,0,,,0.0,213,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+214,23tqw0rs,,0,0,24,,,,0,,,0.0,214,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+215,gkkjt4dm,,0,0,24,,,,0,,,0.0,215,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+216,az5wubfn,,0,0,24,,,,0,,,0.0,216,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+217,qefn0us6,,0,0,24,,,,0,,,0.0,217,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+218,dldpzy6k,,0,0,24,,,,0,,,0.0,218,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+219,l4u30i13,,0,0,24,,,,0,,,0.0,219,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+220,q03z3j91,,0,0,24,,,,0,,,0.0,220,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+221,a8ir6xfx,,0,0,24,,,,0,,,0.0,221,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+222,yt816mkk,,0,0,24,,,,0,,,0.0,222,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+223,fu9j2nja,,0,0,24,,,,0,,,0.0,223,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+224,qas5g6vd,,0,0,24,,,,0,,,0.0,224,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+225,9ubn528w,,0,0,24,,,,0,,,0.0,225,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+226,x9es7xns,,0,0,24,,,,0,,,0.0,226,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+227,t3c5uw0h,,0,0,24,,,,0,,,0.0,227,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+228,v26sf7cr,,0,0,24,,,,0,,,0.0,228,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+229,qi2ozrxw,,0,0,24,,,,0,,,0.0,229,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+230,r77dwlxj,,0,0,24,,,,0,,,0.0,230,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+231,js8m8h7i,,0,0,24,,,,0,,,0.0,231,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+232,z2lq51lz,,0,0,24,,,,0,,,0.0,232,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+233,l3717s6x,,0,0,24,,,,0,,,0.0,233,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+234,qvxwuvvl,,0,0,24,,,,0,,,0.0,234,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+235,667n2n0n,,0,0,24,,,,0,,,0.0,235,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+236,0yhw8ru7,,0,0,24,,,,0,,,0.0,236,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+237,brlqxw5r,,0,0,24,,,,0,,,0.0,237,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+238,so6lp2d5,,0,0,24,,,,0,,,0.0,238,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+239,nnkwz3d3,,0,0,24,,,,0,,,0.0,239,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+240,o9erziq3,,0,0,24,,,,0,,,0.0,240,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+241,snwui0os,,0,0,24,,,,0,,,0.0,241,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+242,rm6pzg1n,,0,0,24,,,,0,,,0.0,242,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+243,e4qr6jwx,,0,0,24,,,,0,,,0.0,243,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+244,g4azszo6,,0,0,24,,,,0,,,0.0,244,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+245,54ef7w2q,,0,0,24,,,,0,,,0.0,245,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+246,ri3hp5kr,,0,0,24,,,,0,,,0.0,246,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+247,hi9kbxvi,,0,0,24,,,,0,,,0.0,247,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+248,6lz8u2dz,,0,0,24,,,,0,,,0.0,248,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+249,kgy3y9rp,,0,0,24,,,,0,,,0.0,249,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+250,8omz1523,,0,0,24,,,,0,,,0.0,250,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+251,ie27asyv,,0,0,24,,,,0,,,0.0,251,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+252,oar7dg5j,,0,0,24,,,,0,,,0.0,252,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+253,8efejnix,,0,0,24,,,,0,,,0.0,253,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+254,7bi9lxav,,0,0,24,,,,0,,,0.0,254,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+255,n9wz87tj,,0,0,24,,,,0,,,0.0,255,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+256,2at3hxg1,,0,0,24,,,,0,,,0.0,256,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+257,c6uzeygc,,0,0,24,,,,0,,,0.0,257,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+258,7tje42xz,,0,0,24,,,,0,,,0.0,258,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+259,o2zk8p9n,,0,0,24,,,,0,,,0.0,259,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+260,nw2xku3n,,0,0,24,,,,0,,,0.0,260,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+261,3eh4nxz6,,0,0,24,,,,0,,,0.0,261,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+262,4kmn3a86,,0,0,24,,,,0,,,0.0,262,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+263,fqbxfndw,,0,0,24,,,,0,,,0.0,263,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+264,e2bxgiww,,0,0,24,,,,0,,,0.0,264,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+265,fkz8lnd2,,0,0,24,,,,0,,,0.0,265,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+266,fz05b6hv,,0,0,24,,,,0,,,0.0,266,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+267,yxhk5foj,,0,0,24,,,,0,,,0.0,267,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+268,ef1tf9z2,,0,0,24,,,,0,,,0.0,268,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+269,4uce8egy,,0,0,24,,,,0,,,0.0,269,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+270,ax2g8h95,,0,0,24,,,,0,,,0.0,270,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+271,dyliwv8q,,0,0,24,,,,0,,,0.0,271,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+272,277sbbr8,,0,0,24,,,,0,,,0.0,272,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+273,hr4rdwt1,,0,0,24,,,,0,,,0.0,273,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+274,uiuw9ws3,,0,0,24,,,,0,,,0.0,274,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+275,j585gykq,,0,0,24,,,,0,,,0.0,275,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+276,ufkswnvv,,0,0,24,,,,0,,,0.0,276,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+277,ccwu15nu,,0,0,24,,,,0,,,0.0,277,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+278,95sl2ouo,,0,0,24,,,,0,,,0.0,278,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+279,cwcuf05a,,0,0,24,,,,0,,,0.0,279,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+280,f45gz5sh,,0,0,24,,,,0,,,0.0,280,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+281,r34ybke3,,0,0,24,,,,0,,,0.0,281,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+282,39m0dwwb,,0,0,24,,,,0,,,0.0,282,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+283,b8lhqinz,,0,0,24,,,,0,,,0.0,283,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+284,jc9nxg9q,,0,0,24,,,,0,,,0.0,284,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+285,ijk5y9mk,,0,0,24,,,,0,,,0.0,285,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+286,5741uvnw,,0,0,24,,,,0,,,0.0,286,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+287,ezttzl40,,0,0,24,,,,0,,,0.0,287,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+288,p5i660pk,,0,0,24,,,,0,,,0.0,288,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+289,ixjajjjd,,0,0,24,,,,0,,,0.0,289,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+290,m8zte8ai,,0,0,24,,,,0,,,0.0,290,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+291,if84884q,,0,0,24,,,,0,,,0.0,291,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+292,i5r37z6u,,0,0,24,,,,0,,,0.0,292,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+293,62zxu63j,,0,0,24,,,,0,,,0.0,293,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+294,yt8qdxrm,,0,0,24,,,,0,,,0.0,294,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+295,3rm597s1,,0,0,24,,,,0,,,0.0,295,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+296,mye2daj3,,0,0,24,,,,0,,,0.0,296,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+297,8du6ocew,,0,0,24,,,,0,,,0.0,297,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+298,poo7uaji,,0,0,24,,,,0,,,0.0,298,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+299,bi860uv4,,0,0,24,,,,0,,,0.0,299,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+300,0kwqthgn,,0,0,24,,,,0,,,0.0,300,,0.0,,,,,,,,,1,1,qd0ydl2t,,,,,0
+1,eseupx9v,5ba292385301b80001c71ba2,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:26.031360,1,,,10.0,1,,0.0,They get to keep their payoffs as well.,48,male,3,engineer,full,4,4,1,1,al9gerxp,,,,,0
+2,7nnt8cnw,610325a6052741bbfb84bcd1,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:26.321303,1,,,10.0,2,,0.0,The computer keeps the money for itself ,25,female,1,na,part,3,2,1,1,al9gerxp,,,,,0
+3,6jbjtley,615f54a5141128cf81b7e857,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:26.810111,1,,,5.0,3,,0.0,It would go towards their bonus as opposed to others.,26,male,2,engineer,no,3,3,1,1,al9gerxp,,,,,0
+4,larnh907,5fb3d71c3144730009fe4a7b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:31.084867,1,,,7.0,4,,0.0,It goes to the computer or the operator of the computer. ,52,female,2,other,no,3,3,1,1,al9gerxp,,,,,0
+5,esp622n7,567dd32b4f0ef30006dbb718,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:33.476431,1,,,15.0,5,,0.0,It says the payoffs are given to the programmers,54,female,3,engineer,full,3,2,1,1,al9gerxp,,,,,0
+6,evy424nl,5c2fcd716ea6880001dc8e3d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:33.974607,1,,,0.0,6,,0.0,they keep them for themself.,58,female,1,na,full,3,3,1,1,al9gerxp,,,,,0
+7,ly1etsgq,6016f95c56f32e8df6e841af,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:34.366010,1,,,9.0,7,,0.0,In my case the computer was my partner and it accepted my offer.,32,male,2,other,full,3,3,1,1,al9gerxp,,,,,0
+8,3yje8zd1,61087e4fc006ee7d6be38641,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:34.572804,1,,,10.0,8,,0.0,I don't think there is another participant,27,male,2,engineer,full,2,3,1,1,al9gerxp,,,,,0
+9,p0t5epzi,5e9f70a9eec34b1108c84413,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:35.305548,1,,,11.0,9,,0.0,"I would assume nothing, since it was a payoff given to a computer.",31,male,2,other,full,2,2,1,1,al9gerxp,,,,,0
+10,2538q0fm,613443bb8a6a4d961ffcd917,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:35.666770,1,,,15.0,10,,0.0,I think that nothing happens to the payoffs earned by the other participant because its a bot and the payoffs are never made.,20,female,1,natural,no,3,3,1,1,al9gerxp,,,,,0
+11,s4z776we,5f0fab5abdec9a1aff2b2744,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:36.553408,1,,,10.0,11,,0.0,"I think some points go to the participant, but not all. ",31,female,2,other,full,3,3,1,1,al9gerxp,,,,,0
+12,kegfujam,5dd55652f30aa650f027e1c2,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-14 18:25:36.794305,1,,,0.0,12,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+13,vmf5iv1u,5dcea7314d51e4107516c80d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:37.341988,1,,,10.0,13,,0.0,"It's just a computer so it's hard to say.  Maybe the owner of the computer gets it, or the manufacturer?  Or the payoffs just don't happen.",53,female,2,other,no,1,2,1,1,al9gerxp,,,,,0
+14,0dcb0nhg,6060bdd2935a3eb3bdcdb835,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:37.652566,1,,,12.0,14,,0.0,Participant receives the payoff.,56,female,3,other,full,3,2,1,1,al9gerxp,,,,,0
+15,ikx1ez2i,59f226a9d6380600018b2923,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:37.894731,1,,,12.0,15,,0.0,I don't know,57,female,1,na,full,3,3,1,1,al9gerxp,,,,,0
+16,ig6cjryp,60fdfd265d53f620ef2c3929,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:37.952762,1,,,14.0,16,,0.0,I think nothing happens to it.,21,female,1,engineer,part,3,2,1,1,al9gerxp,,,,,0
+17,ezwdxl7r,600673836848dc9fb0e79785,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:38.095924,1,,,10.0,17,,0.0,Given to nobody since participant 2 was a computer.,25,female,3,med,no,3,2,1,1,al9gerxp,,,,,0
+18,gznighs1,6042d4d08ec254253f0865b8,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:38.599981,1,,,8.0,18,,0.0,No idea,52,male,1,na,no,4,2,1,1,al9gerxp,,,,,0
+19,83wzcwaw,614fb4cad115bf288f786dee,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:39.756950,1,,,13.0,19,,0.0,"The computer keeps the money it earns, no one gets it.",30,female,2,other,full,1,3,1,1,al9gerxp,,,,,0
+20,ychot3ny,6095e4f37b49956d05961a4b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:40.514033,1,,,10.0,20,,0.0,"Since the other participant was a computer, I assume it just stays in your research account.",33,male,3,politics,full,3,2,1,1,al9gerxp,,,,,0
+21,qfpydu4r,61035836646fb6ee2152f950,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:41.270087,1,,,8.0,21,,0.0,They are virtual only and are not actually paid out.,27,male,2,other,full,3,1,1,1,al9gerxp,,,,,0
+22,phbhqfsb,5658000ca9872d0011e1ba26,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:42.311592,1,,,14.0,22,,0.0,They receive them as a bonus payment. ,32,male,1,na,no,0,3,1,1,al9gerxp,,,,,0
+23,ejn1ysc6,615f2b3f0eafbabe579b889a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:42.445643,1,,,11.0,23,,0.0,i got the reasonable payment ,32,male,2,other,full,3,4,1,1,al9gerxp,,,,,0
+24,trcs7j7e,5e3309ad239ceb2d47d47c4a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:42.437764,1,,,20.0,24,,0.0,the participant is a computer so it's not real,49,female,1,na,full,2,2,1,1,al9gerxp,,,,,0
+25,wqqasgph,6019944a6de5a00dff9c8a32,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:42.697219,1,,,9.0,25,,0.0,The amount is trippled and then based on the amount decides how much to give back,24,male,2,other_social,no,2,3,1,1,al9gerxp,,,,,0
+26,mlu7h7wj,5eaff2eac963900392c6dc48,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:44.903838,1,,,17.0,26,,0.0,"In the case of the ""computer"" the researcher keeps the funds.",33,male,1,other,full,2,2,1,1,al9gerxp,,,,,0
+27,28g4b13b,59ff47d47ecfc50001be0555,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:45.062000,1,,,5.0,27,,0.0,It's a computer so nothing,41,male,3,engineer,full,3,4,1,1,al9gerxp,,,,,0
+28,nehppf8l,610978200236b59da80571e7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:47.747532,1,,,11.0,28,,0.0,It is a bonus for playing the game.,32,female,2,other,no,1,0,1,1,al9gerxp,,,,,0
+29,eil4qa24,5bdf513338109a0001f474c8,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:50.667798,1,,,13.0,29,,0.0,Nothing,56,male,1,na,full,2,3,1,1,al9gerxp,,,,,0
+30,22da6iab,60ff2fc7ff799a89b38e6adc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:50.772654,1,,,12.0,30,,0.0,I think the payoffs earned by the other participant is the same as my payoffs,22,female,2,psych,no,0,2,1,1,al9gerxp,,,,,0
+31,i1otl5c2,614fe903e5acda6e19a9bc39,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:51.595857,1,,,9.0,31,,0.0,I don't think anything happens with the payoffs earned by the other particpant. ,44,female,2,psych,part,2,2,1,1,al9gerxp,,,,,0
+32,a4xr4zmg,60e5eceb989f38c746723024,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:55.479832,1,,,0.0,32,,0.0,They get to keep them for themselves.,40,male,3,econ,full,3,3,1,1,al9gerxp,,,,,0
+33,11m5i1k5,5c40bb8880392f00015e8910,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:56.550667,1,,,0.0,33,,0.0,"I do not understand the question. If the other participant is the computer, then nothing",54,female,1,na,no,0,2,1,1,al9gerxp,,,,,0
+34,devkh3ii,60fd01cc86bb3e402db85e93,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:58.584507,1,,,7.0,34,,0.0,Probably nothing since it is a computer.,34,female,1,na,full,1,1,1,1,al9gerxp,,,,,0
+35,lnbelsab,5c2789fc1694480001e4c4e3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:00.933914,1,,,5.0,35,,0.0,Nothing.  The other participant was a computer.,38,male,1,na,no,1,2,1,1,al9gerxp,,,,,0
+36,8vnsi815,61520150b24df0af47d5c7f3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:11.385063,1,,,5.0,36,,0.0,I think it's an experiment and it is ignored (no one really gets that amount).  My goal was to ensure I got something more than nothing :),54,male,2,engineer,full,4,3,1,1,al9gerxp,,,,,0
+37,0xnwye6m,5c55fec09fcbc40001dc50b5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:11.906319,1,,,4.0,37,,0.0,"The computer (the other participant) keeps them, and perhaps buy itself a CPU or memory upgrade?",45,male,1,na,part,3,3,1,1,al9gerxp,,,,,0
+38,fhrvmznt,6170406b453e66204b8beed3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:24.208741,1,,,3.0,38,,0.0,The amount is used between the computer and another participant.,20,female,1,na,full,4,4,1,1,al9gerxp,,,,,0
+39,e710zhrj,5c748b9188fdc20017c60436,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:27.360042,1,,,5.0,39,,0.0,The payoff isn't received since it is a computer acting as the other participant.,26,male,2,econ,full,3,4,1,1,al9gerxp,,,,,0
+40,frqafgqg,60d79f82b917a3cfd6643432,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:32.278407,1,,,3.0,40,,0.0,It goes to someone else,19,male,1,engineer,no,4,4,1,1,al9gerxp,,,,,0
+41,qgoxwwit,5dd9f0e719eecb97dfab7b48,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:32.313787,1,,,0.0,41,,0.0,I don't really think there was a payoff.  I think the computer would have been lower regardless off the number I picked.,46,male,1,na,no,2,2,1,1,al9gerxp,,,,,0
+42,bz6yp0tj,60306cf6330619ee41fa3cd2,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:47.890660,1,,,7.0,42,,0.0,Since it was a computer I believe it went away,30,male,2,politics,full,1,4,1,1,al9gerxp,,,,,0
+43,5ymfkirn,5fce2f690262d007e3ceec0a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:27:15.248500,1,,,8.0,43,,0.0,"Hopefully, the money will go to a charity or some positive organization. ",22,female,1,med,no,2,3,1,1,al9gerxp,,,,,0
+44,55uj91hu,5fec956243c578e38ad84250,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:27:17.000944,1,,,7.0,44,,0.0,"If you mean by the computer, I think that payoff goes back to Victor Klockmann's organization and will be used for further research in the future.",40,male,1,na,full,0,2,1,1,al9gerxp,,,,,0
+45,hw3o7ooo,5f4d40ca75b5258bf5af8cca,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:27:27.262808,1,,,5.0,45,,0.0,not sure,39,female,1,na,full,2,2,1,1,al9gerxp,,,,,0
+46,gx7fw3oy,610767787cedfee7eb040a80,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:27:47.225933,1,,,7.0,46,,0.0,No idea,35,male,4,other_social,full,4,2,1,1,al9gerxp,,,,,0
+47,pozacd2p,5c872cded9fe700001024123,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:25.653912,1,,,4.0,47,,0.0,Measure the level of empathy and interest of each participant.,36,male,4,econ,full,2,3,1,1,al9gerxp,,,,,0
+48,w34hut9l,5b9b0f12d1ff7a00013b3b8a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:30.906723,1,,,8.0,48,,0.0,I dont think they go anywhere at all,32,male,2,other,full,1,2,1,1,al9gerxp,,,,,0
+49,2vcbpzk7,5c0ddc894bc2690001b67bd0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:31.382498,1,,,0.0,49,,0.0,I think the other participant probably also said they were willing to accept 5 and nothing lower. I don't think either of us got a bonus. ,36,female,2,other,full,3,4,1,1,al9gerxp,,,,,0
+50,5syc80nb,5c33ccf9377d960001044af0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:33.363176,1,,,2.0,50,,0.0,I think that the payoff was small.,48,male,2,other,full,4,4,1,1,al9gerxp,,,,,0
+51,r459pzy2,60a7d8b0fc03b8046e42b211,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:34.975195,1,,,0.0,51,,0.0,It gets sent to the computer's programmer.,38,male,3,engineer,full,3,3,1,1,al9gerxp,,,,,0
+52,52ltqnj2,614ee347a57616853a7b1356,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:35.069785,1,,,7.0,52,,0.0,nothing,46,female,1,other,no,3,2,1,1,al9gerxp,,,,,0
+53,wqiz6dda,60121fca666552254559110d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:36.218673,1,,,14.0,53,,0.0,I suppose the other participant holds these payoffs and gives them to the next participant that plays the game.,20,female,1,med,no,3,3,1,1,al9gerxp,,,,,0
+54,i7t9uesp,610c46ec070a815a79afe046,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:38.261887,1,,,10.0,54,,0.0,I think the money is just reinvested into something else related to the study. ,33,female,3,other_social,full,3,2,1,1,al9gerxp,,,,,0
+55,e8w6xg9u,5bbc18010cb04c00015025ce,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:39.486008,1,,,4.0,55,,0.0,I think it is kept for the research budget ,33,female,1,na,full,2,3,1,1,al9gerxp,,,,,0
+56,t7167c6k,5c509cad3e4c8400010ac228,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:39.567863,1,,,10.0,56,,0.0,I'm not sure what a computer could do with a payoff.  My guess is that it doesn't go anywhere and goes to waste.,37,male,1,other,full,1,2,1,1,al9gerxp,,,,,0
+57,8t8anjpb,60fdaf0e27b6ed924e1a28d0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:39.956840,1,,,5.0,57,,0.0,it gets trippled,28,female,2,other,no,1,0,1,1,al9gerxp,,,,,0
+58,zfa80s5i,5ec6d423fc10270f0bbbc90e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:42.326342,1,,,11.0,58,,0.0,"Since I was playing a computer, nothing happened with the points the computer received and did not send back.",35,female,3,natural,no,1,2,1,1,al9gerxp,,,,,0
+59,7d3ogrpx,614e8940d8d08d51a2785582,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:42.503080,1,,,12.0,59,,0.0,Payoffs are paid out to the participants as indicated in the instructions,45,male,2,other,full,3,3,1,1,al9gerxp,,,,,0
+60,i2c584zz,5ececb180ce9a12d14704ef5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:43.794067,1,,,10.0,60,,0.0,i think they are same as mine,20,male,1,na,full,1,2,1,1,al9gerxp,,,,,0
+61,skfe3lea,5e8b0faa3d71b07b69ef26f4,0,23,24,survey,Survey,2021-12-14 18:29:44.609616,1,,,5.0,61,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+62,9iiwpzt3,5d9f8573ce3daf0015e3e400,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:45.050732,1,,,10.0,62,,0.0,"Since the other participant is a computer, the payoffs would not be paid out.",30,male,2,econ,full,1,3,1,1,al9gerxp,,,,,0
+63,8i6522pf,60feb1a03c29d23a1476520f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:45.184618,1,,,5.0,63,,0.0,Goes back into a pot,24,female,2,other,part,1,3,1,1,al9gerxp,,,,,0
+64,e1p74p4t,6108103e7cdaf6c911ee5c4c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:47.721712,1,,,8.0,64,,0.0,They are rewarded and so are you,45,female,2,other_social,full,2,2,1,1,al9gerxp,,,,,0
+65,gr26jgv5,55e7b91341988f000575d6b5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:48.932304,1,,,13.0,65,,0.0,"I assume the computer keeps the money it earns for itself, as was said in the study. ",35,female,3,other,full,3,2,1,1,al9gerxp,,,,,0
+66,plf8cokx,5e5e5b2488479216d9171d1b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:49.470880,1,,,10.0,66,,0.0,I don't think there are actual payoffs to another participant.,57,female,4,med,no,3,1,1,1,al9gerxp,,,,,0
+67,xfmovl3c,61099736cede2ad0e1b3ba78,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:49.628782,1,,,13.0,67,,0.0,Hopefully they receive them and use them for something that makes them happy!,33,female,2,other,part,0,2,1,1,al9gerxp,,,,,0
+68,wwimoh43,611eb5db46ee495d60b16aae,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:50.030351,1,,,5.0,68,,0.0,I assume the computer saves it for another participant.,46,other,2,other,no,3,2,1,1,al9gerxp,,,,,0
+69,7dmi0lnt,5c27e76978fad500019328cc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:50.074273,1,,,10.0,69,,0.0,"Since it was a computer, I would think they go nowhere or back to the organizers of this study.",37,male,3,other,full,3,3,1,1,al9gerxp,,,,,0
+70,08s8soqb,603e86969a3fd3ec23e64a13,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:50.487019,1,,,15.0,70,,0.0,"The other participant is a computer, so I believe the payoffs go back into the lump sum of money used to fund this experiment.",38,female,2,psych,full,3,4,1,1,al9gerxp,,,,,0
+71,h0duyyfk,5ddd675deb3973cbee9e415c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:51.007308,1,,,6.0,71,,0.0,They will probably be spent,26,male,2,econ,full,2,2,1,1,al9gerxp,,,,,0
+72,70qyu6xu,593ab35d51244c00013dcb69,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:53.404768,1,,,10.0,72,,0.0,"I think they are imaginary, and don't actually result in a payoff.",56,male,2,other,part,2,2,1,1,al9gerxp,,,,,0
+73,6ghi2wzl,5c347cb8bef9a20001e30950,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:53.747972,1,,,5.0,73,,0.0,I am assuming it is saved because the other participant was a computer,39,male,2,other,full,3,3,1,1,al9gerxp,,,,,0
+74,9tja34ot,5f357a52ddc87914266543e3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:53.776974,1,,,4.0,74,,0.0,Im not sure.,18,female,1,na,no,3,3,1,1,al9gerxp,,,,,0
+75,acd7k1h5,6102d5e6ff92a8dd0cce6b8f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:54.660364,1,,,14.0,75,,0.0,It will sent to their account.,35,male,4,law,full,0,4,1,1,al9gerxp,,,,,0
+76,xvrl1kqh,61380e91fdd449e05017e8ac,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:54.981897,1,,,11.0,76,,0.0,It gets added to their prolific account,20,male,1,other,no,0,1,1,1,al9gerxp,,,,,0
+77,ctog2b89,5fd1a05738899d1bab2798ec,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:56.976851,1,,,10.0,77,,0.0,Goes back into the study pool.,27,female,2,natural,no,3,3,1,1,al9gerxp,,,,,0
+78,lo91mjw1,5e8eab0540aaf41584d9b1b9,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:56.982289,1,,,17.0,78,,0.0,The other participant was a computer so nothing?,33,female,1,na,part,3,2,1,1,al9gerxp,,,,,0
+79,vw3mccxt,5d1e5ece2e9ac30016b522c5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:58.286237,1,,,0.0,79,,0.0,They got to keep them.,35,female,2,other_social,full,3,3,1,1,al9gerxp,,,,,0
+80,h8r46rqn,6111782b298eff6c31853ea8,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:59.001954,1,,,5.0,80,,0.0,Goes to a charity,26,female,2,natural,full,3,3,1,1,al9gerxp,,,,,0
+81,wiobcsgn,5cb553b7a0ccb30017e5b617,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:01.430075,1,,,9.0,81,,0.0,The other participant was a computer in my situation so nothing happens with that payoff.,60,female,2,other,full,3,3,1,1,al9gerxp,,,,,0
+82,wi7ivi90,5d63867550d0dd0017805976,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:01.955874,1,,,4.0,82,,0.0,the researcher keeps them,38,male,2,other,full,3,4,1,1,al9gerxp,,,,,0
+83,nte5w51a,5c01d3c509e9c70001500b10,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:03.059230,1,,,0.0,83,,0.0,"If they reject the offer, they will not earn anything",28,female,2,other,full,1,4,1,1,al9gerxp,,,,,0
+84,ceopj5bn,5f5e32a0d6a12c6857b8e127,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:03.529940,1,,,11.0,84,,0.0,They disappear since the other participant is not human.,25,male,1,na,full,3,4,1,1,al9gerxp,,,,,0
+85,dwppgoma,60bd784514215b77d2a0f4d8,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:04.909271,1,,,5.0,85,,0.0,I think he or she earned the 5 points the computer earned.,39,male,2,other,full,3,3,1,1,al9gerxp,,,,,0
+86,qetidtam,5f3e5e066dfaa70464615447,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:05.285753,1,,,6.0,86,,0.0,nothing,45,female,3,other,full,4,4,1,1,al9gerxp,,,,,0
+87,ohzm5sti,61158574ed206f98ac50dba7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:07.716703,1,,,5.0,87,,0.0,Nobody gets the payoff,23,female,3,engineer,no,4,4,1,1,al9gerxp,,,,,0
+88,zn3rnk7e,5d586fdc8200f50001f03a0e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:07.961656,1,,,9.0,88,,0.0,na,33,male,2,med,full,4,4,1,1,al9gerxp,,,,,0
+89,qgk47hmk,60d3740f31606cb50e49f00c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:09.705197,1,,,12.0,89,,0.0,I assume they're distributed to other participants in other surveys,30,male,2,natural,full,1,2,1,1,al9gerxp,,,,,0
+90,mqbxki1l,58d069219dbe3f0001258793,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:12.543831,1,,,7.0,90,,0.0,I am unsure. ,42,male,1,other,full,2,3,1,1,al9gerxp,,,,,0
+91,u2zf7piq,57dd766bbcd7150001ded5de,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:18.846109,1,,,0.0,91,,0.0,Not sure honestly but given that it was a computer it influenced me to accept 6 and no lower.  If it were a human I would have accepted 5 at minimum. ,53,male,2,other,full,1,2,1,1,al9gerxp,,,,,0
+92,4h3wiu11,6107d9c1e9a66a284ebcb9d3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:35.276693,1,,,4.0,92,,0.0,They would get that amount.,27,female,2,natural,full,2,2,1,1,al9gerxp,,,,,0
+93,qthawos1,583b397f54686200010f1d20,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:38.934432,1,,,9.0,93,,0.0,"They may be donated since the computer cant use money, or the money will go towards other research. ",49,female,2,law,full,4,4,1,1,al9gerxp,,,,,0
+94,9jsclvod,6108d6efa698e3dbe3b313d3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:32:17.975470,1,,,5.0,94,,0.0,they will be credited just like i got credited too,29,male,2,natural,full,3,3,1,1,al9gerxp,,,,,0
+95,qgk9xdvo,6110d7f556da416401efdd5f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:48.458408,1,,,10.0,95,,0.0,"Nothing, since it's not a physical person.",23,female,2,natural,part,3,3,1,1,al9gerxp,,,,,0
+96,zrxt1gpi,610e02ecfec09b71ff681d86,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:49.695203,1,,,2.0,96,,0.0,"Nothing, because it's a computer",25,female,3,other_social,full,3,1,1,1,al9gerxp,,,,,0
+97,ua0weqv6,60ef5b83e2e741ea6d220c92,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:51.334585,1,,,7.0,97,,0.0,Goes into the void,18,female,1,econ,part,3,2,1,1,al9gerxp,,,,,0
+98,uetkh54g,5edaa52a54fe056e4bc55408,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:51.525869,1,,,0.0,98,,0.0,The other participant receives the money that the computer kept. ,48,female,4,other_social,full,2,2,1,1,al9gerxp,,,,,0
+99,03zp6r29,614e220aee4e0bd0529d6edd,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:51.601759,1,,,6.0,99,,0.0,Maybe then can accept what Participant 1 chose or accept a random amount.,44,male,3,natural,full,3,3,1,1,al9gerxp,,,,,0
+100,ak1avl0v,5ff8b291840bed124061d389,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:51.874732,1,,,10.0,100,,0.0,"nothing, it's a computer",40,female,2,engineer,full,3,2,1,1,al9gerxp,,,,,0
+101,km7kzcht,615628f39024e679836b778b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:52.432361,1,,,10.0,101,,0.0,I honestly am not sure or have an idea.,26,female,2,other_social,full,1,2,1,1,al9gerxp,,,,,0
+102,8g2zgj51,5fd298b32f6cb7062fd9aea0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:53.320062,1,,,8.0,102,,0.0,It goes to the other participant.,37,female,1,na,full,3,4,1,1,al9gerxp,,,,,0
+103,87qpj1mn,5e4e844553bc702cdf68404d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:54.343896,1,,,5.0,103,,0.0,I think the payoff will go towards programming. ,22,female,1,other,no,3,3,1,1,al9gerxp,,,,,0
+104,hfdwsdh4,5b7cbe9db630cf000125dffe,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:55.570377,1,,,10.0,104,,0.0,"I believe they would, if human, get them as a bonus. ",26,male,2,other,full,3,4,1,1,al9gerxp,,,,,0
+105,f3lq0z3k,5ea48ae3461d1044f2d282cc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:57.089437,1,,,4.0,105,,0.0,The other participant was a computer - I expect no actual payoff will go to the computer. ,57,male,2,other,full,3,2,1,1,al9gerxp,,,,,0
+106,cjgrkyo9,5e38823f0d70ef099d5e5a56,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:57.133201,1,,,10.0,106,,0.0,The payoffs earned by the other participant are paid at the end of the survey.,41,female,2,other,full,3,2,1,1,al9gerxp,,,,,0
+107,mrl767pe,60feed0aea95a63cd3aade71,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:58.366563,1,,,8.0,107,,0.0,The other participant earns the payoff,26,female,2,other_social,full,1,1,1,1,al9gerxp,,,,,0
+108,c9gvdtgq,5f4d2e57030fef9b371373a5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:58.661624,1,,,10.0,108,,0.0,Go back into the budget,36,male,2,econ,full,3,4,1,1,al9gerxp,,,,,0
+109,57vvd46k,60fd9f121d7dd0dbad241575,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:58.833322,1,,,14.0,109,,0.0,the other participant keeps it or it goes to the study,19,female,1,other,no,0,2,1,1,al9gerxp,,,,,0
+110,s0z6a4b8,60bd28cc95ab27d4f4f6ada3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:59.146110,1,,,11.0,110,,0.0,nothing,54,male,4,other,full,4,2,1,1,al9gerxp,,,,,0
+111,rij5kh66,602a86bb76d5ee0770e1943d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:00.929167,1,,,7.0,111,,0.0,"I think that they get the payoff that they got out of the exchange, like I did.",33,female,1,na,full,3,4,1,1,al9gerxp,,,,,0
+112,4yno2nsq,5f4fe40c4af6f3120ff17532,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-14 18:35:01.068234,1,,,0.0,112,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+113,dmj4v2y9,5c12f106c4b80e000192c472,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:01.110900,1,,,10.0,113,,0.0,I really don't care what happens to their payoffs. ,60,female,2,other,no,3,3,1,1,al9gerxp,,,,,0
+114,hee9d6x9,5f902184d7badd065adb604b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:01.991822,1,,,5.0,114,,0.0,stays with researchers,40,male,2,natural,no,0,2,1,1,al9gerxp,,,,,0
+115,j5zwkkoc,6172378d423fdf1acdc2d212,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:03.694806,1,,,6.0,115,,0.0,They had the same outcome,23,male,2,econ,full,2,2,1,1,al9gerxp,,,,,0
+116,6y1n17ev,5f2b0d992bd6f94c51adeac4,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:03.753476,1,,,5.0,116,,0.0,They probably get invested so that's why they tripled,27,male,2,psych,full,4,3,1,1,al9gerxp,,,,,0
+117,mjsfm4vn,60bcfa3d9cfc3d429181e927,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:03.648543,1,,,9.0,117,,0.0,i have no idea,19,male,2,engineer,full,3,3,1,1,al9gerxp,,,,,0
+118,wnxj5k2m,5c57ab1509864e0001361c74,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:04.127548,1,,,13.0,118,,0.0,I think the payoffs earned by the other participants will be a fair amount and benefit them. ,23,female,2,other,full,2,2,1,1,al9gerxp,,,,,0
+119,yfobxqo6,5f7785e49588a42e71b2466a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:04.641961,1,,,14.0,119,,0.0,I think it just disappears. It doesn't go anywhere.,25,female,2,other,no,1,2,1,1,al9gerxp,,,,,0
+120,6fzbwt13,5bc9f8b677740000016a08b5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:05.144251,1,,,14.0,120,,0.0,nothing because the person is a robot,46,female,2,other_social,full,1,3,1,1,al9gerxp,,,,,0
+121,vzb872hp,6109482350367148ce0aa834,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:05.614445,1,,,10.0,121,,0.0,I have no idea,27,female,1,na,full,3,3,1,1,al9gerxp,,,,,0
+122,x6xqh33z,6101667971d68405d105698a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:05.951441,1,,,9.0,122,,0.0,"I honestly have no idea what happened in this study. I thought it was going to be much more involved that it was, but it was very simple. I was not even aware of which player I was. I do not think this survey was very user-friendly.",28,female,3,other_social,full,2,2,1,1,al9gerxp,,,,,0
+123,e82c1oj5,615fad239fd8b6f7c048057a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:06.315658,1,,,14.0,123,,0.0,I think the payoffs earned by the other participant just goes away,35,male,1,na,full,3,2,1,1,al9gerxp,,,,,0
+124,e8xicilf,5e46f490a5748507c57e3c5f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:06.952246,1,,,0.0,124,,0.0,I think the participant wanted to keep all of the payoffs,41,male,2,engineer,full,3,1,1,1,al9gerxp,,,,,0
+125,wql1znsf,60fcb2b45504d8488ab13968,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:08.577601,1,,,11.0,125,,0.0,no idea,25,female,2,psych,full,1,2,1,1,al9gerxp,,,,,0
+126,0ax8av86,5e71a80784155f0c75a56c70,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:08.863976,1,,,13.0,126,,0.0,They were given back for future trials,26,female,2,natural,full,3,2,1,1,al9gerxp,,,,,0
+127,9tu3pusy,61003d8f50af08227da7fd77,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:09.232005,1,,,12.0,127,,0.0,The other participant will also earn their payoff if they guess the amount sent by the other player correctly.,20,female,1,other,part,1,1,1,1,al9gerxp,,,,,0
+128,m3tr0a56,5dbf704fa3f5cb40876271fc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:09.237891,1,,,5.0,128,,0.0,I think that the majority of choices of other participants will lead to an equal payout. ,31,female,1,na,no,2,2,1,1,al9gerxp,,,,,0
+129,hah22424,5dd3e5b66d52253c0e37e402,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:19.385520,1,,,13.0,129,,0.0,"the other participant is a computer, so I guess they don't get any money",49,female,2,other_social,no,1,1,1,1,al9gerxp,,,,,0
+130,x8faevzn,60b6938ae5e1bcc48326db9e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:25.763652,1,,,7.0,130,,0.0,"Nothing, since it was a computer",47,male,2,other,full,1,3,1,1,al9gerxp,,,,,0
+131,lxaus657,57dd186e6598aa0001992616,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:26.406621,1,,,4.0,131,,0.0,"I think nothing happens as it is a computer, so the researches keep it.",30,male,2,other,full,1,2,1,1,al9gerxp,,,,,0
+132,geyktwmh,5ee3a34e16ad19048aef74f6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:31.218658,1,,,5.0,132,,0.0,"Nothing, since it's a computer.",39,male,1,na,no,2,2,1,1,al9gerxp,,,,,0
+133,tn3f5k6t,604b9e6373c491acd8aec923,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:35.172093,1,,,5.0,133,,0.0,decision makin,42,male,2,other_social,full,3,0,1,1,al9gerxp,,,,,0
+134,ssnevi3r,61280902667000b761f45570,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:37.411535,1,,,4.0,134,,0.0,They receive .10 pounds per point,22,female,2,other,no,0,1,1,1,al9gerxp,,,,,0
+135,xi410quy,5fe17e28d8918b3fae67ec4d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:56.845825,1,,,2.0,135,,0.0,they made different decisions about what the computer would say ,42,male,1,other,part,2,2,1,1,al9gerxp,,,,,0
+136,hufrkryu,61095aa08fbfc362fd8c2f4b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:36:04.357669,1,,,5.0,136,,0.0,It goes to the programmer of the computer. ,22,female,1,natural,no,3,3,1,1,al9gerxp,,,,,0
+137,l3667ots,61230b14a3bcb65c585dfdaa,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:36:07.093120,1,,,0.0,137,,0.0,They keep the payoff.,36,female,2,other,full,3,4,1,1,al9gerxp,,,,,0
+138,c23h2j8o,6026d1eca0c0d1400dcfbbd6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:36:15.660201,1,,,8.0,138,,0.0,Nothing,22,other,2,other,part,1,2,1,1,al9gerxp,,,,,0
+139,nc354vqh,5dccb82a76eab294aa4837ff,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:36:50.025801,1,,,6.0,139,,0.0,"im not sure, the other participant was computer. ",50,male,1,na,no,1,3,1,1,al9gerxp,,,,,0
+140,a8ue9y7h,5ecd4acdb218ec085c6eefe6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:37:51.349117,1,,,0.0,140,,0.0,nothing happens with those points,33,male,2,other,full,1,3,1,1,al9gerxp,,,,,0
+141,ccdbc80c,5f981f8cf4b92c07ac93e2fe,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:18.404343,1,,,0.0,141,,0.0,it is kept in a pool,27,female,3,econ,full,4,4,1,1,al9gerxp,,,,,0
+142,12ov3vbd,5e0e1b8800a6bf000a694f79,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:29.686159,1,,,0.0,142,,0.0,I'm not sure.,28,female,2,other,full,1,1,1,1,al9gerxp,,,,,0
+143,zt4jd3ax,5eaf1a2c649fd108284c2b5f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:30.763967,1,,,9.0,143,,0.0,"I don't think they go to anyone, because the other participant is a computer.",46,female,4,natural,full,3,3,1,1,al9gerxp,,,,,0
+144,wdb32tbf,581649f0b434f0000184d2a9,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:30.867606,1,,,12.0,144,,0.0,Their ports would be translated in the same way mine would be and so that would be .60,28,female,2,other,full,1,2,1,1,al9gerxp,,,,,0
+145,vr6b29m5,60d105cd7e245d9c98c756ab,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:34.445852,1,,,7.0,145,,0.0,Nothing. It is a computer.,46,male,3,other,full,3,3,1,1,al9gerxp,,,,,0
+146,5lvad1tb,615c777509f34c8977bc45a7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:35.814583,1,,,9.0,146,,0.0,"I have no clue... It's a ""computer"" as you mentioned, so I would assume that means you keep the money.",32,male,2,other,full,4,4,1,1,al9gerxp,,,,,0
+147,1yus2ogp,5f2a12f5837dd81e5881b7cc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:37.166228,1,,,10.0,147,,0.0,Nothing. There is nothing paid to the other participant.,43,male,1,other,no,1,4,1,1,al9gerxp,,,,,0
+148,mxjtfgzf,5e2721b01160079464059b5c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:37.851699,1,,,9.0,148,,0.0,I think the other participant receives the payoff,29,female,2,other,no,0,1,1,1,al9gerxp,,,,,0
+149,ctebuutp,60fce0bedbae8b8996c93203,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:38.400253,1,,,0.0,149,,0.0,They are saved for a winner,20,female,1,other,no,2,2,1,1,al9gerxp,,,,,0
+150,308b5y2f,60fc7aac153cdd782a763977,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:38.595389,1,,,5.0,150,,0.0,I think the other portion of the pay goes towards the research. ,43,female,2,other,full,3,3,1,1,al9gerxp,,,,,0
+151,em74fxge,5d93b788fdfe9d001c00c255,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:39.230162,1,,,9.0,151,,0.0,i don't think the other participant is real,42,female,4,other_social,full,2,1,1,1,al9gerxp,,,,,0
+152,1rjk3das,5c05f6e5d30e3200016e1ed5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:40.183551,1,,,11.0,152,,0.0,I have no idea,30,male,2,other,part,2,3,1,1,al9gerxp,,,,,0
+153,d5rq2w1b,5fa4f94e535f3b1aa628e0ab,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:40.558583,1,,,9.0,153,,0.0,"It takes the split offered by the player, with each point being 10 cents. ",28,male,3,engineer,full,2,2,1,1,al9gerxp,,,,,0
+154,4m3ckn8q,5e861812b23b0a22ef59c4ee,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:42.060339,1,,,5.0,154,,0.0,"The computer gets to keep that amount. I thought we would change roles, however. Had I known there would only be one round, I probably would have kept the full 10.",31,female,2,natural,full,3,2,1,1,al9gerxp,,,,,0
+155,h4j1rgw7,5a8e54c9f49c9a0001f3dc3f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:43.545077,1,,,9.0,155,,0.0,I'm not sure what happens to these payoffs,29,female,2,natural,full,3,3,1,1,al9gerxp,,,,,0
+156,bblgraxb,614e028ecf892a8c9ba41c3f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:43.679447,1,,,8.0,156,,0.0,"Hmmm, they go back into the pot because the other participant is the computer and they can't earn anything.  ",47,female,3,other_social,full,3,3,1,1,al9gerxp,,,,,0
+157,3yjjmwhx,61003ee2373062aab4f83efc,0,5,24,dictator_robot,Instructions,2021-12-14 18:38:43.878691,1,,,0.0,157,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+158,b9tip70y,60ff10b949a92707f6fafe2c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:45.954908,1,,,9.0,158,,0.0,I don't believe anything will happen to the payoff that I decide the computer should recieve. I don't believe there is a programmer behind the so called computer player and that the other points will just disappear even though I was told they would be going to an actual person.,23,female,2,engineer,full,3,3,1,1,al9gerxp,,,,,0
+159,2xapqgdr,58a43e029a17120001d910d5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:46.362089,1,,,5.0,159,,0.0,I am not sure as the other participant is a computer. It just will stay with the institute.,38,female,1,na,full,3,2,1,1,al9gerxp,,,,,0
+160,mdhcub55,5be0f2c478a95e000186d639,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:46.880612,1,,,6.0,160,,0.0,other bonuses?,34,female,1,other,full,1,1,1,1,al9gerxp,,,,,0
+161,5mynsbqp,5e04b9be7adf4bf23f066a2a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:47.652457,1,,,9.0,161,,0.0,I was informed that the payoff would go to the person who programmed the computer.  ,51,male,2,natural,no,3,3,1,1,al9gerxp,,,,,0
+162,hzhy88gu,5f6388c21b14c5079764e750,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:47.490673,1,,,11.0,162,,0.0,"If I understand the question properly, I think the computer would have sent back 3 times the amount sent no matter what.",32,male,1,na,no,3,3,1,1,al9gerxp,,,,,0
+163,ubjfr8b6,592bb32c943e670001cde123,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:47.722598,1,,,9.0,163,,0.0,They keep that amount,36,male,2,other_social,full,3,3,1,1,al9gerxp,,,,,0
+164,180jmm8d,5dd33b9159b1b033ec2cf634,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:48.784971,1,,,7.0,164,,0.0,No idea,40,male,1,na,part,3,3,1,1,al9gerxp,,,,,0
+165,878c4u7g,5f15dc270a46a66f60691e4a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:49.451130,1,,,0.0,165,,0.0,They were forfeited and not paid to anyone,39,male,2,psych,full,4,3,1,1,al9gerxp,,,,,0
+166,7xq7hf6v,5eb1f6fc96a926357133cbb1,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:50.021395,1,,,4.0,166,,0.0,They don't do anything with them as it was a test.,29,female,2,other_social,part,1,3,1,1,al9gerxp,,,,,0
+167,zvyxooxp,5ae3563e5cd05500015ed96b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:50.733719,1,,,13.0,167,,0.0,They get a bonus,36,female,2,politics,full,2,2,1,1,al9gerxp,,,,,0
+168,8ispu3kr,611130b78c077f0127a0b9fc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:50.757209,1,,,0.0,168,,0.0,They go to the participant,23,female,2,politics,full,1,1,1,1,al9gerxp,,,,,0
+169,graemhk1,5b18248744127b00013f90ce,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:50.795110,1,,,16.0,169,,0.0,"If the other participant is a computer, then I would assume their payoffs are meaningless and don't actually exist in any real way.",27,male,2,natural,no,3,3,1,1,al9gerxp,,,,,0
+170,h7n5aw2l,5d2215e737363e0001651a63,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:51.364288,1,,,17.0,170,,0.0,Seeing as the other participant was a computer I'm assuming to paying other participants who take the study(?),39,female,1,na,full,0,0,1,1,al9gerxp,,,,,0
+171,i55cwl5u,614b2c704c7b1994cb48e1c7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:52.810742,1,,,6.0,171,,0.0,They get stored for other survey funding.,33,male,2,other,full,1,2,1,1,al9gerxp,,,,,0
+172,rv5xisng,5fed01281d6cb4f2fef20220,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:52.948007,1,,,5.0,172,,0.0,I hope that it gets donated to charity or is used to fund more research.,34,female,2,other_social,full,2,2,1,1,al9gerxp,,,,,0
+173,okmydw1x,6101d686dc9bf9c963e5856d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:55.900824,1,,,10.0,173,,0.0,I think they vary significantly and some people may get none depending on actions of player 1,35,female,3,other_social,full,3,3,1,1,al9gerxp,,,,,0
+174,t6w8gzte,5a9262251eda410001360b2c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:56.802600,1,,,5.0,174,,0.0,It's a robot so I'm not sure anything is done with them.,38,female,1,na,part,0,1,1,1,al9gerxp,,,,,0
+175,j93n5cv5,60db58d0caaad90d54013aa7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:57.892245,1,,,8.0,175,,0.0,They just don't exist,20,female,2,med,no,1,1,1,1,al9gerxp,,,,,0
+176,jy7y4y1m,616eee064fa84629904802ab,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:02.180439,1,,,8.0,176,,0.0,they were tripled allotting the participant more than the sender.,38,female,1,med,no,3,3,1,1,al9gerxp,,,,,0
+177,4texoc06,60fce4839af7ae2441e60551,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:04.395549,1,,,12.0,177,,0.0,they get awarded to the paricipants,25,female,2,other_social,full,1,1,1,1,al9gerxp,,,,,0
+178,2pa4mowi,5fbda708e368851d517637de,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:04.651272,1,,,12.0,178,,0.0,nothing. The directions say there's no payout for computer points,34,male,3,psych,full,3,2,1,1,al9gerxp,,,,,0
+179,55fx1gsi,60d63e407fce934334a5e025,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:05.397829,1,,,10.0,179,,0.0,I think the payoff earned by other participant would be received by them.,33,male,2,engineer,part,3,3,1,1,al9gerxp,,,,,0
+180,nxeugzat,5d7cefc73f9ae70018b400f1,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:05.937151,1,,,14.0,180,,0.0,They receive them as a bonus? I'm not sure I understand the question.,39,male,1,other,no,3,3,1,1,al9gerxp,,,,,0
+181,pvimhsnk,550bb70bfdf99b6853dab45e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:10.559837,1,,,5.0,181,,0.0,they keep them,29,female,2,engineer,full,3,4,1,1,al9gerxp,,,,,0
+182,xahkn88m,6108311bc2f07ea9abda770d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:17.539397,1,,,4.0,182,,0.0,It stays in the account where it originally was,25,female,2,engineer,full,3,3,1,1,al9gerxp,,,,,0
+183,wu8uod34,606e4eb2a56685e5593304cd,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:19.263812,1,,,5.0,183,,0.0,"Well, the other participant was a computer, so it didn't have to be paid out. I'm assuming it was just kept by the person running the experiment. ",52,male,2,natural,full,3,4,1,1,al9gerxp,,,,,0
+184,egnq7srv,5ac8f79068b65b00018d7ef9,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:28.965506,1,,,0.0,184,,0.0,transferred to them as bonus payment.,21,male,2,engineer,part,3,3,1,1,al9gerxp,,,,,0
+185,hinolajq,5fd66ce8aec66457ff73d743,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:31.818946,1,,,0.0,185,,0.0,if they accept they receive the payoff,55,female,1,na,full,2,2,1,1,al9gerxp,,,,,0
+186,rtf6ymjn,5e287b789061a504bf990894,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:33.091471,1,,,0.0,186,,0.0,I don't think anything happens,23,male,1,na,part,2,3,1,1,al9gerxp,,,,,0
+187,abvefiqp,6147a1c343f05087ff340b52,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:55.847374,1,,,7.0,187,,0.0,decision,34,male,2,engineer,full,4,2,1,1,al9gerxp,,,,,0
+188,2dulfboj,597fe89a1b41a20001749f57,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:40:04.788010,1,,,0.0,188,,0.0,they go back to the researcher,43,female,3,other,full,2,2,1,1,al9gerxp,,,,,0
+189,vf97h8m2,5b98d9362cca9c0001de161f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:40:42.504340,1,,,7.0,189,,0.0,"The other participant was a computer, so nothing happens to it.",49,male,2,econ,full,3,3,1,1,al9gerxp,,,,,0
+190,syoix4so,6151517926ff8f856c7bc8d4,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:41:37.933706,1,,,5.0,190,,0.0,they get them as a bonus,21,male,1,natural,no,0,4,1,1,al9gerxp,,,,,0
+191,n555ipxn,610790e286844c36e02f906c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:13.636308,1,,,0.0,191,,0.0,I don’t think anyone actually earns a bonus,27,female,1,na,full,2,2,1,1,al9gerxp,,,,,0
+192,1e8aerrw,5ed377271691ea000c548cb0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:27.759129,1,,,4.0,192,,0.0,i am not sure,60,female,2,other_social,full,2,3,1,1,al9gerxp,,,,,0
+193,q68imui4,60da18dba560960ea60a8fe5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:32.912805,1,,,10.0,193,,0.0,If the payoffs are to a computer then it goes nowhere.,31,male,2,engineer,full,3,3,1,1,al9gerxp,,,,,0
+194,ip5tf4n5,5e1882adfd7db4158998b5f0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:33.010410,1,,,4.0,194,,0.0,The researchers keep it.,31,male,3,other_social,full,3,3,1,1,al9gerxp,,,,,0
+195,7a4xspnr,60ff4f840fb5130859720ab8,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:33.489722,1,,,0.0,195,,0.0,I believe it is cashed out ,40,female,1,na,part,1,3,1,1,al9gerxp,,,,,0
+196,lmi46a13,5c91ab9b47fad40011be8306,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:35.077427,1,,,10.0,196,,0.0,Nothing happens .,31,male,1,na,full,3,4,1,1,al9gerxp,,,,,0
+197,jeuplsgc,5f4b395013fe2f6ffcd95151,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:37.624475,1,,,3.0,197,,0.0,I would hope they're donated ,30,male,1,na,full,3,3,1,1,al9gerxp,,,,,0
+198,r0jjq8im,5cba1809102bd400130c19e7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:41.029381,1,,,0.0,198,,0.0,The get paid,44,female,3,other,full,0,2,1,1,al9gerxp,,,,,0
+199,pskpfevt,56435b83942576000a66eb5d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:42.696556,1,,,14.0,199,,0.0,"nothing, they did not exists",43,male,2,other,full,1,3,1,1,al9gerxp,,,,,0
+200,h98kulwe,5a94c0b7b5e2110001c6891e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:42.982734,1,,,14.0,200,,0.0,"The other participant takes the payout, then figures to deposit it back into the next round, usually equal to the payout.",48,male,2,engineer,full,3,3,1,1,al9gerxp,,,,,0
+201,nv5spjcr,60cac6e750602e711ed5efc6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:43.215274,1,,,14.0,201,,0.0,The points were tripled before getting to them,31,female,1,na,no,1,3,1,1,al9gerxp,,,,,0
+202,dgnp7fra,5cdad620eae6f70019d4e950,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:43.670366,1,,,12.0,202,,0.0,They are given a higher amount,32,male,2,other,full,3,3,1,1,al9gerxp,,,,,0
+203,kec9iizf,5dc46e9d28e0d544cb8248aa,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:43.773980,1,,,7.0,203,,0.0,Nothing.,29,male,3,econ,full,2,2,1,1,al9gerxp,,,,,0
+204,zp244yqk,5e0aa9378f1faf32c47f560c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:43.952822,1,,,10.0,204,,0.0,They won’t receive them,32,male,2,other,full,1,0,1,1,al9gerxp,,,,,0
+205,ma7xio33,61723191b52d2b9d845f433e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:44.400797,1,,,8.0,205,,0.0,decides to give more or less on past experience,32,male,1,na,no,0,2,1,1,al9gerxp,,,,,0
+206,ze23cpmy,5c3fb71b36052e00016bb1a6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:45.132807,1,,,9.0,206,,0.0,they go to a different participant (not the computer),51,female,2,psych,part,1,2,1,1,al9gerxp,,,,,0
+207,r68gvsu0,5fdc1918bc4c4d156d95cf5e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:45.495560,1,,,0.0,207,,0.0,I'm really not sure.,29,male,2,other,full,3,4,1,1,al9gerxp,,,,,0
+208,g3ec1hzk,6060cc2bf9ba38d90b1a6f12,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:45.824101,1,,,11.0,208,,0.0,I think the payoffs earned by the other participant (computer) are put towards the lottery.,19,male,1,other,no,1,0,1,1,al9gerxp,,,,,0
+209,t5kp5fjk,610b57f552e3982da159f85f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:45.891777,1,,,10.0,209,,0.0,the other participant gets to keep the points and earns more money,21,female,1,psych,part,0,2,1,1,al9gerxp,,,,,0
+210,mq0gv7x5,5d96eeed1998fb00177f6b71,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:47.039302,1,,,10.0,210,,0.0,they get a bonus,24,female,2,other,no,1,2,1,1,al9gerxp,,,,,0
+211,fn0nbb1j,5dd33bd8f01cbe3350807cf6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:47.208910,1,,,10.0,211,,0.0,Ppp look aced into another pot,40,male,2,other_social,no,1,2,1,1,al9gerxp,,,,,0
+212,p4gcqpms,60fd84bd019682124d96c178,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:47.332113,1,,,5.0,212,,0.0,it goes back into the pot to be paid to others who take the survey,48,female,2,other,no,0,2,1,1,al9gerxp,,,,,0
+213,03krq8m6,6102dd96720f21dbed44ec01,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:49.116188,1,,,10.0,213,,0.0,If it's a computer participant then nothing happens.,27,female,2,other,full,1,2,1,1,al9gerxp,,,,,0
+214,12m6a8jc,5e79437d60e3c14ed20cc894,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:49.124540,1,,,10.0,214,,0.0,not affected,28,male,4,med,full,1,2,1,1,al9gerxp,,,,,0
+215,8edirc8e,614672e2a81f859693652d62,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:49.238201,1,,,14.0,215,,0.0,"As the study made clear, the ""other participant"" was a computer, meaning that the points sent to it were ""squandered"" and will go nowhere.",21,other,2,psych,full,3,2,1,1,al9gerxp,,,,,0
+216,ariya16z,610ad7c325529b36c4598cf4,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:49.972304,1,,,10.0,216,,0.0,They don't go anywhere,29,female,2,other,full,0,2,1,1,al9gerxp,,,,,0
+217,x1giuz6w,6108217efa3a9be841a44bb1,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:52.756549,1,,,15.0,217,,0.0,It is probably money saved by the researcher.,26,female,3,other,full,0,2,1,1,al9gerxp,,,,,0
+218,j336mq0s,5f0e9896f5e4e11e12c8f5ac,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:55.689863,1,,,9.0,218,,0.0,I think that the other participant keeps their payoffs and are paid to them.,23,male,1,other,full,3,2,1,1,al9gerxp,,,,,0
+219,lax0ugkf,5ce4150a8ea1c40019a7cebe,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:00.258293,1,,,9.0,219,,0.0,They keep them.,41,female,2,other,full,2,2,1,1,al9gerxp,,,,,0
+220,rwe8gd2d,6088acc5decc809dbe82850b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:00.580555,1,,,11.0,220,,0.0,I would assume that the other participants would spend them accordingly.,50,male,2,other,full,3,3,1,1,al9gerxp,,,,,0
+221,0jgb6bzq,60dbc09cc576a008f412e077,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:01.909356,1,,,11.0,221,,0.0,"I am not sure. They earned based off someone else, so maybe they in turn do the same for the next recipient. ",42,male,2,other,full,4,4,1,1,al9gerxp,,,,,0
+222,endf09b0,5af5262f1b55800001f4a418,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:03.220737,1,,,5.0,222,,0.0,they are paid that amount,48,female,2,other,full,3,3,1,1,al9gerxp,,,,,0
+223,zdd10zel,60b81f5f9e32d170d3ab805e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:03.813857,1,,,4.0,223,,0.0,They will have an equal amount of pay as that of me.,51,female,2,other_social,part,3,3,1,1,al9gerxp,,,,,0
+224,2iuu4i1z,5f87d9bfc31a1322cfc32cbd,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:05.209038,1,,,11.0,224,,0.0,Not sure but they might get less if I get more.,36,female,2,econ,part,3,4,1,1,al9gerxp,,,,,0
+225,vrq6xg3r,55f244e632af740012170458,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:05.781803,1,,,9.0,225,,0.0,It is kept by the researchers,40,male,3,econ,full,1,3,1,1,al9gerxp,,,,,0
+226,v2x7olsb,5f6a4e9f9b08d50eef23534d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:07.085029,1,,,5.0,226,,0.0,i dont know,22,male,2,engineer,part,3,4,1,1,al9gerxp,,,,,0
+227,tta7r9d7,5fdca41ecb769722e2266d8a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:07.771538,1,,,0.0,227,,0.0,"The computer keeps nothing, the participant keeps what is earned",56,female,1,na,full,3,4,1,1,al9gerxp,,,,,0
+228,159nx2l4,5fc4868e1e58465b64455779,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:08.334466,1,,,3.0,228,,0.0,I think they are added to their Prolific account as a bonus,40,male,2,other,full,3,3,1,1,al9gerxp,,,,,0
+229,b7o3fdks,5f80bc44efa2c013099af460,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:10.811686,1,,,7.0,229,,0.0,"Don't know, maybe just kept/not paid out by the research (doubling as the ""programmer"")",31,male,3,other,full,3,3,1,1,al9gerxp,,,,,0
+230,y1rco6qt,5dd8c6e24c97928688acd05d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:25.981835,1,,,5.0,230,,0.0,"If the other participant is a computer then it goes to a random human participant, or it could self-fund (almost) the bonus system making it a ponzi scheme.",46,male,2,natural,full,3,3,1,1,al9gerxp,,,,,0
+231,d9q2uk5d,60ddf5abb47cc02285793096,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:27.267007,1,,,0.0,231,,0.0,"Nothing, since it's a computer?",22,female,1,other_social,no,1,0,1,1,al9gerxp,,,,,0
+232,hv1vlyp4,60464c1eb5eb8b0dccd04684,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:32.849611,1,,,4.0,232,,0.0,I don't know. I guess they keep it ,26,male,2,engineer,full,3,3,1,1,al9gerxp,,,,,0
+233,zxijlj9r,5dc091fa9be08f03fb01a816,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:38.993014,1,,,7.0,233,,0.0,It gets added to the end reward.,29,male,1,na,full,3,4,1,1,al9gerxp,,,,,0
+234,t2budtvr,615f5cae42df61c24539d5b5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:53.414344,1,,,4.0,234,,0.0,It's a computer so nothing?,55,female,2,other,full,1,2,1,1,al9gerxp,,,,,0
+235,bu0dtcue,5f556bd46e6c4c93a5a90c77,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:44:06.115724,1,,,10.0,235,,0.0,Here anyone can keep himself some point and offer computer some point . If computer accept this offer point then this point will be divided . and both will get same point .  ,20,female,1,engineer,full,2,3,1,1,al9gerxp,,,,,0
+236,dr243xyz,5bdfb648484288000130dad0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:44:07.640575,1,,,0.0,236,,0.0,It doesn't go to anyone. The experimenter keeps it.,29,male,1,na,full,3,3,1,1,al9gerxp,,,,,0
+237,3cagytd7,5e542a0c4b7e8c42fafa7216,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:44:59.472136,1,,,5.0,237,,0.0,The computer doesn't keep any money.,53,male,3,politics,full,3,3,1,1,al9gerxp,,,,,0
+238,1sjqxovz,558acd52fdf99b65685f03d9,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:45:49.087385,1,,,6.0,238,,0.0,I believe the payoffs earned by the other participant will go to an actual person other than myself.,30,female,1,psych,full,3,2,1,1,al9gerxp,,,,,0
+239,wxl0hw4y,61292a3404d387db5b0b2a32,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:45:50.245068,1,,,0.0,239,,0.0,Opinions,29,male,2,engineer,full,4,3,1,1,al9gerxp,,,,,0
+240,mlhp6pjf,5f1611b74f568f177ca351c4,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:48:34.803062,1,,,10.0,240,,0.0,The remaining points earned by the computer will be given to whoever programmed the computer.,18,other,1,na,no,3,2,1,1,al9gerxp,,,,,0
+241,bhodxhs1,5a6b998a3fb6420001c2f97a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:49:23.720120,1,,,10.0,241,,0.0,"The computer keeps what it earned, but it will not earn a bonus because I kept it all.",36,male,2,other,no,3,1,1,1,al9gerxp,,,,,0
+242,8n9cgwk2,5e5295b135ace5000e86a6de,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:52:50.868637,1,,,8.0,242,,0.0,the money goes back into the pot for other experiments,37,female,2,natural,part,4,4,1,1,al9gerxp,,,,,0
+243,kw3lv5v8,5dea7a7df87f5519e686ff7b,0,3,24,assignment,AssignmentWaitPage,2021-12-14 19:00:34.928864,1,,,0.0,243,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+244,ar392aqp,5ca8f48c5689db001729e1f4,0,1,24,introduction,ID,2021-12-14 19:15:42.493647,1,,,0.0,244,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+245,brkqockc,,0,0,24,,,,0,,,0.0,245,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+246,f2a0geem,,0,0,24,,,,0,,,0.0,246,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+247,fde74ehi,,0,0,24,,,,0,,,0.0,247,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+248,djniuoir,,0,0,24,,,,0,,,0.0,248,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+249,8775hbn8,,0,0,24,,,,0,,,0.0,249,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+250,upj7h102,,0,0,24,,,,0,,,0.0,250,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+251,xnugb4v1,,0,0,24,,,,0,,,0.0,251,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+252,6eqji6rs,,0,0,24,,,,0,,,0.0,252,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+253,u6enmbgo,,0,0,24,,,,0,,,0.0,253,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+254,72ke9xk2,,0,0,24,,,,0,,,0.0,254,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+255,7geiooq3,,0,0,24,,,,0,,,0.0,255,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+256,rzjxtsbl,,0,0,24,,,,0,,,0.0,256,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+257,so1pchj8,,0,0,24,,,,0,,,0.0,257,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+258,idwo6kw6,,0,0,24,,,,0,,,0.0,258,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+259,yhhdb2xy,,0,0,24,,,,0,,,0.0,259,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+260,uf205z4i,,0,0,24,,,,0,,,0.0,260,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+261,2l811ome,,0,0,24,,,,0,,,0.0,261,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+262,vc9n7c8u,,0,0,24,,,,0,,,0.0,262,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+263,ftsqokyv,,0,0,24,,,,0,,,0.0,263,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+264,gef4xkro,,0,0,24,,,,0,,,0.0,264,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+265,ad1ezzju,,0,0,24,,,,0,,,0.0,265,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+266,07t4dsvl,,0,0,24,,,,0,,,0.0,266,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+267,5n6ttnb7,,0,0,24,,,,0,,,0.0,267,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+268,4hkuxrh0,,0,0,24,,,,0,,,0.0,268,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+269,aqzwksqc,,0,0,24,,,,0,,,0.0,269,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+270,w6cg7f18,,0,0,24,,,,0,,,0.0,270,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+271,hu8jcrrq,,0,0,24,,,,0,,,0.0,271,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+272,z5voapge,,0,0,24,,,,0,,,0.0,272,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+273,kferzpcd,,0,0,24,,,,0,,,0.0,273,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+274,pwf44pcv,,0,0,24,,,,0,,,0.0,274,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+275,kk3weoxi,,0,0,24,,,,0,,,0.0,275,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+276,spuzzx9y,,0,0,24,,,,0,,,0.0,276,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+277,4m3vz1dx,,0,0,24,,,,0,,,0.0,277,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+278,lqr6ilvq,,0,0,24,,,,0,,,0.0,278,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+279,yejzfq0d,,0,0,24,,,,0,,,0.0,279,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+280,65dqvy8x,,0,0,24,,,,0,,,0.0,280,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+281,skewnu6u,,0,0,24,,,,0,,,0.0,281,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+282,ox4pcnhb,,0,0,24,,,,0,,,0.0,282,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+283,vqyo6sp7,,0,0,24,,,,0,,,0.0,283,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+284,65p8197t,,0,0,24,,,,0,,,0.0,284,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+285,odxnlzww,,0,0,24,,,,0,,,0.0,285,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+286,sp6spf5a,,0,0,24,,,,0,,,0.0,286,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+287,zpbcdxev,,0,0,24,,,,0,,,0.0,287,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+288,0duh9cb9,,0,0,24,,,,0,,,0.0,288,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+289,9zyfx243,,0,0,24,,,,0,,,0.0,289,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+290,h3huo683,,0,0,24,,,,0,,,0.0,290,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+291,64i1tj3t,,0,0,24,,,,0,,,0.0,291,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+292,d1u6ff34,,0,0,24,,,,0,,,0.0,292,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+293,ma16egzm,,0,0,24,,,,0,,,0.0,293,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+294,o807eult,,0,0,24,,,,0,,,0.0,294,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+295,rfgye41h,,0,0,24,,,,0,,,0.0,295,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+296,quv6awpx,,0,0,24,,,,0,,,0.0,296,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+297,4xmq15ko,,0,0,24,,,,0,,,0.0,297,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+298,a6ikzwhv,,0,0,24,,,,0,,,0.0,298,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+299,f0r3zja5,,0,0,24,,,,0,,,0.0,299,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+300,7tjid9da,,0,0,24,,,,0,,,0.0,300,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+301,eexe93d3,,0,0,24,,,,0,,,0.0,301,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+302,ba9svgcd,,0,0,24,,,,0,,,0.0,302,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+303,b7txklv0,,0,0,24,,,,0,,,0.0,303,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+304,hvutjpja,,0,0,24,,,,0,,,0.0,304,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+305,ef7v5j5z,,0,0,24,,,,0,,,0.0,305,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+306,scjopyk2,,0,0,24,,,,0,,,0.0,306,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+307,pmx87xve,,0,0,24,,,,0,,,0.0,307,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+308,kdjtu3ex,,0,0,24,,,,0,,,0.0,308,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+309,zzz522wq,,0,0,24,,,,0,,,0.0,309,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+310,21331w1f,,0,0,24,,,,0,,,0.0,310,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+311,j1cpm5ci,,0,0,24,,,,0,,,0.0,311,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+312,zq2flfev,,0,0,24,,,,0,,,0.0,312,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+313,t82jkli0,,0,0,24,,,,0,,,0.0,313,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+314,aa7dnmug,,0,0,24,,,,0,,,0.0,314,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+315,rhk3pa1q,,0,0,24,,,,0,,,0.0,315,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+316,86xf4iil,,0,0,24,,,,0,,,0.0,316,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+317,zn42nml4,,0,0,24,,,,0,,,0.0,317,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+318,7dogysvu,,0,0,24,,,,0,,,0.0,318,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+319,pfmbeyl3,,0,0,24,,,,0,,,0.0,319,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+320,q0fmhd8w,,0,0,24,,,,0,,,0.0,320,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+321,m4yz367e,,0,0,24,,,,0,,,0.0,321,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+322,jlpu9y37,,0,0,24,,,,0,,,0.0,322,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+323,6et5qon4,,0,0,24,,,,0,,,0.0,323,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+324,nefm8cef,,0,0,24,,,,0,,,0.0,324,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+325,1nv4isjm,,0,0,24,,,,0,,,0.0,325,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+326,r58r9bqh,,0,0,24,,,,0,,,0.0,326,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+327,q4ndo72t,,0,0,24,,,,0,,,0.0,327,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+328,vstshcvy,,0,0,24,,,,0,,,0.0,328,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+329,ah8b54sb,,0,0,24,,,,0,,,0.0,329,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+330,5k3wx2ym,,0,0,24,,,,0,,,0.0,330,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+331,312atocd,,0,0,24,,,,0,,,0.0,331,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+332,d7rjs4j9,,0,0,24,,,,0,,,0.0,332,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+333,39hq0kye,,0,0,24,,,,0,,,0.0,333,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+334,3muggpfy,,0,0,24,,,,0,,,0.0,334,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+335,pjsy4wha,,0,0,24,,,,0,,,0.0,335,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+336,z2hnupk5,,0,0,24,,,,0,,,0.0,336,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+337,05nyxmvx,,0,0,24,,,,0,,,0.0,337,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+338,ikmtki4n,,0,0,24,,,,0,,,0.0,338,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+339,bg73f9qj,,0,0,24,,,,0,,,0.0,339,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+340,e4mraqux,,0,0,24,,,,0,,,0.0,340,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+341,4m57xsxf,,0,0,24,,,,0,,,0.0,341,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+342,ihw9ow5k,,0,0,24,,,,0,,,0.0,342,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+343,32adzp2c,,0,0,24,,,,0,,,0.0,343,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+344,nvvt2uh1,,0,0,24,,,,0,,,0.0,344,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+345,qcc2dhyq,,0,0,24,,,,0,,,0.0,345,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+346,29m6week,,0,0,24,,,,0,,,0.0,346,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+347,csdperk0,,0,0,24,,,,0,,,0.0,347,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+348,5ujr4gd0,,0,0,24,,,,0,,,0.0,348,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+349,cccsgogk,,0,0,24,,,,0,,,0.0,349,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+350,iml0welj,,0,0,24,,,,0,,,0.0,350,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+351,rz07nsjf,,0,0,24,,,,0,,,0.0,351,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+352,qu1g3bos,,0,0,24,,,,0,,,0.0,352,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+353,ykh330ol,,0,0,24,,,,0,,,0.0,353,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+354,4ic3ihpk,,0,0,24,,,,0,,,0.0,354,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+355,emdthm5i,,0,0,24,,,,0,,,0.0,355,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+356,6d5l1z73,,0,0,24,,,,0,,,0.0,356,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+357,5tqtf8ne,,0,0,24,,,,0,,,0.0,357,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+358,dkz32nig,,0,0,24,,,,0,,,0.0,358,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+359,g8zs2mdp,,0,0,24,,,,0,,,0.0,359,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+360,uiy0mady,,0,0,24,,,,0,,,0.0,360,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+361,jwd73vfq,,0,0,24,,,,0,,,0.0,361,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+362,2ywg69c0,,0,0,24,,,,0,,,0.0,362,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+363,w4djxkl5,,0,0,24,,,,0,,,0.0,363,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+364,c93dcr3r,,0,0,24,,,,0,,,0.0,364,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+365,2gexu592,,0,0,24,,,,0,,,0.0,365,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+366,kghvl66x,,0,0,24,,,,0,,,0.0,366,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+367,7chnsp48,,0,0,24,,,,0,,,0.0,367,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+368,4yvduekm,,0,0,24,,,,0,,,0.0,368,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+369,qr9rtd5n,,0,0,24,,,,0,,,0.0,369,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+370,d5nsfhjh,,0,0,24,,,,0,,,0.0,370,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+371,tb3y7ovi,,0,0,24,,,,0,,,0.0,371,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+372,97fsn5we,,0,0,24,,,,0,,,0.0,372,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+373,9vyp6vdr,,0,0,24,,,,0,,,0.0,373,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+374,x1q35h74,,0,0,24,,,,0,,,0.0,374,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+375,kbq1q8q8,,0,0,24,,,,0,,,0.0,375,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+376,0rk1h5jy,,0,0,24,,,,0,,,0.0,376,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+377,uwihynrm,,0,0,24,,,,0,,,0.0,377,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+378,mkmr4009,,0,0,24,,,,0,,,0.0,378,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+379,3t2alze6,,0,0,24,,,,0,,,0.0,379,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+380,g19fia7y,,0,0,24,,,,0,,,0.0,380,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+381,gsksgj9z,,0,0,24,,,,0,,,0.0,381,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+382,va5629j4,,0,0,24,,,,0,,,0.0,382,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+383,g66z7b9x,,0,0,24,,,,0,,,0.0,383,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+384,y4364vpq,,0,0,24,,,,0,,,0.0,384,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+385,5xbkfsdj,,0,0,24,,,,0,,,0.0,385,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+386,huflxdnw,,0,0,24,,,,0,,,0.0,386,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+387,1wlw48bx,,0,0,24,,,,0,,,0.0,387,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+388,ncnvf42y,,0,0,24,,,,0,,,0.0,388,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+389,lcaa5j3d,,0,0,24,,,,0,,,0.0,389,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+390,8yjuscb2,,0,0,24,,,,0,,,0.0,390,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+391,egh705u2,,0,0,24,,,,0,,,0.0,391,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+392,72diei1m,,0,0,24,,,,0,,,0.0,392,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+393,grk2iixa,,0,0,24,,,,0,,,0.0,393,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+394,hb40v0aw,,0,0,24,,,,0,,,0.0,394,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+395,kzp0k6rk,,0,0,24,,,,0,,,0.0,395,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+396,q4k1p3in,,0,0,24,,,,0,,,0.0,396,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+397,t1uj5vt2,,0,0,24,,,,0,,,0.0,397,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+398,q4amcn8y,,0,0,24,,,,0,,,0.0,398,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+399,wpsnudwt,,0,0,24,,,,0,,,0.0,399,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+400,fpq57hgb,,0,0,24,,,,0,,,0.0,400,,0.0,,,,,,,,,1,1,al9gerxp,,,,,0
+1,t3stcua8,5c03217b1a20110001e979f0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:37.743394,1,,,7.0,1,,0.0,I think they might get assigned to a lager pool to give to the winners of the game. ,44,male,1,na,no,3,3,1,1,edqsn7rj,,,,,0
+2,onfwz3x3,614f24578db9aab4bfb2809f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:39.217823,1,,,5.0,2,,0.0,"i have no clue, that's why i chose to split equally ",37,female,1,psych,part,3,2,1,1,edqsn7rj,,,,,0
+3,iv5bs63y,5eac65aec4ed450f4df4868f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:41.571897,1,,,10.0,3,,0.0,"The computer keeps the money for itself, according to the instructions.",44,male,1,na,no,2,2,1,1,edqsn7rj,,,,,0
+4,jcxz664k,5dd3648c10420036f4141f18,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:43.083834,1,,,6.0,4,,0.0,They were probably not real....so nothing,48,male,1,engineer,full,3,4,1,1,edqsn7rj,,,,,0
+5,u3ms6woj,5d1c39079d6c1700015ca55d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:45.645318,1,,,14.0,5,,0.0,I don't think anything happens since the other participant was a computer and it was stated the points you give back don't go to anybody,20,female,1,na,part,1,2,1,1,edqsn7rj,,,,,0
+6,eb69pfmg,60feb3e418c43afa1521859f,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 17:43:46.984430,1,,,0.0,6,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+7,w5bk1uky,55d35447da14d7000e95318f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:47.940378,1,,,10.0,7,,0.0,I think that the other participant would get paid what they got.,33,male,2,other,full,1,3,1,1,edqsn7rj,,,,,0
+8,009r94cq,599da50e17c03c000151b18b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:48.209446,1,,,12.0,8,,0.0,It's a compter  - So nothing.,42,female,2,med,full,3,2,1,1,edqsn7rj,,,,,0
+9,pjve9pat,614227ca2722b36a2e6a593b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:48.807686,1,,,6.0,9,,0.0,They get to keep it.,44,female,3,politics,full,0,1,1,1,edqsn7rj,,,,,0
+10,ig3h4ydq,5e503489f3b86307aff92704,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:49.063010,1,,,0.0,10,,0.0,The computer keeps the payment,27,female,1,na,part,1,1,1,1,edqsn7rj,,,,,0
+11,qba55p1k,5858b2ca83a02d0001e38fd2,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:49.086808,1,,,5.0,11,,0.0,it is times 20,43,male,2,natural,full,3,3,1,1,edqsn7rj,,,,,0
+12,ibh2c83d,614e22baed17f763e7d7593a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:49.538642,1,,,5.0,12,,0.0,"Unsure, but it could be a charity or nothing.  Splitting it seemed the more ethical way.",42,male,2,other,full,1,2,1,1,edqsn7rj,,,,,0
+13,4i7w73jm,611115eb23d02f639a39f61e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:51.441468,1,,,11.0,13,,0.0,The payoffs show how much the other player is willing to give up even if the don't know that person. The more points available the more likely the 2nd player will give you more points in return.,24,female,1,other,part,3,3,1,1,edqsn7rj,,,,,0
+14,2n03ua1t,6117ba4fd05245c3cc387782,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:52.928316,1,,,11.0,14,,0.0,It is tripled. ,20,female,2,politics,full,2,2,1,1,edqsn7rj,,,,,0
+15,i3xfa2i8,5d28ec37d7d4940015e62beb,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:53.185149,1,,,11.0,15,,0.0,I assume that funds returned to the computer are remitted to the researchers for further research.,32,male,3,law,full,3,3,1,1,edqsn7rj,,,,,0
+16,wltj1wkd,6171a40fa78f30bce9262352,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:53.518510,1,,,20.0,16,,0.0,They get to keep it,22,male,2,engineer,full,1,3,1,1,edqsn7rj,,,,,0
+17,y4s88cc9,5b5e7e643bac1d0001f9bf28,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:53.550757,1,,,10.0,17,,0.0,"Well, the other participant was said to be a computer, so hopefully it really had no effect how much I chose to give ""them"" - supposedly nobody received whatever was given to the computer.",33,male,3,other,part,3,2,1,1,edqsn7rj,,,,,0
+18,c3n58vrl,5f32aab12a9f82000854c3ea,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:53.713562,1,,,5.0,18,,0.0,No idea but its good to have an equal share no matter what,44,male,2,other,no,3,3,1,1,edqsn7rj,,,,,0
+19,0fnx6ttg,59296fb2e8a7ff000163f033,0,1,24,introduction,ID,2021-12-15 17:43:54.724883,1,,,0.0,19,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+20,25y0exg7,60721a45b75cb8f4b00abd05,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:55.694031,1,,,10.0,20,,0.0,"Well, it said that the computer would keep them for itself, so I decided to keep everything for myself. ",32,male,1,na,full,3,3,1,1,edqsn7rj,,,,,0
+21,u86wmwpy,5e156dbb19232db781789a8f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:55.684744,1,,,5.0,21,,0.0,They go to the creator of the game.,28,male,1,na,no,3,2,1,1,edqsn7rj,,,,,0
+22,27trjxr3,60fd820a3a4602b463460989,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:58.756107,1,,,9.0,22,,0.0,I don't think anything happens.,27,female,3,psych,full,1,4,1,1,edqsn7rj,,,,,0
+23,eit4m61f,615528d84655a2ab9655a686,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:58.966386,1,,,7.0,23,,0.0,"If a human participant, they receive the other portion of the payoff. If a computer participant, they don't actually receive anything.",33,male,0,na,no,3,4,1,1,edqsn7rj,,,,,0
+24,urol0h9d,60ceeec3a0bed4a1e603b8d7,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:59.680189,1,,,9.0,24,,0.0,I think they get paid out as part of the bonus payment lottery.,31,male,2,engineer,full,3,3,1,1,edqsn7rj,,,,,0
+25,ct7u20fy,5cc8cab1f67ce800171cc5b2,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:00.333015,1,,,14.0,25,,0.0,I am not entirely sure but I think this is really interesting!,38,female,2,other_social,full,1,2,1,1,edqsn7rj,,,,,0
+26,du7k1akq,5efa98dd74af25000cdbbf43,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:02.934738,1,,,0.0,26,,0.0,It is kept by the researcher.,21,male,1,psych,part,3,3,1,1,edqsn7rj,,,,,0
+27,ismx0csu,5f09f9a38bf3690ea1c20c96,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 17:44:03.459184,1,,,0.0,27,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+28,lpd44i41,60fe010f7d53d4e9cebf78a4,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:04.574525,1,,,11.0,28,,0.0,It is sent to a random that was assigned participant 2,23,female,2,other,part,1,3,1,1,edqsn7rj,,,,,0
+29,d7vzn4s7,6107704ce2b1dc206c3dfff1,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:05.612658,1,,,11.0,29,,0.0,nothing it was just a computer,42,male,1,other,full,3,3,1,1,edqsn7rj,,,,,0
+30,twpqviup,61083d0cd5238a0405e40d81,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:05.698265,1,,,12.0,30,,0.0,They recieve the payment via the AI,32,other,2,other,no,1,2,1,1,edqsn7rj,,,,,0
+31,w9n7a60a,5ee09c1a0c2ad1027f541f53,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:07.067490,1,,,5.0,31,,0.0,They use it.,39,female,2,psych,full,2,2,1,1,edqsn7rj,,,,,0
+32,8utuvio3,5e8b32ec2c33ae7f20a0b401,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:07.221668,1,,,5.0,32,,0.0,"I was the receiver and the other participant was the computer, he shared with me and our payoffs was $1 plus my .$50.",60,female,3,natural,full,1,1,1,1,edqsn7rj,,,,,0
+33,vt5ldo87,6153985e7640f9294606c01b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:07.475676,1,,,5.0,33,,0.0,"I don't think this was a split between one and a computer, but rather with another participant, and so I made the split even. ",29,male,2,engineer,full,3,3,1,1,edqsn7rj,,,,,0
+34,dpnpnj1t,5d5b0dd7c032a2001ad7cf5d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:08.557873,1,,,6.0,34,,0.0,"The payoffs go to the other participant, but nobody gets the computer's share of things",35,male,3,politics,full,3,3,1,1,edqsn7rj,,,,,0
+35,dfj72i8v,6155f53fc771902cafcf2d04,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:08.924099,1,,,9.0,35,,0.0,They are invested back into other games. ,31,male,2,econ,full,3,3,1,1,edqsn7rj,,,,,0
+36,eov3m3kb,5cd1a619240bc80013310b4e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:08.929890,1,,,11.0,36,,0.0,They are payed back to other participants.,47,female,1,na,part,3,3,1,1,edqsn7rj,,,,,0
+37,ovfqu0iv,6077a808b8d8534a901e5d78,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:09.582975,1,,,4.0,37,,0.0,It'll be given to the person the computer was playing for.,28,male,2,psych,no,2,3,1,1,edqsn7rj,,,,,0
+38,1n1puiwt,570521cfde5095001018a0c8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:10.224768,1,,,0.0,38,,0.0,Nothing happens as neither one of us was paid.,51,male,2,other,full,1,2,1,1,edqsn7rj,,,,,0
+39,47m7wpjv,60b3e6ad448226548d21fc4d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:10.669160,1,,,5.0,39,,0.0,it goes back to the overall kitty and gets distributed that way,51,female,2,other,part,1,2,1,1,edqsn7rj,,,,,0
+40,mz8gnwoa,60fccb9cdc755c472323f72f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:10.871161,1,,,11.0,40,,0.0,Nothing,27,female,2,law,full,1,3,1,1,edqsn7rj,,,,,0
+41,0n0xh6uz,60fd543d2abb391065714ebd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:11.489628,1,,,4.0,41,,0.0,n/a,24,female,2,other_social,no,2,2,1,1,edqsn7rj,,,,,0
+42,ko9jqa5g,61115686fa7f267dae6767fc,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:11.730237,1,,,5.0,42,,0.0,I think that the payoffs earned by the other participant are dependent on what I decide to give.,23,female,3,other_social,part,0,1,1,1,edqsn7rj,,,,,0
+43,d0weqf4x,6104d98266f5052e15ea9c7d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:11.939503,1,,,0.0,43,,0.0,They earned the amount rejected.,29,male,3,engineer,full,3,3,1,1,edqsn7rj,,,,,0
+44,mzqclnxx,6079ba5a05d72de699c90891,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:12.371642,1,,,14.0,44,,0.0,"They receive them? I think it's exactly as explained where player 1 enters a number, it is multiplied, and then player 2 can send back whatever.",25,male,1,other,no,3,3,1,1,edqsn7rj,,,,,0
+45,rbif67mv,61077651f3cf03585e9f04e8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:12.603426,1,,,0.0,45,,0.0,Nothing,26,female,1,other_social,full,2,3,1,1,edqsn7rj,,,,,0
+46,q6ol8fvq,61008eb5a88b152b46baaae0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:13.537532,1,,,5.0,46,,0.0,"The payoff is split, however was previously agreed upon. ",24,female,2,other_social,full,0,0,1,1,edqsn7rj,,,,,0
+47,8ke373kc,61210b5c3f465c51a7f4166a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:13.869694,1,,,11.0,47,,0.0,I think it's okay. I would like to do more same research in the future. This is a very good study. Thank you very much.,36,female,3,psych,full,4,4,1,1,edqsn7rj,,,,,0
+48,fbpatpvr,5f405adcda0ade19c87826bd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:13.724316,1,,,4.0,48,,0.0,"I think to the computer, it means nothing, and the points just disappear.",32,female,4,natural,full,0,3,1,1,edqsn7rj,,,,,0
+49,evmsa7dd,60928b55a027ee7893ed76e5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:13.905151,1,,,10.0,49,,0.0,I assume that any points/money assigned to the computer just reduce the cost of paying subjects for this study.,38,male,1,na,part,3,3,1,1,edqsn7rj,,,,,0
+50,rola6r95,60ff4cca713180d934efc4c7,0,3,24,assignment,AssignmentWaitPage,2021-12-15 17:44:14.131970,1,,,0.0,50,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+51,k1cd1yg8,5a84f454ae9a0b0001a9e4e5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:14.534029,1,,,9.0,51,,0.0,Since my opponent was the computer I don't think it receives any payoff. ,45,male,2,engineer,full,3,3,1,1,edqsn7rj,,,,,0
+52,66abx11h,60fe43d9f9d89a9237395a83,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:15.221053,1,,,13.0,52,,0.0,I think the other participant (since it is a computer) recycles the payoff back into the system to give to other participants. ,18,female,1,psych,no,2,3,1,1,edqsn7rj,,,,,0
+53,dygccdxl,61118740f276fed33c6e6894,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:15.373481,1,,,17.0,53,,0.0,"The payoff goes to the ""person who programmed the computer."" However, I don't believe there was another participant programming the computer.",21,female,2,med,no,3,2,1,1,edqsn7rj,,,,,0
+54,wkbwgfh4,60ea823910936e7bff37d86b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:16.179625,1,,,9.0,54,,0.0,They are paid out,23,male,2,other_social,part,4,4,1,1,edqsn7rj,,,,,0
+55,1kgbz7m8,5d979a7705d4d60017b154c6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:16.693420,1,,,6.0,55,,0.0,Payoffs earned by the computer are probably rolled back into future experiments.,31,male,2,other,full,2,1,1,1,edqsn7rj,,,,,0
+56,uquqn5x4,5baa535fa3c9170001156197,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:16.796483,1,,,13.0,56,,0.0,the computer will keep it,31,female,3,engineer,full,2,3,1,1,edqsn7rj,,,,,0
+57,h1l02m2g,60d29dcc8ee32f63b359d02d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:18.019738,1,,,5.0,57,,0.0,unsure,36,female,2,other_social,part,3,2,1,1,edqsn7rj,,,,,0
+58,gui077e3,5f658f418c686c1096675a12,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:18.134651,1,,,5.0,58,,0.0,i have no idea,45,male,4,med,full,2,3,1,1,edqsn7rj,,,,,0
+59,rtnouk2v,5f4169e6373fe00ecfe0caa7,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:18.555590,1,,,0.0,59,,0.0,They receive the payment,19,other,0,na,part,3,3,1,1,edqsn7rj,,,,,0
+60,l6r38b36,5c42803ea3e45a0001be6979,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:19.368697,1,,,5.0,60,,0.0,I think the payoffs by the other participant goes back into the pool of money the researchers have.,29,male,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+61,07a4lapr,6165a8ee6dde7ff6f4b22e6f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:19.615096,1,,,10.0,61,,0.0,"Since it was a computer participant, I didn't feel they needed any points. So, they received nothing.",31,female,1,other,full,3,3,1,1,edqsn7rj,,,,,0
+62,qpuuo0m4,5ec75df0d799ae1c11a8115c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:21.465159,1,,,4.0,62,,0.0,"Nothing, as the other participant is the computer.",21,female,2,other,part,3,2,1,1,edqsn7rj,,,,,0
+63,16j8tfe9,608ecc26e4c76e93f4e1afe3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:21.939373,1,,,4.0,63,,0.0,"Since the other participant is a computer, I would guess their payoffs are reabsorbed back into the experiment pool.",50,female,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+64,a7xvldzf,5fc6c29c3639800a0199ad8d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:21.932905,1,,,7.0,64,,0.0,It's a computer so it doesn't actually get anything.,23,female,1,other,part,3,4,1,1,edqsn7rj,,,,,0
+65,4qeb0lu4,5e7146ee69a3f1061774803b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:22.744658,1,,,5.0,65,,0.0,"I thought it was only fair to split the points 50/50. Even though I knew I was playing against a computer, I thought they would consider that reasonable",50,female,2,other,full,1,3,1,1,edqsn7rj,,,,,0
+66,ot40x60u,5d0e9d1bf403080016411381,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:22.962242,1,,,13.0,66,,0.0,"I'm not sure they actually go to a programmer, so I don't know what happens to it.",49,male,1,other,full,2,4,1,1,edqsn7rj,,,,,0
+67,hbv5ithb,5d0ac7504d57690017a355ef,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:23.153755,1,,,12.0,67,,0.0,"I believe that the payoff earned by the other participant aren't really real, as the other participant was a computer and not a real person. ",37,male,2,politics,full,3,3,1,1,edqsn7rj,,,,,0
+68,0g021tdh,60d7199f88ea85b1e5790d58,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:23.471013,1,,,11.0,68,,0.0,The payoffs will always be good.,45,female,4,other,full,2,2,1,1,edqsn7rj,,,,,0
+69,rw012pfp,58d4c4c287b2420001263b6a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:24.164596,1,,,10.0,69,,0.0,"Well, since it was a computer, I would think, nothing because it's not a real entity.",54,female,1,other,no,1,3,1,1,edqsn7rj,,,,,0
+70,dmd1zpsj,564d1fedb48dec0005b5191d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:25.461109,1,,,14.0,70,,0.0,Kept by programmer ,45,male,2,engineer,full,3,2,1,1,edqsn7rj,,,,,0
+71,xz22lp2j,5fa2050042e91e3c2bae0ec2,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:26.919865,1,,,4.0,71,,0.0,I think that the receive the corresponding bonus pay as described in this survey.,30,male,2,other,full,1,2,1,1,edqsn7rj,,,,,0
+72,wui5k5pi,6154973c69da7c97996a19f6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:27.173903,1,,,8.0,72,,0.0,"Considering the study said that I was playing with a computer, so I don't imagine the points going anywhere.",23,other,2,other,no,3,3,1,1,edqsn7rj,,,,,0
+73,wh7mvbu5,5dde8fba82f458000c8c7c75,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:27.702563,1,,,10.0,73,,0.0,My understanding was that all payments sent to the computer would be given to another participant.,40,male,1,other,full,4,4,1,1,edqsn7rj,,,,,0
+74,o3gx4s3k,5c52016a3146f80001d47b26,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:28.755686,1,,,10.0,74,,0.0,"I think they go to the computer programmer, which I think is you. ",28,female,2,psych,part,3,3,1,1,edqsn7rj,,,,,0
+75,q4eygpk1,5e387dba03aa45000bc6e272,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:29.455421,1,,,5.0,75,,0.0,It is a computer so nothing,37,female,2,other,full,2,2,1,1,edqsn7rj,,,,,0
+76,pt20i4zg,58742bf5d53c97000159df8c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:29.438557,1,,,3.0,76,,0.0,"They, the computer, keeps it.",32,female,1,other,part,3,3,1,1,edqsn7rj,,,,,0
+77,cpav9b1j,6018d815710c721dd0c0a34c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:31.984523,1,,,5.0,77,,0.0,They receive it just like I did mine. Though since I was playing with a computer I'm not too sure where it would go.,18,female,1,na,no,3,3,1,1,edqsn7rj,,,,,0
+78,2f9te8ps,60801193150c8f60aa4884f0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:30.887579,1,,,5.0,78,,0.0,I would assume they go to the person who programmed the computer. ,38,male,2,other_social,full,3,4,1,1,edqsn7rj,,,,,0
+79,69i9pnpv,60fe1952f39082cd493260b5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:33.468897,1,,,11.0,79,,0.0,I don't know,30,female,4,law,no,1,2,1,1,edqsn7rj,,,,,0
+80,w2rolq1q,5bfd81fb2feab400014d9060,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:40.231565,1,,,11.0,80,,0.0,They get paid to those participants,48,male,2,other,full,1,4,1,1,edqsn7rj,,,,,0
+81,vlnim7qw,60b8cdf27f4022c3f2a8512e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:41.585312,1,,,13.0,81,,0.0,The computer keeps the earned payoffs fo itself,21,female,1,na,full,3,2,1,1,edqsn7rj,,,,,0
+82,71k29j1d,60fd6b0424bef26f15703a76,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:47.536776,1,,,10.0,82,,0.0,The other participant is the computer so nothing happens,30,female,1,med,full,1,2,1,1,edqsn7rj,,,,,0
+83,p7r0azs8,60b97a3a8823dbdc946d8708,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:49.190573,1,,,8.0,83,,0.0,If they are rejected then they go back to researcher,38,female,1,na,no,1,1,1,1,edqsn7rj,,,,,0
+84,u6zqftv3,5ff37fcafef4d1958f4ac4a3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:45:00.977624,1,,,13.0,84,,0.0,The study said the payoffs went to the programmer of the computer.,42,female,3,law,full,3,3,1,1,edqsn7rj,,,,,0
+85,hrwfrmwk,570b7f8fb9b52b00102d9723,0,15,24,ultimatum_robot_proposer_strategy,Instructions,2021-12-15 17:45:04.141555,1,,,0.0,85,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+86,7ql41sk6,5f6f738fef894f0dbf9839f8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:45:16.329885,1,,,0.0,86,,0.0,"The other participant was a computer, so probably nothing happened to the other payoff. And the offer was rejected, so no one won anything at all.",31,male,3,other,full,4,4,1,1,edqsn7rj,,,,,0
+87,eld5q80d,56c89c761d066b000c473879,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:45:20.130802,1,,,5.0,87,,0.0,Nothing. The computer doesn't get paid.,29,female,3,econ,full,3,3,1,1,edqsn7rj,,,,,0
+88,ylhrlntv,5f50732850c7c600098593df,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:01.698723,1,,,0.0,88,,0.0,They are given to the programmer of the computer.,22,male,1,other,full,4,4,1,1,edqsn7rj,,,,,0
+89,nevvxj6g,612039d9400fae9545b3c5a8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:05.535077,1,,,5.0,89,,0.0,Re-invested onto another study.,31,male,2,med,full,3,3,1,1,edqsn7rj,,,,,0
+90,hsn2owr2,615628491d10d2dda4037437,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:12.130601,1,,,5.0,90,,0.0,"If they offered half or more the computer accepted, if less than half computer rejected, I think most participants would offer half though ",60,female,1,na,no,3,4,1,1,edqsn7rj,,,,,0
+91,ca0h32i7,5a8b1ee2000dab00018cc7cd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:12.303613,1,,,0.0,91,,0.0,No one gets them.,32,female,1,med,part,2,3,1,1,edqsn7rj,,,,,0
+92,yxz499nu,604a7e9f84bf0e7937200df5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:24.100050,1,,,2.0,92,,0.0,"nothing, it's just kept with whatever funding was given to the researchers",28,male,1,other,part,3,0,1,1,edqsn7rj,,,,,0
+93,2zm1jtbn,5f5a545ec6a95e0e5b5e670e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:34.362596,1,,,9.0,93,,0.0,"I believe I played against a computer so it wouldn't be getting paid. However, if I am to believe it was a human, they would get paid about the same as I did.",22,male,1,psych,no,3,3,1,1,edqsn7rj,,,,,0
+94,lo8n25fy,5f7a28b8bedcf2112ebd1289,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:19.876357,1,,,9.0,94,,0.0,They are put in their account ,35,female,2,other_social,no,0,2,1,1,edqsn7rj,,,,,0
+95,q164tx8s,5df967d2f6191f6e87b236e6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:20.490886,1,,,15.0,95,,0.0,I think they will be estimating closer than I did,30,male,2,engineer,full,3,3,1,1,edqsn7rj,,,,,0
+96,n7hvchx8,5d012930cfeb82001817c9c9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:21.721571,1,,,5.0,96,,0.0,the other participant is a computer,31,female,2,other,full,1,2,1,1,edqsn7rj,,,,,0
+97,88kbdxxl,5f9ac707dc3cd12104ea955c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:23.636669,1,,,10.0,97,,0.0,they are earned by the person who programmed this algorithm.,24,male,2,engineer,full,2,2,1,1,edqsn7rj,,,,,0
+98,7akgpfxt,605d0687aa6cd6cdf1a634ee,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:24.740641,1,,,0.0,98,,0.0,To see how greedy we are vs a computer,35,female,2,econ,full,3,2,1,1,edqsn7rj,,,,,0
+99,l2d0xcs0,5e01570d9b92b1d2a3936dd6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:24.900174,1,,,5.0,99,,0.0,The programmer will earn the money the computer makes.,20,female,1,other,no,3,3,1,1,edqsn7rj,,,,,0
+100,svgwxd4s,5d35c7a19a2dfc0018446287,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:25.153461,1,,,0.0,100,,0.0,Everybody is going to be happy.,39,male,2,na,full,0,0,1,1,edqsn7rj,,,,,0
+101,lo95r2d5,5b32599cc8e94a00018f22a5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:27.388474,1,,,9.0,101,,0.0,I think nothing happens because the other participant is a computer. The researcher probably keeps that money,31,male,2,engineer,full,2,2,1,1,edqsn7rj,,,,,0
+102,sbt1hk99,60fd60dd8e126219c0818d87,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:27.686597,1,,,7.0,102,,0.0,Payment depends on other peoples choices. ,31,female,2,other,full,1,2,1,1,edqsn7rj,,,,,0
+103,ibcx963o,6151c93f62e26ed6871a5fbd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:28.400595,1,,,9.0,103,,0.0,"I think they are hypothetical and not actual.  Therefore, nothing actually happens to other participant payoffs.",49,male,2,engineer,full,3,3,1,1,edqsn7rj,,,,,0
+104,vz6o52ft,611c1cf68a3a6fc487b01d82,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:29.970015,1,,,11.0,104,,0.0,"By the computer? Maybe those integers get put into a bigger pool that decides how much the computer will send back to the next participant or something, and wow that sounds dumb lol, I don't know. I'm sorry :(",32,male,2,other_social,full,1,1,1,1,edqsn7rj,,,,,0
+105,e78zkr8t,5e89d0a17ec160000888ee98,0,23,24,survey,Survey,2021-12-15 17:48:30.774912,1,,,5.0,105,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+106,esr9op1i,5ace650a436f550001004f87,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:32.334864,1,,,10.0,106,,0.0,no payoff,29,female,1,econ,no,3,3,1,1,edqsn7rj,,,,,0
+107,w993mnw5,607db957e9d570c7c2657b8d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:33.394054,1,,,7.0,107,,0.0,"Uh... nothing.  It just means that the researcher has money left over from paying the human participant.  I don't see it as  ""the computer""  earning the money.  Rather, it's just how much the participant was paid and what is leftover after all payments have been made. ",52,female,2,other,full,1,2,1,1,edqsn7rj,,,,,0
+108,0mseziw1,6175eab1ddb5791df88241d1,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:33.667449,1,,,7.0,108,,0.0,They are split among the group,59,female,2,psych,part,3,3,1,1,edqsn7rj,,,,,0
+109,y5cup9e6,5ffb8c5b60571908f3ac19fa,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:33.875847,1,,,11.0,109,,0.0,The other participant is a robot so I don't think they earn anything,40,male,1,other,part,3,3,1,1,edqsn7rj,,,,,0
+110,9bpnvxze,5589cd58fdf99b18be3203af,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:33.935751,1,,,10.0,110,,0.0,I'm not sure because the other participant is a robot.  So I'm assuming nothing would happen if I gave them a payment.,37,female,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+111,jokbdfh7,5ec4b10f7e31c83a4d915cf6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:34.607981,1,,,7.0,111,,0.0,"I think the payoffs earned by the other participant is not distributed to anyone else, it is solely received by the other participant",23,male,2,med,no,3,3,1,1,edqsn7rj,,,,,0
+112,rj1au8c3,60fd795a96e15917bb9966c9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:34.890728,1,,,9.0,112,,0.0,I don't think anything happens with them.,18,female,1,med,no,3,3,1,1,edqsn7rj,,,,,0
+113,8qyeqc5g,60e5d47e17c05633eef565e3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:35.018207,1,,,10.0,113,,0.0,Nothing because the other participant is a computer,28,male,3,other,full,3,3,1,1,edqsn7rj,,,,,0
+114,0shnz4d8,60cd25ed439e39c03fe597a4,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:35.203748,1,,,10.0,114,,0.0,I'm not sure,18,female,1,na,part,0,0,1,1,edqsn7rj,,,,,0
+115,3nsx37lh,5f44c445cfb0a801244f652f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:35.305190,1,,,2.0,115,,0.0,not really sure,28,male,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+116,j2aioeaw,5dd4767b32288646716dc98a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:36.497991,1,,,0.0,116,,0.0,They receive the same as me,48,female,3,psych,part,1,2,1,1,edqsn7rj,,,,,0
+117,ydi21cj2,6108454f0f1590114b9d85c9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:37.372794,1,,,16.0,117,,0.0,"I'm not sure---they receive the money, right? They can do whatever they want with the money that they earn.",28,female,3,other,full,1,2,1,1,edqsn7rj,,,,,0
+118,uzi187nh,61108719ddb956bd0e94733d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:37.404107,1,,,5.0,118,,0.0,The other participant receives there payoffs based on what they offer.,29,female,2,other,no,1,2,1,1,edqsn7rj,,,,,0
+119,jctkhxal,6100b8ec68f33db3c5aa1619,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 17:48:38.220082,1,,,0.0,119,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+120,0ars8q4y,6090578fb2299eacaec32b7a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:38.638251,1,,,4.0,120,,0.0,The other participant gets to keep the payoff,27,female,1,na,no,2,3,1,1,edqsn7rj,,,,,0
+121,8frax6ko,55a47692fdf99b126e625257,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:39.246822,1,,,17.0,121,,0.0,It gets redistributed to actual players.,31,other,2,other_social,full,4,4,1,1,edqsn7rj,,,,,0
+122,tppcp968,60fef0626d87d03fb002641e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:39.583278,1,,,7.0,122,,0.0,It goes to the programmer,18,female,1,engineer,no,0,2,1,1,edqsn7rj,,,,,0
+123,5smldust,5fee10bfcb76970dffb57296,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:39.627833,1,,,10.0,123,,0.0,Nothing; the other participant was a computer,43,female,2,other,full,0,0,1,1,edqsn7rj,,,,,0
+124,ws4z1huu,600dcdff34fef66077146d8e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:39.787761,1,,,10.0,124,,0.0,they go to the computer programmer,23,male,2,econ,full,3,4,1,1,edqsn7rj,,,,,0
+125,t15hvhsl,5c7336a216dc79000146929b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:39.954720,1,,,12.0,125,,0.0,I would think the other participant would get their payoff/money sent to them.,32,female,2,other,part,1,0,1,1,edqsn7rj,,,,,0
+126,xrbt85t7,610810f532bc885e17a6ce8a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:40.214947,1,,,5.0,126,,0.0,"Nothing, the other participant was a computer, so no money is issued to them.",28,female,3,natural,part,3,3,1,1,edqsn7rj,,,,,0
+127,s7cldrvp,5c9293accd8dd00001d0b129,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:41.429112,1,,,4.0,127,,0.0,its kept by the survey people,51,male,2,econ,full,1,4,1,1,edqsn7rj,,,,,0
+128,ayepw6u5,60fee4900df86713b669fe90,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:41.451913,1,,,5.0,128,,0.0,I don't think anything happens since it is a computer,22,female,0,psych,no,1,1,1,1,edqsn7rj,,,,,0
+129,22h08d1c,61128d1fd41c74c6ee31a564,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:41.711963,1,,,10.0,129,,0.0,"I believe that they don't actually exist since the other participant is a computer, so nothing happens to them. ",28,female,2,econ,full,3,3,1,1,edqsn7rj,,,,,0
+130,bwu06wa7,602348484d326a1c5aa80bb7,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:41.912842,1,,,14.0,130,,0.0,I assume they get the the pay off unless there is not actually another participant ,37,female,2,natural,no,3,2,1,1,edqsn7rj,,,,,0
+131,ri1kakvf,56d0901c197fb1000b2348ee,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:42.886308,1,,,10.0,131,,0.0,It said it was a computer so I figure nothing will happen. ,33,male,1,na,no,4,4,1,1,edqsn7rj,,,,,0
+132,6gicetkf,60d9e7e76cf2ab6d21eb5f99,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:43.542534,1,,,12.0,132,,0.0,They are stored in the computer's memory and erased at the researcher's discretion,59,female,2,other_social,no,3,3,1,1,edqsn7rj,,,,,0
+133,tdcnbvon,5e1e223891295b000c6dc95f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:44.042426,1,,,7.0,133,,0.0,I think the payoffs are given in terms of a bonus,28,female,3,natural,full,1,1,1,1,edqsn7rj,,,,,0
+134,vtzegkio,5cfb5233df7d70001619ca90,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:45.099133,1,,,2.0,134,,0.0,Since other participant is the computer nobody really gets any money.,24,male,2,other_social,full,1,3,1,1,edqsn7rj,,,,,0
+135,wzcq3l4h,60859f820e5009a67adb3921,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:46.073544,1,,,0.0,135,,0.0,The payoff stinks because I was open to a lot of options,53,female,2,psych,full,3,3,1,1,edqsn7rj,,,,,0
+136,lwa5whts,603407c4dd800c16d182bb1e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:57.679864,1,,,0.0,136,,0.0,Goes back into the big amount for the mega bonus,32,male,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+137,9vqlf0as,5dd31760fb7d41000c6610e3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:58.581127,1,,,5.0,137,,0.0,I think the participant keeps it,32,female,1,na,part,3,3,1,1,edqsn7rj,,,,,0
+138,qqbgzb4k,56875435369319000c26947d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:49:11.233925,1,,,5.0,138,,0.0,"If it's fair, they accept, if not they don't",34,male,2,other,full,2,3,1,1,edqsn7rj,,,,,0
+139,cf9zltqr,61507c30291069d83501fdad,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:49:34.059182,1,,,7.0,139,,0.0,I think that if people are fair it will work out well for them.,42,male,3,other,full,3,3,1,1,edqsn7rj,,,,,0
+140,9t7t1xak,5df81cd72713055bdf02efd8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:50:08.791338,1,,,2.0,140,,0.0,Absolutely nothing because a computer cannot receive payment.,44,male,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+141,1j73ri40,5f402da30ce123154d1f3f84,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:50:22.620916,1,,,0.0,141,,0.0,The directions said the earnings of the computer would be paid to another participant that was not part of this interaction. ,59,male,3,politics,part,3,4,1,1,edqsn7rj,,,,,0
+142,271mmqfs,6115b151e995a87857689547,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:50:52.707782,1,,,2.0,142,,0.0,"Based on the information I received, I believe that the payoffs do not go to anyone since the other participant is a computer. ",19,female,1,natural,no,3,3,1,1,edqsn7rj,,,,,0
+143,0v9oxcmi,5e2ac2aa0038f21089a533a4,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:51:22.872494,1,,,8.0,143,,0.0,They receive them and spend them.,42,female,2,other,no,3,4,1,1,edqsn7rj,,,,,0
+144,cs15j2hy,61705235c277934df17055e6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:51:55.617246,1,,,7.0,144,,0.0,It goes back into the monies given out for bonuses to the other participants.,46,male,0,other,no,1,4,1,1,edqsn7rj,,,,,0
+145,w6j272eb,56f2a49ced0cf600069131cd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:48.012564,1,,,10.0,145,,0.0,"Nothing happens, since the other participant is a computer, and it is stated that the computer will receive nothing.",32,female,1,med,no,3,4,1,1,edqsn7rj,,,,,0
+146,tzeug0qo,608bfa04767191aa4d57bfd8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:53.292233,1,,,14.0,146,,0.0,I think they are sent as a bonus for the programmer and for me,38,female,1,na,full,0,2,1,1,edqsn7rj,,,,,0
+147,89sk3y5b,60dca5d351d99ef73b2f8994,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:53.514560,1,,,5.0,147,,0.0,I would hope that it gets distributed to other participants who took the study. ,29,female,2,other_social,part,1,4,1,1,edqsn7rj,,,,,0
+148,7gyq5dzg,5afa5252672ea800010d97e6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:54.735413,1,,,10.0,148,,0.0,The computer keeps it's earnings for itself. ,34,female,3,psych,full,3,3,1,1,edqsn7rj,,,,,0
+149,mnfvzl57,614fb055a7d4d923b73590fe,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:55.068798,1,,,9.0,149,,0.0,"since i was playing the computer, either nothing or some random drawing",41,male,1,natural,no,3,3,1,1,edqsn7rj,,,,,0
+150,r59sr63m,58211fc787f6b90001f13f90,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:57.607304,1,,,6.0,150,,0.0,"If it was a person I would imagine they kept the payoff, but since it was a computer I guess this just means it stays with the researchers.",39,male,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+151,rmoqjsq6,6138c2a6b71e7db9178095af,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 17:52:57.919255,1,,,0.0,151,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+152,dcdi1e8n,5dcefcd0307b8d05031d7264,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:58.183386,1,,,10.0,152,,0.0,I'm not certain,30,male,3,med,full,1,4,1,1,edqsn7rj,,,,,0
+153,gsmw913j,57587b29713d8400061730e4,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:00.840162,1,,,4.0,153,,0.0,The other participant keeps it for themselves.,40,female,2,other_social,part,2,2,1,1,edqsn7rj,,,,,0
+154,kzw82jyp,5dc1cd625fd2031344dfe43d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:01.538096,1,,,13.0,154,,0.0,get used for the next survey?,59,male,2,other,no,2,3,1,1,edqsn7rj,,,,,0
+155,9ccv2tiu,5e837e917441520b9c662931,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:02.138263,1,,,4.0,155,,0.0,No one receives it since the other participant is a computer. ,41,female,1,na,no,3,3,1,1,edqsn7rj,,,,,0
+156,i48kjabk,6151c8ea2f7b31bdda93807d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:03.243078,1,,,5.0,156,,0.0,Nothing because the other participant is a computer.,31,male,4,politics,full,3,0,1,1,edqsn7rj,,,,,0
+157,jdkd848c,6111a47c4405e21a554fe17a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:03.746277,1,,,5.0,157,,0.0,They get to keep them,40,female,1,na,full,0,2,1,1,edqsn7rj,,,,,0
+158,k7omthl8,612a5744ab67e0bc1b93dd8b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:04.036461,1,,,6.0,158,,0.0,"I imagine some it goes to them, assuming the ""other participant"" is a real person.",29,other,1,other,no,1,2,1,1,edqsn7rj,,,,,0
+159,nlcwd1ks,5ff21e8299e7cf6d2d1a7f13,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:04.214504,1,,,6.0,159,,0.0,They also got paid.,27,male,2,engineer,full,1,1,1,1,edqsn7rj,,,,,0
+160,kgjuecas,6154afcf38500d8446fb2cbd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:05.159565,1,,,0.0,160,,0.0,no one got anything ,34,male,2,econ,full,2,3,1,1,edqsn7rj,,,,,0
+161,irxybtpi,5edc0720ec975e0dc6385210,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:05.385028,1,,,5.0,161,,0.0,The would have been the one to get the bonus. ,39,female,3,other_social,part,1,1,1,1,edqsn7rj,,,,,0
+162,27hp27v8,6096c372f94346a5ff86d507,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:05.851818,1,,,20.0,162,,0.0,"If the other participant is a computer, nothing. If a person, they receive 50 cents per point.",38,female,1,other_social,part,2,3,1,1,edqsn7rj,,,,,0
+163,l53pe66h,5e7e0e92b7838b4aca1b6fca,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 17:53:06.370264,1,,,0.0,163,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+164,2cay2ui5,5b98940f754b700001f0f15c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:06.787920,1,,,14.0,164,,0.0,I think that there was no other actual participants.,56,female,2,na,full,3,2,1,1,edqsn7rj,,,,,0
+165,9jodyhp2,5d100e740277ff00152f7562,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:06.781696,1,,,9.0,165,,0.0,Nothing because it's a computer. Computers don't use money.,45,female,0,psych,full,2,0,1,1,edqsn7rj,,,,,0
+166,l4tu2swq,61007966aff8c0392da61a00,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:07.467559,1,,,8.0,166,,0.0,I think that part of the experiment isn't real but we are to think it's really going to a human for the purposes of the experiment.,58,female,3,other,no,0,2,1,1,edqsn7rj,,,,,0
+167,ug7okwm8,5c82c9a4d8302a00010639b8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:07.679821,1,,,2.0,167,,0.0,They go nowhere because it's a computer,31,male,2,other,full,3,2,1,1,edqsn7rj,,,,,0
+168,ucz36htm,5dfe8e7bdc8535b21b18ea2f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:08.585230,1,,,14.0,168,,0.0,You mean to the computer. Nothing happens to them at all. It's an experiment. Or do you want me to write that the computer earns something if I send the computer something back? I understood the instructions but am confused here.,40,male,3,other,full,1,2,1,1,edqsn7rj,,,,,0
+169,9w4jfk9x,5f46b13c9603e305ad51dc7f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:09.506721,1,,,3.0,169,,0.0,I imagine they also receive them to keep.,37,female,1,other,full,2,2,1,1,edqsn7rj,,,,,0
+170,z8s0rklj,61524acf44d954b0da2310a9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:10.675378,1,,,9.0,170,,0.0,I'm not sure what happens with it,41,female,1,na,no,4,3,1,1,edqsn7rj,,,,,0
+171,90o0y8j3,5f47e6376aa63923f3804e3b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:10.405857,1,,,11.0,171,,0.0,I think nothing happens to the payoff earned by the other participant because it is a computer.,42,male,2,na,full,3,2,1,1,edqsn7rj,,,,,0
+172,4rqy1zc4,5f1cc717981bb7584655fe62,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:10.490986,1,,,12.0,172,,0.0,It goes back into the points pool if there is one,38,male,2,natural,full,3,2,1,1,edqsn7rj,,,,,0
+173,w04sjara,6102c2bafd71006cf4fcbd67,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:12.185203,1,,,10.0,173,,0.0,they recieived their bonus payment,26,female,2,other,full,3,4,1,1,edqsn7rj,,,,,0
+174,5szxuh3x,5a33d736bf4d770001e6097a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:13.728264,1,,,0.0,174,,0.0,They are given as a bonus.,48,female,1,na,full,1,1,1,1,edqsn7rj,,,,,0
+175,nm3pzjlc,614e028cce0c68ed60059ab1,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:13.853932,1,,,3.0,175,,0.0,The other participant(computer) keeps it,25,male,1,engineer,no,2,3,1,1,edqsn7rj,,,,,0
+176,ieooc329,5fc1eec7b53fe8238532add3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:14.248245,1,,,5.0,176,,0.0,I find the phrasing of this question a bit confusing. I believe the payoffs earned by the other participants would be applied to their accounts in equivalent amounts. ,23,male,1,na,no,1,2,1,1,edqsn7rj,,,,,0
+177,fx9x3pzi,5692e00c8d93fe000efa0459,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:14.481251,1,,,9.0,177,,0.0,A computer can't use payoffs so they would go to the person who controls the computer,40,male,3,law,full,3,3,1,1,edqsn7rj,,,,,0
+178,wjcx9aco,5ee1aff5d156f20008c98012,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:21.886235,1,,,12.0,178,,0.0,I mean I assume it goes to the person who programmed the computer like you guys said. Maybe it gets collected and all goes to one person or goes into a pool of people who worked together,20,male,1,other,part,1,2,1,1,edqsn7rj,,,,,0
+179,zb27gets,612944f9b8a68a69978cf645,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:21.880384,1,,,0.0,179,,0.0,they get paid out if the offer limit was within the offer,24,male,2,other,full,2,2,1,1,edqsn7rj,,,,,0
+180,t6yu9b0h,602aaba2c2eb7c106100e516,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:22.509512,1,,,5.0,180,,0.0,"Since my other participant was a computer, I'd assume the researchers will use the funds for future research or to recruit additional participants for the experiment.",30,male,2,other,full,3,2,1,1,edqsn7rj,,,,,0
+181,clva987y,5ec1ecb7dc45b26292d5467e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:24.938993,1,,,4.0,181,,0.0,it vanishes into thin air tbh,19,female,1,natural,part,3,1,1,1,edqsn7rj,,,,,0
+182,jodan9zp,60ffae39406f5e4035c8dea0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:42.664774,1,,,5.0,182,,0.0,No ideas,33,male,3,econ,full,3,4,1,1,edqsn7rj,,,,,0
+183,h27j5lbh,61083ecdd1be9b22e7caf4cf,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:42.588816,1,,,8.0,183,,0.0,I think that the participants will get their payoff depending on what they chose in the experiment. Whether or not to accept. For the computer I don't think that that is actually any money.,20,female,1,psych,part,3,2,1,1,edqsn7rj,,,,,0
+184,ykmcjm1v,5eea537ffd89d01283ffac22,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:56.496406,1,,,9.0,184,,0.0,I'm not certain.,28,female,1,na,no,2,2,1,1,edqsn7rj,,,,,0
+185,1te2h7ml,607dc630d2d30aa7e8699c23,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:05.557551,1,,,2.0,185,,0.0,If it's a computer they get nothing if it's another participant they'll get between 3-6 mostly likely. ,31,male,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+186,2zf4v635,578673a9275be6000135880e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:07.039008,1,,,7.0,186,,0.0,I don't think the money actually goes to the programmer,31,male,2,econ,full,1,2,1,1,edqsn7rj,,,,,0
+187,2j5lprg5,5fb16308dc5973607fa3041c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:08.441010,1,,,3.0,187,,0.0,they keepit,58,female,1,na,no,0,2,1,1,edqsn7rj,,,,,0
+188,36j0dz8c,5fa41b6733b31601ac3f79c5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:08.914037,1,,,8.0,188,,0.0,Nothing happens to it. The computer isn't paid. ,41,female,3,other,full,2,2,1,1,edqsn7rj,,,,,0
+189,ug1pu8y9,60fdc934e81b93f92f561d76,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:11.049419,1,,,10.0,189,,0.0,I think that the other participant receives the base pay that is guaranteed to all participants. ,22,female,1,natural,no,1,2,1,1,edqsn7rj,,,,,0
+190,2bb7ye98,58d876b14240e50001190090,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:40.906567,1,,,4.0,190,,0.0,payoffs from accepted offers are paid as bonus,50,male,4,other,full,1,1,1,1,edqsn7rj,,,,,0
+191,8ryg61pe,5fbb89e20ddd50a66ab62a67,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:55:17.511515,1,,,10.0,191,,0.0,They will be kept by them.,48,male,1,natural,no,3,3,1,1,edqsn7rj,,,,,0
+192,7wyrxz49,606ce950bef1f305c877048d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:55:19.894054,1,,,10.0,192,,0.0,They don't get anything because it was the computer.,19,male,1,na,no,2,1,1,1,edqsn7rj,,,,,0
+193,cwtiqz5d,61588f27299f923d579de650,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:55:31.829593,1,,,7.0,193,,0.0,"I think they will do nothing with the payoff, since they are a computer",23,female,2,engineer,full,3,3,1,1,edqsn7rj,,,,,0
+194,398a2a70,5bba370b6130300001e3708e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:31.824668,1,,,5.0,194,,0.0,It goes to the programmer of the computer?,33,female,3,natural,no,3,3,1,1,edqsn7rj,,,,,0
+195,3f1sqqzm,5fe508e86079e12a8a3b2427,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:36.960550,1,,,10.0,195,,0.0,"It was a computer, so I think it would just be returned to the pool of money used for the experiment. ",29,male,2,politics,full,3,4,1,1,edqsn7rj,,,,,0
+196,w98e5ov6,610850597daefea9a102be25,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:38.608108,1,,,5.0,196,,0.0,it goes to the other participant,30,female,2,psych,full,3,2,1,1,edqsn7rj,,,,,0
+197,6cdp8zd3,6150b927614a4f154f311f9d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:38.770758,1,,,10.0,197,,0.0,"As no one would receive the points given to the computer, in a case where I would have split evenly with a human, I decided not to split with the computer in the hopes that it would not be ""wasted.""",31,female,1,other,no,3,3,1,1,edqsn7rj,,,,,0
+198,rqojtrlg,5f52e4f162b184600f379760,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:38.947127,1,,,11.0,198,,0.0,The participant keeps the payoffs,20,female,1,other,no,0,0,1,1,edqsn7rj,,,,,0
+199,dfksw5f2,5c224f5289f0350001738d48,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:39.288770,1,,,4.0,199,,0.0,"If it was a person, I think they would get their respective payoff. However, since it's the computer, I feel like that amount doesn't really go anywhere and just sort of disappears. ",28,female,1,other,full,1,3,1,1,edqsn7rj,,,,,0
+200,cxnl1n59,614e0c53139a2a838010794c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:42.149783,1,,,14.0,200,,0.0,"Since the other participant was a computer, I'm guessing nothing happens to the payoffs.",24,female,2,other_social,part,3,2,1,1,edqsn7rj,,,,,0
+201,6jfwywma,5e5080883771350caf2d9fda,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:42.253219,1,,,0.0,201,,0.0,I don't thin anything happens since it's a computer.,27,male,1,na,full,3,2,1,1,edqsn7rj,,,,,0
+202,blzay68j,53a9a1a6fdf99b5cf1a36ee0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:47.728489,1,,,17.0,202,,0.0,probably nothing since it was a computer,28,male,2,econ,part,2,4,1,1,edqsn7rj,,,,,0
+203,smfjhm8y,615009a911243c691332e533,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:49.165504,1,,,5.0,203,,0.0,They are given to the participant. ,39,male,3,other,full,1,1,1,1,edqsn7rj,,,,,0
+204,g6wy5pk3,60fcfac5e20edfa3acdc87e0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:50.133027,1,,,8.0,204,,0.0,I am not sure.,25,female,2,other,full,2,2,1,1,edqsn7rj,,,,,0
+205,ii3umjyr,615c65e4fa1c6b2e5a7d0971,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:52.296648,1,,,0.0,205,,0.0,everybody will get a share of the payoffs,47,male,2,econ,full,3,3,1,1,edqsn7rj,,,,,0
+206,s703qw61,60051d10e63710373daee6e7,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:52.531392,1,,,7.0,206,,0.0,It goes to the programmer of the robot software,33,female,1,na,no,2,3,1,1,edqsn7rj,,,,,0
+207,bzikzpoi,6149c3a3c9138abe6be0d7ec,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:52.613485,1,,,2.0,207,,0.0,No clue,59,female,1,na,no,0,0,1,1,edqsn7rj,,,,,0
+208,241cd9mu,61002435a6ebb7fbb7cbbcb4,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:55.095229,1,,,0.0,208,,0.0,The other participants get to keep their payoff,22,female,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+209,95xm02eg,5cb4c5bad44c410017960aa0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:55.830333,1,,,7.0,209,,0.0,?? I- I'm not sure what you mean by this question. Do you mean for the same rules as you described? or as they make their own decisions in the 'tripling'? I think the participants make their own decisions or are are granted points according to the rules.,53,female,3,other_social,full,3,4,1,1,edqsn7rj,,,,,0
+210,mu80u22g,613aae01f09a52a007cd063e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:58.007183,1,,,8.0,210,,0.0,a bonus for participating,27,female,2,engineer,full,3,3,1,1,edqsn7rj,,,,,0
+211,nwj5avcq,610024bfd6e1038ba3b1601d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:57.977454,1,,,7.0,211,,0.0,they get to keep it ,29,female,1,na,full,0,0,1,1,edqsn7rj,,,,,0
+212,oa6njmet,6122c40ce9843f432b336b30,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:58.104465,1,,,13.0,212,,0.0,Nothing ,39,female,2,other_social,part,3,3,1,1,edqsn7rj,,,,,0
+213,dlzb77ph,6107635aeaf5fe6c4d4aac77,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:58.363368,1,,,0.0,213,,0.0,The other participant is likely a computer and the money does not go anywhere.,29,female,3,other_social,full,0,3,1,1,edqsn7rj,,,,,0
+214,k02jchx3,609a5974625e18ab158c9a3e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:58.514307,1,,,10.0,214,,0.0,I really had no idea since I was paired with the computer and it stated the computer programmer would receive the money.,60,male,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+215,25pfm0c6,5f4859d23306481f0f0dd2a5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:58.979649,1,,,10.0,215,,0.0,Hopefully they get paid out,37,male,2,other_social,full,3,3,1,1,edqsn7rj,,,,,0
+216,e5yitqh9,580d5d1f357e890001dd14ce,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:59.518758,1,,,17.0,216,,0.0,"If it's a computer, nothing. If a person, they receive it. ",38,male,1,na,no,3,3,1,1,edqsn7rj,,,,,0
+217,i990eb4n,61110ef6be98298514c551e7,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:01.519900,1,,,12.0,217,,0.0,"To be honest, I'm not quite sure",19,female,1,natural,no,0,3,1,1,edqsn7rj,,,,,0
+218,yz9uaxdj,5fc2a0d49893540008bd113f,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 17:57:04.553101,1,,,0.0,218,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+219,tr8w4xsq,5e7d0520455902383a9d1dd9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:04.628491,1,,,10.0,219,,0.0,"I would normally split any bonus equally with another participant, but since my partner was a computer, it didn't really make any sense. I felt that the computer would not be able to receive, or make use of a bonus, hence I kept it for myself. I feel a bit selfish, even though it was just a computer...",53,male,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+220,bs0i7m9c,5d9d5debf346240014428500,0,13,24,trust_robot_secondmover,Belief,2021-12-15 17:57:05.095968,1,,,0.0,220,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+221,7v1t1yq9,610db393b77099464f765317,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:05.084261,1,,,7.0,221,,0.0,Donated to charity or funds additional research.,32,male,3,law,full,1,2,1,1,edqsn7rj,,,,,0
+222,j8koyj7k,5ea0f8b65669f80008176bec,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:05.181751,1,,,0.0,222,,0.0,"nothing, they aren't real.",42,male,2,natural,full,3,4,1,1,edqsn7rj,,,,,0
+223,bzw6q0ie,5f32486253e14b0451ec5912,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:06.643523,1,,,7.0,223,,0.0,I thought they would get shared between us,30,female,1,econ,no,2,3,1,1,edqsn7rj,,,,,0
+224,j2g4mup0,60fedd3890ce06a5f852b2e8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:07.029328,1,,,9.0,224,,0.0,They are distributed to another participant,32,female,2,other_social,full,1,2,1,1,edqsn7rj,,,,,0
+225,hki7an22,5fb3cbedb3cc10000a19c09d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:07.818627,1,,,5.0,225,,0.0,They spend them,41,female,1,na,full,0,0,1,1,edqsn7rj,,,,,0
+226,b08o5qma,611123631a0321bad08e4b6d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:08.104970,1,,,13.0,226,,0.0,"I think they tend to be lower, with people underestimating what the computer will return.",50,female,2,other,full,3,4,1,1,edqsn7rj,,,,,0
+227,4dn3xout,60fecf386c708796174d25cb,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:08.310873,1,,,7.0,227,,0.0,"The other participant was a computer, so, nothing?",19,female,1,psych,no,2,2,1,1,edqsn7rj,,,,,0
+228,g9kkx9uo,5fcc103fb2ab80a01f32f7ae,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:08.643698,1,,,5.0,228,,0.0,How much the participant decides to keep for themselves is how much they earn in 10 cents. ,25,female,1,other,no,2,2,1,1,edqsn7rj,,,,,0
+229,p2sk36n3,5e1efdb3a8c111230db526ff,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:09.234733,1,,,2.0,229,,0.0,the other participant rejected so there was no payoff,54,male,1,other,full,3,3,1,1,edqsn7rj,,,,,0
+230,pwtktfd2,5acba4a15cd10500016280ca,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:10.400812,1,,,5.0,230,,0.0,I would assume the payoff to the other participant will be fulfilled as a bonus for their separate contribution to the study.,33,male,1,other,no,3,3,1,1,edqsn7rj,,,,,0
+231,l3ksq4uk,611bf641e1b360ef4ddbdcc9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:12.327655,1,,,5.0,231,,0.0,"since the other participant was a computer, no one gets this money",26,female,3,natural,full,3,3,1,1,edqsn7rj,,,,,0
+232,6f9ppwid,5e46aa20caec81000b7d4f93,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:14.096084,1,,,5.0,232,,0.0,Nothing it just stays with the person who made the survey,45,male,2,engineer,full,4,4,1,1,edqsn7rj,,,,,0
+233,o82ekbhw,5eea4934bde1301131abb0f3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:14.863891,1,,,5.0,233,,0.0,Nothing. They do not get paid out. ,34,male,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+234,215qypij,5ee642c9f5cb343a58b1ef13,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:15.300636,1,,,0.0,234,,0.0,They go towards a bonus.,40,male,2,other,full,1,4,1,1,edqsn7rj,,,,,0
+235,jkc76mn7,5dedf0483711364928753ecd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:18.627776,1,,,8.0,235,,0.0,The other participant keeps their own earnings.,36,male,2,econ,full,3,3,1,1,edqsn7rj,,,,,0
+236,uvupoxu7,60bbba1662529ae59d1c55cf,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:19.097848,1,,,0.0,236,,0.0,I don't even know if the payoffs actually occur. This whole thing seemed fake to me. ,28,female,2,other,full,2,1,1,1,edqsn7rj,,,,,0
+237,gh3zrumm,612fd3208d3decaf3ec80bcc,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:22.191654,1,,,7.0,237,,0.0,there is no other players it goes back into a pile,46,female,1,na,no,0,2,1,1,edqsn7rj,,,,,0
+238,k3pug1ld,5f8f10ecc804f810a8a9cb80,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:25.614069,1,,,8.0,238,,0.0,I have no idea. I assume they earn them and keep them. ,46,male,3,other_social,full,1,3,1,1,edqsn7rj,,,,,0
+239,i1hbb5t8,60c5658aaa71527dab2c9ec3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:26.786885,1,,,9.0,239,,0.0,will ask you to decise how much you will fund and at the end of the survey it will give you additional earning defends on the other.,27,male,2,other,full,2,2,1,1,edqsn7rj,,,,,0
+240,34k0l0xw,5f2f03deec679e2cf4a992e6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:31.339496,1,,,7.0,240,,0.0,I think that each participant gets the payoffs that they earned as stated. ,32,male,2,other_social,full,4,3,1,1,edqsn7rj,,,,,0
+241,34mfr1pz,608f39d2c76e436967135846,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:35.680329,1,,,8.0,241,,0.0,"Not sure, I may just wanted to make sure I could only take what would benefit both.",29,male,1,na,full,3,4,1,1,edqsn7rj,,,,,0
+242,vghrzbhp,6155e0bb17662cfd9293bfd5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:52.795317,1,,,10.0,242,,0.0,I'm guessing nothing would happen with a payoff since it was a computer as the other participant. If it was a real human I would have given them half since they would actually receive the payoff.,46,female,2,natural,no,3,3,1,1,edqsn7rj,,,,,0
+243,aqy2sv8t,60fcc20f3286b54d48b32d10,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:58:46.098493,1,,,5.0,243,,0.0,same as the payoffs I selected,18,male,1,econ,no,3,3,1,1,edqsn7rj,,,,,0
+244,8tgvelen,5f51529b15e36638fe535eae,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:59:24.577833,1,,,11.0,244,,0.0,Testing on giving,36,male,2,other,full,3,3,1,1,edqsn7rj,,,,,0
+245,10amdpgc,5f1f9c1e6342c31c5c9ebe0a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:59:35.520821,1,,,17.0,245,,0.0,"Since the other participant is a computer, no one earns that pay, so I didn't want to give the computer any money ",25,female,2,other_social,full,1,4,1,1,edqsn7rj,,,,,0
+246,7jj8ehrw,60fcc6719e27920f135faf0c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:59:36.354377,1,,,9.0,246,,0.0,?,33,female,1,na,part,0,0,1,1,edqsn7rj,,,,,0
+247,e1f9ea3e,5ee11eb5636ea94d3ad43e3b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:00:16.307738,1,,,15.0,247,,0.0,Can't say really.,39,male,3,econ,full,3,3,1,1,edqsn7rj,,,,,0
+248,r5u0agtr,5d9f0981b22ffb00118e84cd,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:02:19.516235,1,,,13.0,248,,0.0,I'm not sure? I'm not really understanding this question.,51,female,1,na,full,3,3,1,1,edqsn7rj,,,,,0
+249,brym7q47,6035adb4f3a49c270dd71acd,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:02:40.010102,1,,,8.0,249,,0.0,I'm not sure I understand this question.  The other participant meaning the computer?  I assume that it is just not paid out.,36,male,2,politics,full,1,3,1,1,edqsn7rj,,,,,0
+250,lksm0kka,5dba0a89ffee14070ae13f74,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:06:57.746797,1,,,9.0,250,,0.0,"Nothing, I don't think the computer's points actually go to anyone.",34,female,1,other,part,2,2,1,1,edqsn7rj,,,,,0
+251,6v67d445,,0,0,24,,,,0,,,0.0,251,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+252,h3cvmehd,,0,0,24,,,,0,,,0.0,252,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+253,8nrn2azo,,0,0,24,,,,0,,,0.0,253,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+254,uex5fkeb,,0,0,24,,,,0,,,0.0,254,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+255,80tlup29,,0,0,24,,,,0,,,0.0,255,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+256,tl7nr3f0,,0,0,24,,,,0,,,0.0,256,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+257,bs1eq73e,,0,0,24,,,,0,,,0.0,257,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+258,pkafv5xn,,0,0,24,,,,0,,,0.0,258,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+259,cqj8r7ai,,0,0,24,,,,0,,,0.0,259,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+260,3tkw43z5,,0,0,24,,,,0,,,0.0,260,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+261,112x5yxk,,0,0,24,,,,0,,,0.0,261,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+262,p00yy7fi,,0,0,24,,,,0,,,0.0,262,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+263,4thpgtei,,0,0,24,,,,0,,,0.0,263,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+264,oebeoab9,,0,0,24,,,,0,,,0.0,264,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+265,psmzeka7,,0,0,24,,,,0,,,0.0,265,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+266,epndce7m,,0,0,24,,,,0,,,0.0,266,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+267,zcua1hqh,,0,0,24,,,,0,,,0.0,267,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+268,inbymiq6,,0,0,24,,,,0,,,0.0,268,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+269,w96byymq,,0,0,24,,,,0,,,0.0,269,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+270,dzjzuypr,,0,0,24,,,,0,,,0.0,270,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+271,y6g9ba4x,,0,0,24,,,,0,,,0.0,271,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+272,gdbo4ecd,,0,0,24,,,,0,,,0.0,272,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+273,qfbh11w8,,0,0,24,,,,0,,,0.0,273,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+274,6v60wlap,,0,0,24,,,,0,,,0.0,274,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+275,k9vtwcbe,,0,0,24,,,,0,,,0.0,275,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+276,gjevfwbx,,0,0,24,,,,0,,,0.0,276,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+277,1zh32b9i,,0,0,24,,,,0,,,0.0,277,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+278,yvli6tc5,,0,0,24,,,,0,,,0.0,278,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+279,o59mupv5,,0,0,24,,,,0,,,0.0,279,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+280,hresb6z8,,0,0,24,,,,0,,,0.0,280,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+281,s0z9w8zs,,0,0,24,,,,0,,,0.0,281,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+282,ub03zon5,,0,0,24,,,,0,,,0.0,282,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+283,v4n2s8tp,,0,0,24,,,,0,,,0.0,283,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+284,474p5cyo,,0,0,24,,,,0,,,0.0,284,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+285,fb8mjdhz,,0,0,24,,,,0,,,0.0,285,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+286,4eovi2ph,,0,0,24,,,,0,,,0.0,286,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+287,hzmft6de,,0,0,24,,,,0,,,0.0,287,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+288,cuh35m5r,,0,0,24,,,,0,,,0.0,288,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+289,ilah0p81,,0,0,24,,,,0,,,0.0,289,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+290,n1sgls3l,,0,0,24,,,,0,,,0.0,290,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+291,fvfxi91w,,0,0,24,,,,0,,,0.0,291,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+292,hky2aph0,,0,0,24,,,,0,,,0.0,292,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+293,tm9lsepi,,0,0,24,,,,0,,,0.0,293,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+294,y1myf37k,,0,0,24,,,,0,,,0.0,294,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+295,vg1h4qpu,,0,0,24,,,,0,,,0.0,295,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+296,h5d7qt0w,,0,0,24,,,,0,,,0.0,296,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+297,g6yc2kin,,0,0,24,,,,0,,,0.0,297,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+298,7ongf7tj,,0,0,24,,,,0,,,0.0,298,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+299,3txn76pz,,0,0,24,,,,0,,,0.0,299,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+300,6sz0v37w,,0,0,24,,,,0,,,0.0,300,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+301,vruhu16p,,0,0,24,,,,0,,,0.0,301,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+302,e32bz65p,,0,0,24,,,,0,,,0.0,302,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+303,d57sprp6,,0,0,24,,,,0,,,0.0,303,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+304,mr0pbmbl,,0,0,24,,,,0,,,0.0,304,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+305,7r9sf2ay,,0,0,24,,,,0,,,0.0,305,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+306,fkoeiym8,,0,0,24,,,,0,,,0.0,306,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+307,hy42481b,,0,0,24,,,,0,,,0.0,307,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+308,1lw7bzr3,,0,0,24,,,,0,,,0.0,308,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+309,xp4oyk5n,,0,0,24,,,,0,,,0.0,309,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+310,lu9x5tjl,,0,0,24,,,,0,,,0.0,310,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+311,9zzbpdsg,,0,0,24,,,,0,,,0.0,311,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+312,armsrqpn,,0,0,24,,,,0,,,0.0,312,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+313,0xxuwouq,,0,0,24,,,,0,,,0.0,313,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+314,myehz9t3,,0,0,24,,,,0,,,0.0,314,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+315,5jmrbw3j,,0,0,24,,,,0,,,0.0,315,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+316,t4fcbjw7,,0,0,24,,,,0,,,0.0,316,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+317,66z2mdrk,,0,0,24,,,,0,,,0.0,317,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+318,xf1bdb32,,0,0,24,,,,0,,,0.0,318,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+319,j4cad5gq,,0,0,24,,,,0,,,0.0,319,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+320,gf6svehz,,0,0,24,,,,0,,,0.0,320,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+321,ln5sfa8v,,0,0,24,,,,0,,,0.0,321,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+322,4xw9rn9i,,0,0,24,,,,0,,,0.0,322,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+323,dkpdivhn,,0,0,24,,,,0,,,0.0,323,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+324,68n3ueqs,,0,0,24,,,,0,,,0.0,324,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+325,m786uypn,,0,0,24,,,,0,,,0.0,325,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+326,0v68bi0o,,0,0,24,,,,0,,,0.0,326,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+327,rqgjbvlq,,0,0,24,,,,0,,,0.0,327,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+328,yct3hxd4,,0,0,24,,,,0,,,0.0,328,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+329,1mbzk3sc,,0,0,24,,,,0,,,0.0,329,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+330,c6ytgsia,,0,0,24,,,,0,,,0.0,330,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+331,h2voqi1h,,0,0,24,,,,0,,,0.0,331,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+332,o911aom0,,0,0,24,,,,0,,,0.0,332,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+333,9hf6z7ah,,0,0,24,,,,0,,,0.0,333,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+334,s9so1kxc,,0,0,24,,,,0,,,0.0,334,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+335,lmbe8zt2,,0,0,24,,,,0,,,0.0,335,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+336,1qfymd0o,,0,0,24,,,,0,,,0.0,336,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+337,lv3123ac,,0,0,24,,,,0,,,0.0,337,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+338,8khmar8b,,0,0,24,,,,0,,,0.0,338,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+339,88iuv7fx,,0,0,24,,,,0,,,0.0,339,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+340,9w6b9qcb,,0,0,24,,,,0,,,0.0,340,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+341,f2wq9klp,,0,0,24,,,,0,,,0.0,341,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+342,xvb92onw,,0,0,24,,,,0,,,0.0,342,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+343,r6ws4xdg,,0,0,24,,,,0,,,0.0,343,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+344,2ps038j3,,0,0,24,,,,0,,,0.0,344,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+345,bpqaawkj,,0,0,24,,,,0,,,0.0,345,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+346,oqe9r1s4,,0,0,24,,,,0,,,0.0,346,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+347,od88j0zf,,0,0,24,,,,0,,,0.0,347,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+348,0ke4s3vk,,0,0,24,,,,0,,,0.0,348,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+349,fwzp1vyq,,0,0,24,,,,0,,,0.0,349,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+350,4zbwnxgv,,0,0,24,,,,0,,,0.0,350,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+351,lbuozr86,,0,0,24,,,,0,,,0.0,351,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+352,ut9b18et,,0,0,24,,,,0,,,0.0,352,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+353,0zktsd1r,,0,0,24,,,,0,,,0.0,353,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+354,bky00jvb,,0,0,24,,,,0,,,0.0,354,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+355,0bygwtop,,0,0,24,,,,0,,,0.0,355,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+356,0wvw8y5r,,0,0,24,,,,0,,,0.0,356,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+357,wxso7r8h,,0,0,24,,,,0,,,0.0,357,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+358,49lo6003,,0,0,24,,,,0,,,0.0,358,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+359,30haql1n,,0,0,24,,,,0,,,0.0,359,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+360,t62iz8c5,,0,0,24,,,,0,,,0.0,360,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+361,d51z2138,,0,0,24,,,,0,,,0.0,361,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+362,c53xerr3,,0,0,24,,,,0,,,0.0,362,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+363,ztcbups9,,0,0,24,,,,0,,,0.0,363,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+364,xzp2fzqd,,0,0,24,,,,0,,,0.0,364,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+365,h350h5iz,,0,0,24,,,,0,,,0.0,365,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+366,5v9km0fq,,0,0,24,,,,0,,,0.0,366,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+367,vu4dfy9k,,0,0,24,,,,0,,,0.0,367,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+368,041vyhr4,,0,0,24,,,,0,,,0.0,368,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+369,9qs59cjh,,0,0,24,,,,0,,,0.0,369,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+370,x9qjebzy,,0,0,24,,,,0,,,0.0,370,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+371,ll9uh275,,0,0,24,,,,0,,,0.0,371,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+372,6o11uxk3,,0,0,24,,,,0,,,0.0,372,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+373,26j2wq60,,0,0,24,,,,0,,,0.0,373,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+374,rxzpzabq,,0,0,24,,,,0,,,0.0,374,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+375,aqqpyq8y,,0,0,24,,,,0,,,0.0,375,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+376,3twrzkj4,,0,0,24,,,,0,,,0.0,376,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+377,12fwjuwh,,0,0,24,,,,0,,,0.0,377,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+378,wuxq5q29,,0,0,24,,,,0,,,0.0,378,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+379,efln82vb,,0,0,24,,,,0,,,0.0,379,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+380,k2b2fmpo,,0,0,24,,,,0,,,0.0,380,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+381,rh7dmize,,0,0,24,,,,0,,,0.0,381,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+382,brd4gtt1,,0,0,24,,,,0,,,0.0,382,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+383,jorhrszk,,0,0,24,,,,0,,,0.0,383,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+384,74lyzomt,,0,0,24,,,,0,,,0.0,384,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+385,5z6rm7lh,,0,0,24,,,,0,,,0.0,385,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+386,tkzczob1,,0,0,24,,,,0,,,0.0,386,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+387,wle7spyn,,0,0,24,,,,0,,,0.0,387,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+388,xt9n7bxq,,0,0,24,,,,0,,,0.0,388,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+389,sor5qbst,,0,0,24,,,,0,,,0.0,389,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+390,fqsmb107,,0,0,24,,,,0,,,0.0,390,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+391,4w8zfhty,,0,0,24,,,,0,,,0.0,391,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+392,vetezjvz,,0,0,24,,,,0,,,0.0,392,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+393,lyx3axzt,,0,0,24,,,,0,,,0.0,393,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+394,0i39x21z,,0,0,24,,,,0,,,0.0,394,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+395,3swyvuo8,,0,0,24,,,,0,,,0.0,395,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+396,irtgapa6,,0,0,24,,,,0,,,0.0,396,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+397,dbcehnee,,0,0,24,,,,0,,,0.0,397,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+398,j5yi5q1k,,0,0,24,,,,0,,,0.0,398,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+399,1jr0fsfo,,0,0,24,,,,0,,,0.0,399,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0
+400,drhz5f72,,0,0,24,,,,0,,,0.0,400,,0.0,,,,,,,,,1,1,edqsn7rj,,,,,0

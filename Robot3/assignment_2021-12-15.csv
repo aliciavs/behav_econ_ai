@@ -1,0 +1,1301 @@
+﻿participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._current_page_name,participant.time_started_utc,participant.visited,participant.mturk_worker_id,participant.mturk_assignment_id,participant.payoff,player.id_in_group,player.role,player.payoff,group.id_in_subsession,subsession.round_number,session.code,session.label,session.mturk_HITId,session.mturk_HITGroupId,session.comment,session.is_demo
+1,eseupx9v,5ba292385301b80001c71ba2,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:26.031360,1,,,10.0,1,,0.0,2,1,al9gerxp,,,,,0
+2,7nnt8cnw,610325a6052741bbfb84bcd1,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:26.321303,1,,,10.0,2,,0.0,2,1,al9gerxp,,,,,0
+3,6jbjtley,615f54a5141128cf81b7e857,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:26.810111,1,,,5.0,1,,0.0,24,1,al9gerxp,,,,,0
+4,larnh907,5fb3d71c3144730009fe4a7b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:31.084867,1,,,7.0,1,,0.0,5,1,al9gerxp,,,,,0
+5,esp622n7,567dd32b4f0ef30006dbb718,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:33.476431,1,,,15.0,1,,0.0,10,1,al9gerxp,,,,,0
+6,evy424nl,5c2fcd716ea6880001dc8e3d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:33.974607,1,,,0.0,1,,0.0,17,1,al9gerxp,,,,,0
+7,ly1etsgq,6016f95c56f32e8df6e841af,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:34.366010,1,,,9.0,1,,0.0,23,1,al9gerxp,,,,,0
+8,3yje8zd1,61087e4fc006ee7d6be38641,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:34.572804,1,,,10.0,1,,0.0,3,1,al9gerxp,,,,,0
+9,p0t5epzi,5e9f70a9eec34b1108c84413,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:35.305548,1,,,11.0,1,,0.0,11,1,al9gerxp,,,,,0
+10,2538q0fm,613443bb8a6a4d961ffcd917,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:35.666770,1,,,15.0,1,,0.0,8,1,al9gerxp,,,,,0
+11,s4z776we,5f0fab5abdec9a1aff2b2744,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:36.553408,1,,,10.0,2,,0.0,5,1,al9gerxp,,,,,0
+12,kegfujam,5dd55652f30aa650f027e1c2,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-14 18:25:36.794305,1,,,0.0,1,,0.0,6,1,al9gerxp,,,,,0
+13,vmf5iv1u,5dcea7314d51e4107516c80d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:37.341988,1,,,10.0,1,,0.0,4,1,al9gerxp,,,,,0
+14,0dcb0nhg,6060bdd2935a3eb3bdcdb835,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:37.652566,1,,,12.0,1,,0.0,13,1,al9gerxp,,,,,0
+15,ikx1ez2i,59f226a9d6380600018b2923,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:37.894731,1,,,12.0,1,,0.0,12,1,al9gerxp,,,,,0
+16,ig6cjryp,60fdfd265d53f620ef2c3929,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:37.952762,1,,,14.0,1,,0.0,7,1,al9gerxp,,,,,0
+17,ezwdxl7r,600673836848dc9fb0e79785,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:38.095924,1,,,10.0,2,,0.0,3,1,al9gerxp,,,,,0
+18,gznighs1,6042d4d08ec254253f0865b8,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:38.599981,1,,,8.0,2,,0.0,7,1,al9gerxp,,,,,0
+19,83wzcwaw,614fb4cad115bf288f786dee,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:39.756950,1,,,13.0,2,,0.0,11,1,al9gerxp,,,,,0
+20,ychot3ny,6095e4f37b49956d05961a4b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:40.514033,1,,,10.0,2,,0.0,4,1,al9gerxp,,,,,0
+21,qfpydu4r,61035836646fb6ee2152f950,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:41.270087,1,,,8.0,1,,0.0,9,1,al9gerxp,,,,,0
+22,phbhqfsb,5658000ca9872d0011e1ba26,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:42.311592,1,,,14.0,2,,0.0,10,1,al9gerxp,,,,,0
+23,ejn1ysc6,615f2b3f0eafbabe579b889a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:42.445643,1,,,11.0,1,,0.0,15,1,al9gerxp,,,,,0
+24,trcs7j7e,5e3309ad239ceb2d47d47c4a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:42.437764,1,,,20.0,2,,0.0,8,1,al9gerxp,,,,,0
+25,wqqasgph,6019944a6de5a00dff9c8a32,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:42.697219,1,,,9.0,2,,0.0,9,1,al9gerxp,,,,,0
+26,mlu7h7wj,5eaff2eac963900392c6dc48,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:44.903838,1,,,17.0,2,,0.0,6,1,al9gerxp,,,,,0
+27,28g4b13b,59ff47d47ecfc50001be0555,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:45.062000,1,,,5.0,2,,0.0,12,1,al9gerxp,,,,,0
+28,nehppf8l,610978200236b59da80571e7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:47.747532,1,,,11.0,1,,0.0,14,1,al9gerxp,,,,,0
+29,eil4qa24,5bdf513338109a0001f474c8,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:50.667798,1,,,13.0,2,,0.0,13,1,al9gerxp,,,,,0
+30,22da6iab,60ff2fc7ff799a89b38e6adc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:50.772654,1,,,12.0,2,,0.0,14,1,al9gerxp,,,,,0
+31,i1otl5c2,614fe903e5acda6e19a9bc39,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:51.595857,1,,,9.0,2,,0.0,15,1,al9gerxp,,,,,0
+32,a4xr4zmg,60e5eceb989f38c746723024,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:55.479832,1,,,0.0,1,,0.0,18,1,al9gerxp,,,,,0
+33,11m5i1k5,5c40bb8880392f00015e8910,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:56.550667,1,,,0.0,2,,0.0,17,1,al9gerxp,,,,,0
+34,devkh3ii,60fd01cc86bb3e402db85e93,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:25:58.584507,1,,,7.0,1,,0.0,48,1,al9gerxp,,,,,0
+35,lnbelsab,5c2789fc1694480001e4c4e3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:00.933914,1,,,5.0,1,,0.0,16,1,al9gerxp,,,,,0
+36,8vnsi815,61520150b24df0af47d5c7f3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:11.385063,1,,,5.0,1,,0.0,19,1,al9gerxp,,,,,0
+37,0xnwye6m,5c55fec09fcbc40001dc50b5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:11.906319,1,,,4.0,2,,0.0,16,1,al9gerxp,,,,,0
+38,fhrvmznt,6170406b453e66204b8beed3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:24.208741,1,,,3.0,2,,0.0,18,1,al9gerxp,,,,,0
+39,e710zhrj,5c748b9188fdc20017c60436,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:27.360042,1,,,5.0,1,,0.0,20,1,al9gerxp,,,,,0
+40,frqafgqg,60d79f82b917a3cfd6643432,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:32.278407,1,,,3.0,2,,0.0,19,1,al9gerxp,,,,,0
+41,qgoxwwit,5dd9f0e719eecb97dfab7b48,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:32.313787,1,,,0.0,2,,0.0,20,1,al9gerxp,,,,,0
+42,bz6yp0tj,60306cf6330619ee41fa3cd2,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:26:47.890660,1,,,7.0,1,,0.0,22,1,al9gerxp,,,,,0
+43,5ymfkirn,5fce2f690262d007e3ceec0a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:27:15.248500,1,,,8.0,1,,0.0,21,1,al9gerxp,,,,,0
+44,55uj91hu,5fec956243c578e38ad84250,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:27:17.000944,1,,,7.0,2,,0.0,21,1,al9gerxp,,,,,0
+45,hw3o7ooo,5f4d40ca75b5258bf5af8cca,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:27:27.262808,1,,,5.0,2,,0.0,22,1,al9gerxp,,,,,0
+46,gx7fw3oy,610767787cedfee7eb040a80,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:27:47.225933,1,,,7.0,2,,0.0,23,1,al9gerxp,,,,,0
+47,pozacd2p,5c872cded9fe700001024123,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:25.653912,1,,,4.0,1,,0.0,40,1,al9gerxp,,,,,0
+48,w34hut9l,5b9b0f12d1ff7a00013b3b8a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:30.906723,1,,,8.0,1,,0.0,39,1,al9gerxp,,,,,0
+49,2vcbpzk7,5c0ddc894bc2690001b67bd0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:31.382498,1,,,0.0,1,,0.0,41,1,al9gerxp,,,,,0
+50,5syc80nb,5c33ccf9377d960001044af0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:33.363176,1,,,2.0,2,,0.0,24,1,al9gerxp,,,,,0
+51,r459pzy2,60a7d8b0fc03b8046e42b211,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:34.975195,1,,,0.0,1,,0.0,25,1,al9gerxp,,,,,0
+52,52ltqnj2,614ee347a57616853a7b1356,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:35.069785,1,,,7.0,1,,0.0,31,1,al9gerxp,,,,,0
+53,wqiz6dda,60121fca666552254559110d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:36.218673,1,,,14.0,1,,0.0,35,1,al9gerxp,,,,,0
+54,i7t9uesp,610c46ec070a815a79afe046,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:38.261887,1,,,10.0,1,,0.0,27,1,al9gerxp,,,,,0
+55,e8w6xg9u,5bbc18010cb04c00015025ce,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:39.486008,1,,,4.0,2,,0.0,25,1,al9gerxp,,,,,0
+56,t7167c6k,5c509cad3e4c8400010ac228,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:39.567863,1,,,10.0,1,,0.0,26,1,al9gerxp,,,,,0
+57,8t8anjpb,60fdaf0e27b6ed924e1a28d0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:39.956840,1,,,5.0,2,,0.0,27,1,al9gerxp,,,,,0
+58,zfa80s5i,5ec6d423fc10270f0bbbc90e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:42.326342,1,,,11.0,1,,0.0,36,1,al9gerxp,,,,,0
+59,7d3ogrpx,614e8940d8d08d51a2785582,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:42.503080,1,,,12.0,2,,0.0,36,1,al9gerxp,,,,,0
+60,i2c584zz,5ececb180ce9a12d14704ef5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:43.794067,1,,,10.0,2,,0.0,31,1,al9gerxp,,,,,0
+61,skfe3lea,5e8b0faa3d71b07b69ef26f4,0,23,24,survey,Survey,2021-12-14 18:29:44.609616,1,,,5.0,1,,0.0,28,1,al9gerxp,,,,,0
+62,9iiwpzt3,5d9f8573ce3daf0015e3e400,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:45.050732,1,,,10.0,1,,0.0,29,1,al9gerxp,,,,,0
+63,8i6522pf,60feb1a03c29d23a1476520f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:45.184618,1,,,5.0,2,,0.0,26,1,al9gerxp,,,,,0
+64,e1p74p4t,6108103e7cdaf6c911ee5c4c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:47.721712,1,,,8.0,1,,0.0,33,1,al9gerxp,,,,,0
+65,gr26jgv5,55e7b91341988f000575d6b5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:48.932304,1,,,13.0,1,,0.0,30,1,al9gerxp,,,,,0
+66,plf8cokx,5e5e5b2488479216d9171d1b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:49.470880,1,,,10.0,2,,0.0,29,1,al9gerxp,,,,,0
+67,xfmovl3c,61099736cede2ad0e1b3ba78,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:49.628782,1,,,13.0,2,,0.0,33,1,al9gerxp,,,,,0
+68,wwimoh43,611eb5db46ee495d60b16aae,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:50.030351,1,,,5.0,2,,0.0,40,1,al9gerxp,,,,,0
+69,7dmi0lnt,5c27e76978fad500019328cc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:50.074273,1,,,10.0,2,,0.0,28,1,al9gerxp,,,,,0
+70,08s8soqb,603e86969a3fd3ec23e64a13,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:50.487019,1,,,15.0,2,,0.0,35,1,al9gerxp,,,,,0
+71,h0duyyfk,5ddd675deb3973cbee9e415c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:51.007308,1,,,6.0,2,,0.0,30,1,al9gerxp,,,,,0
+72,70qyu6xu,593ab35d51244c00013dcb69,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:53.404768,1,,,10.0,1,,0.0,32,1,al9gerxp,,,,,0
+73,6ghi2wzl,5c347cb8bef9a20001e30950,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:53.747972,1,,,5.0,1,,0.0,43,1,al9gerxp,,,,,0
+74,9tja34ot,5f357a52ddc87914266543e3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:53.776974,1,,,4.0,2,,0.0,32,1,al9gerxp,,,,,0
+75,acd7k1h5,6102d5e6ff92a8dd0cce6b8f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:54.660364,1,,,14.0,1,,0.0,38,1,al9gerxp,,,,,0
+76,xvrl1kqh,61380e91fdd449e05017e8ac,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:54.981897,1,,,11.0,2,,0.0,39,1,al9gerxp,,,,,0
+77,ctog2b89,5fd1a05738899d1bab2798ec,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:56.976851,1,,,10.0,1,,0.0,34,1,al9gerxp,,,,,0
+78,lo91mjw1,5e8eab0540aaf41584d9b1b9,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:56.982289,1,,,17.0,2,,0.0,34,1,al9gerxp,,,,,0
+79,vw3mccxt,5d1e5ece2e9ac30016b522c5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:58.286237,1,,,0.0,1,,0.0,47,1,al9gerxp,,,,,0
+80,h8r46rqn,6111782b298eff6c31853ea8,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:29:59.001954,1,,,5.0,1,,0.0,42,1,al9gerxp,,,,,0
+81,wiobcsgn,5cb553b7a0ccb30017e5b617,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:01.430075,1,,,9.0,2,,0.0,38,1,al9gerxp,,,,,0
+82,wi7ivi90,5d63867550d0dd0017805976,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:01.955874,1,,,4.0,1,,0.0,44,1,al9gerxp,,,,,0
+83,nte5w51a,5c01d3c509e9c70001500b10,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:03.059230,1,,,0.0,2,,0.0,42,1,al9gerxp,,,,,0
+84,ceopj5bn,5f5e32a0d6a12c6857b8e127,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:03.529940,1,,,11.0,1,,0.0,37,1,al9gerxp,,,,,0
+85,dwppgoma,60bd784514215b77d2a0f4d8,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:04.909271,1,,,5.0,2,,0.0,43,1,al9gerxp,,,,,0
+86,qetidtam,5f3e5e066dfaa70464615447,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:05.285753,1,,,6.0,1,,0.0,45,1,al9gerxp,,,,,0
+87,ohzm5sti,61158574ed206f98ac50dba7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:07.716703,1,,,5.0,2,,0.0,41,1,al9gerxp,,,,,0
+88,zn3rnk7e,5d586fdc8200f50001f03a0e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:07.961656,1,,,9.0,2,,0.0,45,1,al9gerxp,,,,,0
+89,qgk47hmk,60d3740f31606cb50e49f00c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:09.705197,1,,,12.0,2,,0.0,37,1,al9gerxp,,,,,0
+90,mqbxki1l,58d069219dbe3f0001258793,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:12.543831,1,,,7.0,1,,0.0,46,1,al9gerxp,,,,,0
+91,u2zf7piq,57dd766bbcd7150001ded5de,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:18.846109,1,,,0.0,2,,0.0,44,1,al9gerxp,,,,,0
+92,4h3wiu11,6107d9c1e9a66a284ebcb9d3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:35.276693,1,,,4.0,2,,0.0,46,1,al9gerxp,,,,,0
+93,qthawos1,583b397f54686200010f1d20,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:30:38.934432,1,,,9.0,2,,0.0,47,1,al9gerxp,,,,,0
+94,9jsclvod,6108d6efa698e3dbe3b313d3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:32:17.975470,1,,,5.0,2,,0.0,48,1,al9gerxp,,,,,0
+95,qgk9xdvo,6110d7f556da416401efdd5f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:48.458408,1,,,10.0,1,,0.0,50,1,al9gerxp,,,,,0
+96,zrxt1gpi,610e02ecfec09b71ff681d86,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:49.695203,1,,,2.0,1,,0.0,49,1,al9gerxp,,,,,0
+97,ua0weqv6,60ef5b83e2e741ea6d220c92,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:51.334585,1,,,7.0,2,,0.0,49,1,al9gerxp,,,,,0
+98,uetkh54g,5edaa52a54fe056e4bc55408,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:51.525869,1,,,0.0,1,,0.0,67,1,al9gerxp,,,,,0
+99,03zp6r29,614e220aee4e0bd0529d6edd,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:51.601759,1,,,6.0,1,,0.0,52,1,al9gerxp,,,,,0
+100,ak1avl0v,5ff8b291840bed124061d389,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:51.874732,1,,,10.0,2,,0.0,50,1,al9gerxp,,,,,0
+101,km7kzcht,615628f39024e679836b778b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:52.432361,1,,,10.0,1,,0.0,51,1,al9gerxp,,,,,0
+102,8g2zgj51,5fd298b32f6cb7062fd9aea0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:53.320062,1,,,8.0,1,,0.0,54,1,al9gerxp,,,,,0
+103,87qpj1mn,5e4e844553bc702cdf68404d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:54.343896,1,,,5.0,1,,0.0,53,1,al9gerxp,,,,,0
+104,hfdwsdh4,5b7cbe9db630cf000125dffe,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:55.570377,1,,,10.0,2,,0.0,52,1,al9gerxp,,,,,0
+105,f3lq0z3k,5ea48ae3461d1044f2d282cc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:57.089437,1,,,4.0,1,,0.0,61,1,al9gerxp,,,,,0
+106,cjgrkyo9,5e38823f0d70ef099d5e5a56,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:57.133201,1,,,10.0,2,,0.0,51,1,al9gerxp,,,,,0
+107,mrl767pe,60feed0aea95a63cd3aade71,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:58.366563,1,,,8.0,1,,0.0,60,1,al9gerxp,,,,,0
+108,c9gvdtgq,5f4d2e57030fef9b371373a5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:58.661624,1,,,10.0,2,,0.0,53,1,al9gerxp,,,,,0
+109,57vvd46k,60fd9f121d7dd0dbad241575,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:58.833322,1,,,14.0,2,,0.0,54,1,al9gerxp,,,,,0
+110,s0z6a4b8,60bd28cc95ab27d4f4f6ada3,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:34:59.146110,1,,,11.0,1,,0.0,62,1,al9gerxp,,,,,0
+111,rij5kh66,602a86bb76d5ee0770e1943d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:00.929167,1,,,7.0,1,,0.0,69,1,al9gerxp,,,,,0
+112,4yno2nsq,5f4fe40c4af6f3120ff17532,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-14 18:35:01.068234,1,,,0.0,1,,0.0,57,1,al9gerxp,,,,,0
+113,dmj4v2y9,5c12f106c4b80e000192c472,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:01.110900,1,,,10.0,1,,0.0,58,1,al9gerxp,,,,,0
+114,hee9d6x9,5f902184d7badd065adb604b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:01.991822,1,,,5.0,1,,0.0,64,1,al9gerxp,,,,,0
+115,j5zwkkoc,6172378d423fdf1acdc2d212,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:03.694806,1,,,6.0,1,,0.0,63,1,al9gerxp,,,,,0
+116,6y1n17ev,5f2b0d992bd6f94c51adeac4,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:03.753476,1,,,5.0,1,,0.0,56,1,al9gerxp,,,,,0
+117,mjsfm4vn,60bcfa3d9cfc3d429181e927,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:03.648543,1,,,9.0,2,,0.0,58,1,al9gerxp,,,,,0
+118,wnxj5k2m,5c57ab1509864e0001361c74,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:04.127548,1,,,13.0,2,,0.0,56,1,al9gerxp,,,,,0
+119,yfobxqo6,5f7785e49588a42e71b2466a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:04.641961,1,,,14.0,1,,0.0,59,1,al9gerxp,,,,,0
+120,6fzbwt13,5bc9f8b677740000016a08b5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:05.144251,1,,,14.0,2,,0.0,61,1,al9gerxp,,,,,0
+121,vzb872hp,6109482350367148ce0aa834,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:05.614445,1,,,10.0,1,,0.0,55,1,al9gerxp,,,,,0
+122,x6xqh33z,6101667971d68405d105698a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:05.951441,1,,,9.0,2,,0.0,57,1,al9gerxp,,,,,0
+123,e82c1oj5,615fad239fd8b6f7c048057a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:06.315658,1,,,14.0,2,,0.0,59,1,al9gerxp,,,,,0
+124,e8xicilf,5e46f490a5748507c57e3c5f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:06.952246,1,,,0.0,1,,0.0,66,1,al9gerxp,,,,,0
+125,wql1znsf,60fcb2b45504d8488ab13968,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:08.577601,1,,,11.0,2,,0.0,62,1,al9gerxp,,,,,0
+126,0ax8av86,5e71a80784155f0c75a56c70,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:08.863976,1,,,13.0,2,,0.0,55,1,al9gerxp,,,,,0
+127,9tu3pusy,61003d8f50af08227da7fd77,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:09.232005,1,,,12.0,2,,0.0,60,1,al9gerxp,,,,,0
+128,m3tr0a56,5dbf704fa3f5cb40876271fc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:09.237891,1,,,5.0,2,,0.0,66,1,al9gerxp,,,,,0
+129,hah22424,5dd3e5b66d52253c0e37e402,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:19.385520,1,,,13.0,2,,0.0,63,1,al9gerxp,,,,,0
+130,x8faevzn,60b6938ae5e1bcc48326db9e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:25.763652,1,,,7.0,1,,0.0,70,1,al9gerxp,,,,,0
+131,lxaus657,57dd186e6598aa0001992616,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:26.406621,1,,,4.0,1,,0.0,65,1,al9gerxp,,,,,0
+132,geyktwmh,5ee3a34e16ad19048aef74f6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:31.218658,1,,,5.0,2,,0.0,64,1,al9gerxp,,,,,0
+133,tn3f5k6t,604b9e6373c491acd8aec923,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:35.172093,1,,,5.0,2,,0.0,65,1,al9gerxp,,,,,0
+134,ssnevi3r,61280902667000b761f45570,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:37.411535,1,,,4.0,2,,0.0,67,1,al9gerxp,,,,,0
+135,xi410quy,5fe17e28d8918b3fae67ec4d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:35:56.845825,1,,,2.0,2,,0.0,70,1,al9gerxp,,,,,0
+136,hufrkryu,61095aa08fbfc362fd8c2f4b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:36:04.357669,1,,,5.0,1,,0.0,68,1,al9gerxp,,,,,0
+137,l3667ots,61230b14a3bcb65c585dfdaa,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:36:07.093120,1,,,0.0,2,,0.0,68,1,al9gerxp,,,,,0
+138,c23h2j8o,6026d1eca0c0d1400dcfbbd6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:36:15.660201,1,,,8.0,2,,0.0,69,1,al9gerxp,,,,,0
+139,nc354vqh,5dccb82a76eab294aa4837ff,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:36:50.025801,1,,,6.0,1,,0.0,71,1,al9gerxp,,,,,0
+140,a8ue9y7h,5ecd4acdb218ec085c6eefe6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:37:51.349117,1,,,0.0,1,,0.0,94,1,al9gerxp,,,,,0
+141,ccdbc80c,5f981f8cf4b92c07ac93e2fe,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:18.404343,1,,,0.0,1,,0.0,88,1,al9gerxp,,,,,0
+142,12ov3vbd,5e0e1b8800a6bf000a694f79,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:29.686159,1,,,0.0,2,,0.0,88,1,al9gerxp,,,,,0
+143,zt4jd3ax,5eaf1a2c649fd108284c2b5f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:30.763967,1,,,9.0,1,,0.0,85,1,al9gerxp,,,,,0
+144,wdb32tbf,581649f0b434f0000184d2a9,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:30.867606,1,,,12.0,1,,0.0,82,1,al9gerxp,,,,,0
+145,vr6b29m5,60d105cd7e245d9c98c756ab,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:34.445852,1,,,7.0,1,,0.0,76,1,al9gerxp,,,,,0
+146,5lvad1tb,615c777509f34c8977bc45a7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:35.814583,1,,,9.0,2,,0.0,71,1,al9gerxp,,,,,0
+147,1yus2ogp,5f2a12f5837dd81e5881b7cc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:37.166228,1,,,10.0,1,,0.0,75,1,al9gerxp,,,,,0
+148,mxjtfgzf,5e2721b01160079464059b5c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:37.851699,1,,,9.0,1,,0.0,73,1,al9gerxp,,,,,0
+149,ctebuutp,60fce0bedbae8b8996c93203,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:38.400253,1,,,0.0,2,,0.0,73,1,al9gerxp,,,,,0
+150,308b5y2f,60fc7aac153cdd782a763977,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:38.595389,1,,,5.0,1,,0.0,91,1,al9gerxp,,,,,0
+151,em74fxge,5d93b788fdfe9d001c00c255,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:39.230162,1,,,9.0,1,,0.0,72,1,al9gerxp,,,,,0
+152,1rjk3das,5c05f6e5d30e3200016e1ed5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:40.183551,1,,,11.0,1,,0.0,80,1,al9gerxp,,,,,0
+153,d5rq2w1b,5fa4f94e535f3b1aa628e0ab,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:40.558583,1,,,9.0,2,,0.0,72,1,al9gerxp,,,,,0
+154,4m3ckn8q,5e861812b23b0a22ef59c4ee,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:42.060339,1,,,5.0,2,,0.0,76,1,al9gerxp,,,,,0
+155,h4j1rgw7,5a8e54c9f49c9a0001f3dc3f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:43.545077,1,,,9.0,1,,0.0,78,1,al9gerxp,,,,,0
+156,bblgraxb,614e028ecf892a8c9ba41c3f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:43.679447,1,,,8.0,2,,0.0,75,1,al9gerxp,,,,,0
+157,3yjjmwhx,61003ee2373062aab4f83efc,0,5,24,dictator_robot,Instructions,2021-12-14 18:38:43.878691,1,,,0.0,1,,0.0,74,1,al9gerxp,,,,,0
+158,b9tip70y,60ff10b949a92707f6fafe2c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:45.954908,1,,,9.0,1,,0.0,77,1,al9gerxp,,,,,0
+159,2xapqgdr,58a43e029a17120001d910d5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:46.362089,1,,,5.0,1,,0.0,116,1,al9gerxp,,,,,0
+160,mdhcub55,5be0f2c478a95e000186d639,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:46.880612,1,,,6.0,2,,0.0,74,1,al9gerxp,,,,,0
+161,5mynsbqp,5e04b9be7adf4bf23f066a2a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:47.652457,1,,,9.0,2,,0.0,82,1,al9gerxp,,,,,0
+162,hzhy88gu,5f6388c21b14c5079764e750,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:47.490673,1,,,11.0,1,,0.0,84,1,al9gerxp,,,,,0
+163,ubjfr8b6,592bb32c943e670001cde123,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:47.722598,1,,,9.0,1,,0.0,86,1,al9gerxp,,,,,0
+164,180jmm8d,5dd33b9159b1b033ec2cf634,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:48.784971,1,,,7.0,1,,0.0,81,1,al9gerxp,,,,,0
+165,878c4u7g,5f15dc270a46a66f60691e4a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:49.451130,1,,,0.0,1,,0.0,90,1,al9gerxp,,,,,0
+166,7xq7hf6v,5eb1f6fc96a926357133cbb1,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:50.021395,1,,,4.0,2,,0.0,81,1,al9gerxp,,,,,0
+167,zvyxooxp,5ae3563e5cd05500015ed96b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:50.733719,1,,,13.0,2,,0.0,78,1,al9gerxp,,,,,0
+168,8ispu3kr,611130b78c077f0127a0b9fc,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:50.757209,1,,,0.0,1,,0.0,79,1,al9gerxp,,,,,0
+169,graemhk1,5b18248744127b00013f90ce,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:50.795110,1,,,16.0,1,,0.0,83,1,al9gerxp,,,,,0
+170,h7n5aw2l,5d2215e737363e0001651a63,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:51.364288,1,,,17.0,2,,0.0,80,1,al9gerxp,,,,,0
+171,i55cwl5u,614b2c704c7b1994cb48e1c7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:52.810742,1,,,6.0,2,,0.0,83,1,al9gerxp,,,,,0
+172,rv5xisng,5fed01281d6cb4f2fef20220,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:52.948007,1,,,5.0,2,,0.0,77,1,al9gerxp,,,,,0
+173,okmydw1x,6101d686dc9bf9c963e5856d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:55.900824,1,,,10.0,2,,0.0,79,1,al9gerxp,,,,,0
+174,t6w8gzte,5a9262251eda410001360b2c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:56.802600,1,,,5.0,2,,0.0,94,1,al9gerxp,,,,,0
+175,j93n5cv5,60db58d0caaad90d54013aa7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:38:57.892245,1,,,8.0,1,,0.0,87,1,al9gerxp,,,,,0
+176,jy7y4y1m,616eee064fa84629904802ab,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:02.180439,1,,,8.0,2,,0.0,86,1,al9gerxp,,,,,0
+177,4texoc06,60fce4839af7ae2441e60551,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:04.395549,1,,,12.0,2,,0.0,85,1,al9gerxp,,,,,0
+178,2pa4mowi,5fbda708e368851d517637de,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:04.651272,1,,,12.0,2,,0.0,84,1,al9gerxp,,,,,0
+179,55fx1gsi,60d63e407fce934334a5e025,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:05.397829,1,,,10.0,1,,0.0,95,1,al9gerxp,,,,,0
+180,nxeugzat,5d7cefc73f9ae70018b400f1,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:05.937151,1,,,14.0,2,,0.0,87,1,al9gerxp,,,,,0
+181,pvimhsnk,550bb70bfdf99b6853dab45e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:10.559837,1,,,5.0,1,,0.0,92,1,al9gerxp,,,,,0
+182,xahkn88m,6108311bc2f07ea9abda770d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:17.539397,1,,,4.0,1,,0.0,89,1,al9gerxp,,,,,0
+183,wu8uod34,606e4eb2a56685e5593304cd,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:19.263812,1,,,5.0,2,,0.0,90,1,al9gerxp,,,,,0
+184,egnq7srv,5ac8f79068b65b00018d7ef9,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:28.965506,1,,,0.0,2,,0.0,92,1,al9gerxp,,,,,0
+185,hinolajq,5fd66ce8aec66457ff73d743,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:31.818946,1,,,0.0,2,,0.0,91,1,al9gerxp,,,,,0
+186,rtf6ymjn,5e287b789061a504bf990894,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:33.091471,1,,,0.0,2,,0.0,89,1,al9gerxp,,,,,0
+187,abvefiqp,6147a1c343f05087ff340b52,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:39:55.847374,1,,,7.0,1,,0.0,93,1,al9gerxp,,,,,0
+188,2dulfboj,597fe89a1b41a20001749f57,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:40:04.788010,1,,,0.0,2,,0.0,93,1,al9gerxp,,,,,0
+189,vf97h8m2,5b98d9362cca9c0001de161f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:40:42.504340,1,,,7.0,2,,0.0,95,1,al9gerxp,,,,,0
+190,syoix4so,6151517926ff8f856c7bc8d4,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:41:37.933706,1,,,5.0,1,,0.0,96,1,al9gerxp,,,,,0
+191,n555ipxn,610790e286844c36e02f906c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:13.636308,1,,,0.0,2,,0.0,96,1,al9gerxp,,,,,0
+192,1e8aerrw,5ed377271691ea000c548cb0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:27.759129,1,,,4.0,1,,0.0,113,1,al9gerxp,,,,,0
+193,q68imui4,60da18dba560960ea60a8fe5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:32.912805,1,,,10.0,1,,0.0,98,1,al9gerxp,,,,,0
+194,ip5tf4n5,5e1882adfd7db4158998b5f0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:33.010410,1,,,4.0,1,,0.0,114,1,al9gerxp,,,,,0
+195,7a4xspnr,60ff4f840fb5130859720ab8,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:33.489722,1,,,0.0,1,,0.0,97,1,al9gerxp,,,,,0
+196,lmi46a13,5c91ab9b47fad40011be8306,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:35.077427,1,,,10.0,2,,0.0,98,1,al9gerxp,,,,,0
+197,jeuplsgc,5f4b395013fe2f6ffcd95151,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:37.624475,1,,,3.0,2,,0.0,97,1,al9gerxp,,,,,0
+198,r0jjq8im,5cba1809102bd400130c19e7,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:41.029381,1,,,0.0,1,,0.0,119,1,al9gerxp,,,,,0
+199,pskpfevt,56435b83942576000a66eb5d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:42.696556,1,,,14.0,1,,0.0,102,1,al9gerxp,,,,,0
+200,h98kulwe,5a94c0b7b5e2110001c6891e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:42.982734,1,,,14.0,1,,0.0,103,1,al9gerxp,,,,,0
+201,nv5spjcr,60cac6e750602e711ed5efc6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:43.215274,1,,,14.0,1,,0.0,108,1,al9gerxp,,,,,0
+202,dgnp7fra,5cdad620eae6f70019d4e950,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:43.670366,1,,,12.0,1,,0.0,106,1,al9gerxp,,,,,0
+203,kec9iizf,5dc46e9d28e0d544cb8248aa,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:43.773980,1,,,7.0,1,,0.0,101,1,al9gerxp,,,,,0
+204,zp244yqk,5e0aa9378f1faf32c47f560c,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:43.952822,1,,,10.0,1,,0.0,99,1,al9gerxp,,,,,0
+205,ma7xio33,61723191b52d2b9d845f433e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:44.400797,1,,,8.0,2,,0.0,106,1,al9gerxp,,,,,0
+206,ze23cpmy,5c3fb71b36052e00016bb1a6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:45.132807,1,,,9.0,1,,0.0,105,1,al9gerxp,,,,,0
+207,r68gvsu0,5fdc1918bc4c4d156d95cf5e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:45.495560,1,,,0.0,2,,0.0,102,1,al9gerxp,,,,,0
+208,g3ec1hzk,6060cc2bf9ba38d90b1a6f12,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:45.824101,1,,,11.0,1,,0.0,104,1,al9gerxp,,,,,0
+209,t5kp5fjk,610b57f552e3982da159f85f,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:45.891777,1,,,10.0,2,,0.0,103,1,al9gerxp,,,,,0
+210,mq0gv7x5,5d96eeed1998fb00177f6b71,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:47.039302,1,,,10.0,2,,0.0,105,1,al9gerxp,,,,,0
+211,fn0nbb1j,5dd33bd8f01cbe3350807cf6,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:47.208910,1,,,10.0,2,,0.0,101,1,al9gerxp,,,,,0
+212,p4gcqpms,60fd84bd019682124d96c178,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:47.332113,1,,,5.0,2,,0.0,113,1,al9gerxp,,,,,0
+213,03krq8m6,6102dd96720f21dbed44ec01,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:49.116188,1,,,10.0,2,,0.0,99,1,al9gerxp,,,,,0
+214,12m6a8jc,5e79437d60e3c14ed20cc894,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:49.124540,1,,,10.0,1,,0.0,100,1,al9gerxp,,,,,0
+215,8edirc8e,614672e2a81f859693652d62,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:49.238201,1,,,14.0,2,,0.0,108,1,al9gerxp,,,,,0
+216,ariya16z,610ad7c325529b36c4598cf4,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:49.972304,1,,,10.0,2,,0.0,100,1,al9gerxp,,,,,0
+217,x1giuz6w,6108217efa3a9be841a44bb1,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:52.756549,1,,,15.0,2,,0.0,104,1,al9gerxp,,,,,0
+218,j336mq0s,5f0e9896f5e4e11e12c8f5ac,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:42:55.689863,1,,,9.0,1,,0.0,107,1,al9gerxp,,,,,0
+219,lax0ugkf,5ce4150a8ea1c40019a7cebe,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:00.258293,1,,,9.0,2,,0.0,107,1,al9gerxp,,,,,0
+220,rwe8gd2d,6088acc5decc809dbe82850b,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:00.580555,1,,,11.0,1,,0.0,109,1,al9gerxp,,,,,0
+221,0jgb6bzq,60dbc09cc576a008f412e077,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:01.909356,1,,,11.0,2,,0.0,109,1,al9gerxp,,,,,0
+222,endf09b0,5af5262f1b55800001f4a418,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:03.220737,1,,,5.0,1,,0.0,115,1,al9gerxp,,,,,0
+223,zdd10zel,60b81f5f9e32d170d3ab805e,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:03.813857,1,,,4.0,2,,0.0,116,1,al9gerxp,,,,,0
+224,2iuu4i1z,5f87d9bfc31a1322cfc32cbd,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:05.209038,1,,,11.0,1,,0.0,110,1,al9gerxp,,,,,0
+225,vrq6xg3r,55f244e632af740012170458,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:05.781803,1,,,9.0,1,,0.0,111,1,al9gerxp,,,,,0
+226,v2x7olsb,5f6a4e9f9b08d50eef23534d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:07.085029,1,,,5.0,1,,0.0,117,1,al9gerxp,,,,,0
+227,tta7r9d7,5fdca41ecb769722e2266d8a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:07.771538,1,,,0.0,1,,0.0,112,1,al9gerxp,,,,,0
+228,159nx2l4,5fc4868e1e58465b64455779,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:08.334466,1,,,3.0,2,,0.0,110,1,al9gerxp,,,,,0
+229,b7o3fdks,5f80bc44efa2c013099af460,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:10.811686,1,,,7.0,2,,0.0,111,1,al9gerxp,,,,,0
+230,y1rco6qt,5dd8c6e24c97928688acd05d,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:25.981835,1,,,5.0,2,,0.0,115,1,al9gerxp,,,,,0
+231,d9q2uk5d,60ddf5abb47cc02285793096,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:27.267007,1,,,0.0,2,,0.0,112,1,al9gerxp,,,,,0
+232,hv1vlyp4,60464c1eb5eb8b0dccd04684,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:32.849611,1,,,4.0,2,,0.0,114,1,al9gerxp,,,,,0
+233,zxijlj9r,5dc091fa9be08f03fb01a816,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:38.993014,1,,,7.0,1,,0.0,121,1,al9gerxp,,,,,0
+234,t2budtvr,615f5cae42df61c24539d5b5,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:43:53.414344,1,,,4.0,2,,0.0,117,1,al9gerxp,,,,,0
+235,bu0dtcue,5f556bd46e6c4c93a5a90c77,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:44:06.115724,1,,,10.0,2,,0.0,119,1,al9gerxp,,,,,0
+236,dr243xyz,5bdfb648484288000130dad0,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:44:07.640575,1,,,0.0,1,,0.0,118,1,al9gerxp,,,,,0
+237,3cagytd7,5e542a0c4b7e8c42fafa7216,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:44:59.472136,1,,,5.0,2,,0.0,118,1,al9gerxp,,,,,0
+238,1sjqxovz,558acd52fdf99b65685f03d9,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:45:49.087385,1,,,6.0,1,,0.0,120,1,al9gerxp,,,,,0
+239,wxl0hw4y,61292a3404d387db5b0b2a32,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:45:50.245068,1,,,0.0,2,,0.0,120,1,al9gerxp,,,,,0
+240,mlhp6pjf,5f1611b74f568f177ca351c4,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:48:34.803062,1,,,10.0,2,,0.0,121,1,al9gerxp,,,,,0
+241,bhodxhs1,5a6b998a3fb6420001c2f97a,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:49:23.720120,1,,,10.0,1,,0.0,122,1,al9gerxp,,,,,0
+242,8n9cgwk2,5e5295b135ace5000e86a6de,0,24,24,final_screen,EndOfExperiment,2021-12-14 18:52:50.868637,1,,,8.0,2,,0.0,122,1,al9gerxp,,,,,0
+243,kw3lv5v8,5dea7a7df87f5519e686ff7b,0,3,24,assignment,AssignmentWaitPage,2021-12-14 19:00:34.928864,1,,,0.0,243,,0.0,1,1,al9gerxp,,,,,0
+244,ar392aqp,5ca8f48c5689db001729e1f4,0,1,24,introduction,ID,2021-12-14 19:15:42.493647,1,,,0.0,244,,0.0,1,1,al9gerxp,,,,,0
+245,brkqockc,,0,0,24,,,,0,,,0.0,245,,0.0,1,1,al9gerxp,,,,,0
+246,f2a0geem,,0,0,24,,,,0,,,0.0,246,,0.0,1,1,al9gerxp,,,,,0
+247,fde74ehi,,0,0,24,,,,0,,,0.0,247,,0.0,1,1,al9gerxp,,,,,0
+248,djniuoir,,0,0,24,,,,0,,,0.0,248,,0.0,1,1,al9gerxp,,,,,0
+249,8775hbn8,,0,0,24,,,,0,,,0.0,249,,0.0,1,1,al9gerxp,,,,,0
+250,upj7h102,,0,0,24,,,,0,,,0.0,250,,0.0,1,1,al9gerxp,,,,,0
+251,xnugb4v1,,0,0,24,,,,0,,,0.0,251,,0.0,1,1,al9gerxp,,,,,0
+252,6eqji6rs,,0,0,24,,,,0,,,0.0,252,,0.0,1,1,al9gerxp,,,,,0
+253,u6enmbgo,,0,0,24,,,,0,,,0.0,253,,0.0,1,1,al9gerxp,,,,,0
+254,72ke9xk2,,0,0,24,,,,0,,,0.0,254,,0.0,1,1,al9gerxp,,,,,0
+255,7geiooq3,,0,0,24,,,,0,,,0.0,255,,0.0,1,1,al9gerxp,,,,,0
+256,rzjxtsbl,,0,0,24,,,,0,,,0.0,256,,0.0,1,1,al9gerxp,,,,,0
+257,so1pchj8,,0,0,24,,,,0,,,0.0,257,,0.0,1,1,al9gerxp,,,,,0
+258,idwo6kw6,,0,0,24,,,,0,,,0.0,258,,0.0,1,1,al9gerxp,,,,,0
+259,yhhdb2xy,,0,0,24,,,,0,,,0.0,259,,0.0,1,1,al9gerxp,,,,,0
+260,uf205z4i,,0,0,24,,,,0,,,0.0,260,,0.0,1,1,al9gerxp,,,,,0
+261,2l811ome,,0,0,24,,,,0,,,0.0,261,,0.0,1,1,al9gerxp,,,,,0
+262,vc9n7c8u,,0,0,24,,,,0,,,0.0,262,,0.0,1,1,al9gerxp,,,,,0
+263,ftsqokyv,,0,0,24,,,,0,,,0.0,263,,0.0,1,1,al9gerxp,,,,,0
+264,gef4xkro,,0,0,24,,,,0,,,0.0,264,,0.0,1,1,al9gerxp,,,,,0
+265,ad1ezzju,,0,0,24,,,,0,,,0.0,265,,0.0,1,1,al9gerxp,,,,,0
+266,07t4dsvl,,0,0,24,,,,0,,,0.0,266,,0.0,1,1,al9gerxp,,,,,0
+267,5n6ttnb7,,0,0,24,,,,0,,,0.0,267,,0.0,1,1,al9gerxp,,,,,0
+268,4hkuxrh0,,0,0,24,,,,0,,,0.0,268,,0.0,1,1,al9gerxp,,,,,0
+269,aqzwksqc,,0,0,24,,,,0,,,0.0,269,,0.0,1,1,al9gerxp,,,,,0
+270,w6cg7f18,,0,0,24,,,,0,,,0.0,270,,0.0,1,1,al9gerxp,,,,,0
+271,hu8jcrrq,,0,0,24,,,,0,,,0.0,271,,0.0,1,1,al9gerxp,,,,,0
+272,z5voapge,,0,0,24,,,,0,,,0.0,272,,0.0,1,1,al9gerxp,,,,,0
+273,kferzpcd,,0,0,24,,,,0,,,0.0,273,,0.0,1,1,al9gerxp,,,,,0
+274,pwf44pcv,,0,0,24,,,,0,,,0.0,274,,0.0,1,1,al9gerxp,,,,,0
+275,kk3weoxi,,0,0,24,,,,0,,,0.0,275,,0.0,1,1,al9gerxp,,,,,0
+276,spuzzx9y,,0,0,24,,,,0,,,0.0,276,,0.0,1,1,al9gerxp,,,,,0
+277,4m3vz1dx,,0,0,24,,,,0,,,0.0,277,,0.0,1,1,al9gerxp,,,,,0
+278,lqr6ilvq,,0,0,24,,,,0,,,0.0,278,,0.0,1,1,al9gerxp,,,,,0
+279,yejzfq0d,,0,0,24,,,,0,,,0.0,279,,0.0,1,1,al9gerxp,,,,,0
+280,65dqvy8x,,0,0,24,,,,0,,,0.0,280,,0.0,1,1,al9gerxp,,,,,0
+281,skewnu6u,,0,0,24,,,,0,,,0.0,281,,0.0,1,1,al9gerxp,,,,,0
+282,ox4pcnhb,,0,0,24,,,,0,,,0.0,282,,0.0,1,1,al9gerxp,,,,,0
+283,vqyo6sp7,,0,0,24,,,,0,,,0.0,283,,0.0,1,1,al9gerxp,,,,,0
+284,65p8197t,,0,0,24,,,,0,,,0.0,284,,0.0,1,1,al9gerxp,,,,,0
+285,odxnlzww,,0,0,24,,,,0,,,0.0,285,,0.0,1,1,al9gerxp,,,,,0
+286,sp6spf5a,,0,0,24,,,,0,,,0.0,286,,0.0,1,1,al9gerxp,,,,,0
+287,zpbcdxev,,0,0,24,,,,0,,,0.0,287,,0.0,1,1,al9gerxp,,,,,0
+288,0duh9cb9,,0,0,24,,,,0,,,0.0,288,,0.0,1,1,al9gerxp,,,,,0
+289,9zyfx243,,0,0,24,,,,0,,,0.0,289,,0.0,1,1,al9gerxp,,,,,0
+290,h3huo683,,0,0,24,,,,0,,,0.0,290,,0.0,1,1,al9gerxp,,,,,0
+291,64i1tj3t,,0,0,24,,,,0,,,0.0,291,,0.0,1,1,al9gerxp,,,,,0
+292,d1u6ff34,,0,0,24,,,,0,,,0.0,292,,0.0,1,1,al9gerxp,,,,,0
+293,ma16egzm,,0,0,24,,,,0,,,0.0,293,,0.0,1,1,al9gerxp,,,,,0
+294,o807eult,,0,0,24,,,,0,,,0.0,294,,0.0,1,1,al9gerxp,,,,,0
+295,rfgye41h,,0,0,24,,,,0,,,0.0,295,,0.0,1,1,al9gerxp,,,,,0
+296,quv6awpx,,0,0,24,,,,0,,,0.0,296,,0.0,1,1,al9gerxp,,,,,0
+297,4xmq15ko,,0,0,24,,,,0,,,0.0,297,,0.0,1,1,al9gerxp,,,,,0
+298,a6ikzwhv,,0,0,24,,,,0,,,0.0,298,,0.0,1,1,al9gerxp,,,,,0
+299,f0r3zja5,,0,0,24,,,,0,,,0.0,299,,0.0,1,1,al9gerxp,,,,,0
+300,7tjid9da,,0,0,24,,,,0,,,0.0,300,,0.0,1,1,al9gerxp,,,,,0
+301,eexe93d3,,0,0,24,,,,0,,,0.0,301,,0.0,1,1,al9gerxp,,,,,0
+302,ba9svgcd,,0,0,24,,,,0,,,0.0,302,,0.0,1,1,al9gerxp,,,,,0
+303,b7txklv0,,0,0,24,,,,0,,,0.0,303,,0.0,1,1,al9gerxp,,,,,0
+304,hvutjpja,,0,0,24,,,,0,,,0.0,304,,0.0,1,1,al9gerxp,,,,,0
+305,ef7v5j5z,,0,0,24,,,,0,,,0.0,305,,0.0,1,1,al9gerxp,,,,,0
+306,scjopyk2,,0,0,24,,,,0,,,0.0,306,,0.0,1,1,al9gerxp,,,,,0
+307,pmx87xve,,0,0,24,,,,0,,,0.0,307,,0.0,1,1,al9gerxp,,,,,0
+308,kdjtu3ex,,0,0,24,,,,0,,,0.0,308,,0.0,1,1,al9gerxp,,,,,0
+309,zzz522wq,,0,0,24,,,,0,,,0.0,309,,0.0,1,1,al9gerxp,,,,,0
+310,21331w1f,,0,0,24,,,,0,,,0.0,310,,0.0,1,1,al9gerxp,,,,,0
+311,j1cpm5ci,,0,0,24,,,,0,,,0.0,311,,0.0,1,1,al9gerxp,,,,,0
+312,zq2flfev,,0,0,24,,,,0,,,0.0,312,,0.0,1,1,al9gerxp,,,,,0
+313,t82jkli0,,0,0,24,,,,0,,,0.0,313,,0.0,1,1,al9gerxp,,,,,0
+314,aa7dnmug,,0,0,24,,,,0,,,0.0,314,,0.0,1,1,al9gerxp,,,,,0
+315,rhk3pa1q,,0,0,24,,,,0,,,0.0,315,,0.0,1,1,al9gerxp,,,,,0
+316,86xf4iil,,0,0,24,,,,0,,,0.0,316,,0.0,1,1,al9gerxp,,,,,0
+317,zn42nml4,,0,0,24,,,,0,,,0.0,317,,0.0,1,1,al9gerxp,,,,,0
+318,7dogysvu,,0,0,24,,,,0,,,0.0,318,,0.0,1,1,al9gerxp,,,,,0
+319,pfmbeyl3,,0,0,24,,,,0,,,0.0,319,,0.0,1,1,al9gerxp,,,,,0
+320,q0fmhd8w,,0,0,24,,,,0,,,0.0,320,,0.0,1,1,al9gerxp,,,,,0
+321,m4yz367e,,0,0,24,,,,0,,,0.0,321,,0.0,1,1,al9gerxp,,,,,0
+322,jlpu9y37,,0,0,24,,,,0,,,0.0,322,,0.0,1,1,al9gerxp,,,,,0
+323,6et5qon4,,0,0,24,,,,0,,,0.0,323,,0.0,1,1,al9gerxp,,,,,0
+324,nefm8cef,,0,0,24,,,,0,,,0.0,324,,0.0,1,1,al9gerxp,,,,,0
+325,1nv4isjm,,0,0,24,,,,0,,,0.0,325,,0.0,1,1,al9gerxp,,,,,0
+326,r58r9bqh,,0,0,24,,,,0,,,0.0,326,,0.0,1,1,al9gerxp,,,,,0
+327,q4ndo72t,,0,0,24,,,,0,,,0.0,327,,0.0,1,1,al9gerxp,,,,,0
+328,vstshcvy,,0,0,24,,,,0,,,0.0,328,,0.0,1,1,al9gerxp,,,,,0
+329,ah8b54sb,,0,0,24,,,,0,,,0.0,329,,0.0,1,1,al9gerxp,,,,,0
+330,5k3wx2ym,,0,0,24,,,,0,,,0.0,330,,0.0,1,1,al9gerxp,,,,,0
+331,312atocd,,0,0,24,,,,0,,,0.0,331,,0.0,1,1,al9gerxp,,,,,0
+332,d7rjs4j9,,0,0,24,,,,0,,,0.0,332,,0.0,1,1,al9gerxp,,,,,0
+333,39hq0kye,,0,0,24,,,,0,,,0.0,333,,0.0,1,1,al9gerxp,,,,,0
+334,3muggpfy,,0,0,24,,,,0,,,0.0,334,,0.0,1,1,al9gerxp,,,,,0
+335,pjsy4wha,,0,0,24,,,,0,,,0.0,335,,0.0,1,1,al9gerxp,,,,,0
+336,z2hnupk5,,0,0,24,,,,0,,,0.0,336,,0.0,1,1,al9gerxp,,,,,0
+337,05nyxmvx,,0,0,24,,,,0,,,0.0,337,,0.0,1,1,al9gerxp,,,,,0
+338,ikmtki4n,,0,0,24,,,,0,,,0.0,338,,0.0,1,1,al9gerxp,,,,,0
+339,bg73f9qj,,0,0,24,,,,0,,,0.0,339,,0.0,1,1,al9gerxp,,,,,0
+340,e4mraqux,,0,0,24,,,,0,,,0.0,340,,0.0,1,1,al9gerxp,,,,,0
+341,4m57xsxf,,0,0,24,,,,0,,,0.0,341,,0.0,1,1,al9gerxp,,,,,0
+342,ihw9ow5k,,0,0,24,,,,0,,,0.0,342,,0.0,1,1,al9gerxp,,,,,0
+343,32adzp2c,,0,0,24,,,,0,,,0.0,343,,0.0,1,1,al9gerxp,,,,,0
+344,nvvt2uh1,,0,0,24,,,,0,,,0.0,344,,0.0,1,1,al9gerxp,,,,,0
+345,qcc2dhyq,,0,0,24,,,,0,,,0.0,345,,0.0,1,1,al9gerxp,,,,,0
+346,29m6week,,0,0,24,,,,0,,,0.0,346,,0.0,1,1,al9gerxp,,,,,0
+347,csdperk0,,0,0,24,,,,0,,,0.0,347,,0.0,1,1,al9gerxp,,,,,0
+348,5ujr4gd0,,0,0,24,,,,0,,,0.0,348,,0.0,1,1,al9gerxp,,,,,0
+349,cccsgogk,,0,0,24,,,,0,,,0.0,349,,0.0,1,1,al9gerxp,,,,,0
+350,iml0welj,,0,0,24,,,,0,,,0.0,350,,0.0,1,1,al9gerxp,,,,,0
+351,rz07nsjf,,0,0,24,,,,0,,,0.0,351,,0.0,1,1,al9gerxp,,,,,0
+352,qu1g3bos,,0,0,24,,,,0,,,0.0,352,,0.0,1,1,al9gerxp,,,,,0
+353,ykh330ol,,0,0,24,,,,0,,,0.0,353,,0.0,1,1,al9gerxp,,,,,0
+354,4ic3ihpk,,0,0,24,,,,0,,,0.0,354,,0.0,1,1,al9gerxp,,,,,0
+355,emdthm5i,,0,0,24,,,,0,,,0.0,355,,0.0,1,1,al9gerxp,,,,,0
+356,6d5l1z73,,0,0,24,,,,0,,,0.0,356,,0.0,1,1,al9gerxp,,,,,0
+357,5tqtf8ne,,0,0,24,,,,0,,,0.0,357,,0.0,1,1,al9gerxp,,,,,0
+358,dkz32nig,,0,0,24,,,,0,,,0.0,358,,0.0,1,1,al9gerxp,,,,,0
+359,g8zs2mdp,,0,0,24,,,,0,,,0.0,359,,0.0,1,1,al9gerxp,,,,,0
+360,uiy0mady,,0,0,24,,,,0,,,0.0,360,,0.0,1,1,al9gerxp,,,,,0
+361,jwd73vfq,,0,0,24,,,,0,,,0.0,361,,0.0,1,1,al9gerxp,,,,,0
+362,2ywg69c0,,0,0,24,,,,0,,,0.0,362,,0.0,1,1,al9gerxp,,,,,0
+363,w4djxkl5,,0,0,24,,,,0,,,0.0,363,,0.0,1,1,al9gerxp,,,,,0
+364,c93dcr3r,,0,0,24,,,,0,,,0.0,364,,0.0,1,1,al9gerxp,,,,,0
+365,2gexu592,,0,0,24,,,,0,,,0.0,365,,0.0,1,1,al9gerxp,,,,,0
+366,kghvl66x,,0,0,24,,,,0,,,0.0,366,,0.0,1,1,al9gerxp,,,,,0
+367,7chnsp48,,0,0,24,,,,0,,,0.0,367,,0.0,1,1,al9gerxp,,,,,0
+368,4yvduekm,,0,0,24,,,,0,,,0.0,368,,0.0,1,1,al9gerxp,,,,,0
+369,qr9rtd5n,,0,0,24,,,,0,,,0.0,369,,0.0,1,1,al9gerxp,,,,,0
+370,d5nsfhjh,,0,0,24,,,,0,,,0.0,370,,0.0,1,1,al9gerxp,,,,,0
+371,tb3y7ovi,,0,0,24,,,,0,,,0.0,371,,0.0,1,1,al9gerxp,,,,,0
+372,97fsn5we,,0,0,24,,,,0,,,0.0,372,,0.0,1,1,al9gerxp,,,,,0
+373,9vyp6vdr,,0,0,24,,,,0,,,0.0,373,,0.0,1,1,al9gerxp,,,,,0
+374,x1q35h74,,0,0,24,,,,0,,,0.0,374,,0.0,1,1,al9gerxp,,,,,0
+375,kbq1q8q8,,0,0,24,,,,0,,,0.0,375,,0.0,1,1,al9gerxp,,,,,0
+376,0rk1h5jy,,0,0,24,,,,0,,,0.0,376,,0.0,1,1,al9gerxp,,,,,0
+377,uwihynrm,,0,0,24,,,,0,,,0.0,377,,0.0,1,1,al9gerxp,,,,,0
+378,mkmr4009,,0,0,24,,,,0,,,0.0,378,,0.0,1,1,al9gerxp,,,,,0
+379,3t2alze6,,0,0,24,,,,0,,,0.0,379,,0.0,1,1,al9gerxp,,,,,0
+380,g19fia7y,,0,0,24,,,,0,,,0.0,380,,0.0,1,1,al9gerxp,,,,,0
+381,gsksgj9z,,0,0,24,,,,0,,,0.0,381,,0.0,1,1,al9gerxp,,,,,0
+382,va5629j4,,0,0,24,,,,0,,,0.0,382,,0.0,1,1,al9gerxp,,,,,0
+383,g66z7b9x,,0,0,24,,,,0,,,0.0,383,,0.0,1,1,al9gerxp,,,,,0
+384,y4364vpq,,0,0,24,,,,0,,,0.0,384,,0.0,1,1,al9gerxp,,,,,0
+385,5xbkfsdj,,0,0,24,,,,0,,,0.0,385,,0.0,1,1,al9gerxp,,,,,0
+386,huflxdnw,,0,0,24,,,,0,,,0.0,386,,0.0,1,1,al9gerxp,,,,,0
+387,1wlw48bx,,0,0,24,,,,0,,,0.0,387,,0.0,1,1,al9gerxp,,,,,0
+388,ncnvf42y,,0,0,24,,,,0,,,0.0,388,,0.0,1,1,al9gerxp,,,,,0
+389,lcaa5j3d,,0,0,24,,,,0,,,0.0,389,,0.0,1,1,al9gerxp,,,,,0
+390,8yjuscb2,,0,0,24,,,,0,,,0.0,390,,0.0,1,1,al9gerxp,,,,,0
+391,egh705u2,,0,0,24,,,,0,,,0.0,391,,0.0,1,1,al9gerxp,,,,,0
+392,72diei1m,,0,0,24,,,,0,,,0.0,392,,0.0,1,1,al9gerxp,,,,,0
+393,grk2iixa,,0,0,24,,,,0,,,0.0,393,,0.0,1,1,al9gerxp,,,,,0
+394,hb40v0aw,,0,0,24,,,,0,,,0.0,394,,0.0,1,1,al9gerxp,,,,,0
+395,kzp0k6rk,,0,0,24,,,,0,,,0.0,395,,0.0,1,1,al9gerxp,,,,,0
+396,q4k1p3in,,0,0,24,,,,0,,,0.0,396,,0.0,1,1,al9gerxp,,,,,0
+397,t1uj5vt2,,0,0,24,,,,0,,,0.0,397,,0.0,1,1,al9gerxp,,,,,0
+398,q4amcn8y,,0,0,24,,,,0,,,0.0,398,,0.0,1,1,al9gerxp,,,,,0
+399,wpsnudwt,,0,0,24,,,,0,,,0.0,399,,0.0,1,1,al9gerxp,,,,,0
+400,fpq57hgb,,0,0,24,,,,0,,,0.0,400,,0.0,1,1,al9gerxp,,,,,0
+1,t3stcua8,5c03217b1a20110001e979f0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:37.743394,1,,,7.0,1,,0.0,2,1,edqsn7rj,,,,,0
+2,onfwz3x3,614f24578db9aab4bfb2809f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:39.217823,1,,,5.0,1,,0.0,4,1,edqsn7rj,,,,,0
+3,iv5bs63y,5eac65aec4ed450f4df4868f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:41.571897,1,,,10.0,2,,0.0,2,1,edqsn7rj,,,,,0
+4,jcxz664k,5dd3648c10420036f4141f18,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:43.083834,1,,,6.0,1,,0.0,7,1,edqsn7rj,,,,,0
+5,u3ms6woj,5d1c39079d6c1700015ca55d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:45.645318,1,,,14.0,2,,0.0,7,1,edqsn7rj,,,,,0
+6,eb69pfmg,60feb3e418c43afa1521859f,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 17:43:46.984430,1,,,0.0,2,,0.0,9,1,edqsn7rj,,,,,0
+7,w5bk1uky,55d35447da14d7000e95318f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:47.940378,1,,,10.0,1,,0.0,3,1,edqsn7rj,,,,,0
+8,009r94cq,599da50e17c03c000151b18b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:48.209446,1,,,12.0,2,,0.0,11,1,edqsn7rj,,,,,0
+9,pjve9pat,614227ca2722b36a2e6a593b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:48.807686,1,,,6.0,1,,0.0,15,1,edqsn7rj,,,,,0
+10,ig3h4ydq,5e503489f3b86307aff92704,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:49.063010,1,,,0.0,1,,0.0,40,1,edqsn7rj,,,,,0
+11,qba55p1k,5858b2ca83a02d0001e38fd2,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:49.086808,1,,,5.0,1,,0.0,5,1,edqsn7rj,,,,,0
+12,ibh2c83d,614e22baed17f763e7d7593a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:49.538642,1,,,5.0,2,,0.0,3,1,edqsn7rj,,,,,0
+13,4i7w73jm,611115eb23d02f639a39f61e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:51.441468,1,,,11.0,1,,0.0,14,1,edqsn7rj,,,,,0
+14,2n03ua1t,6117ba4fd05245c3cc387782,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:52.928316,1,,,11.0,1,,0.0,6,1,edqsn7rj,,,,,0
+15,i3xfa2i8,5d28ec37d7d4940015e62beb,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:53.185149,1,,,11.0,2,,0.0,6,1,edqsn7rj,,,,,0
+16,wltj1wkd,6171a40fa78f30bce9262352,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:53.518510,1,,,20.0,1,,0.0,10,1,edqsn7rj,,,,,0
+17,y4s88cc9,5b5e7e643bac1d0001f9bf28,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:53.550757,1,,,10.0,1,,0.0,27,1,edqsn7rj,,,,,0
+18,c3n58vrl,5f32aab12a9f82000854c3ea,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:53.713562,1,,,5.0,2,,0.0,4,1,edqsn7rj,,,,,0
+19,0fnx6ttg,59296fb2e8a7ff000163f033,0,1,24,introduction,ID,2021-12-15 17:43:54.724883,1,,,0.0,19,,0.0,1,1,edqsn7rj,,,,,0
+20,25y0exg7,60721a45b75cb8f4b00abd05,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:55.694031,1,,,10.0,1,,0.0,26,1,edqsn7rj,,,,,0
+21,u86wmwpy,5e156dbb19232db781789a8f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:55.684744,1,,,5.0,2,,0.0,5,1,edqsn7rj,,,,,0
+22,27trjxr3,60fd820a3a4602b463460989,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:58.756107,1,,,9.0,1,,0.0,25,1,edqsn7rj,,,,,0
+23,eit4m61f,615528d84655a2ab9655a686,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:58.966386,1,,,7.0,1,,0.0,24,1,edqsn7rj,,,,,0
+24,urol0h9d,60ceeec3a0bed4a1e603b8d7,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:43:59.680189,1,,,9.0,2,,0.0,10,1,edqsn7rj,,,,,0
+25,ct7u20fy,5cc8cab1f67ce800171cc5b2,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:00.333015,1,,,14.0,1,,0.0,9,1,edqsn7rj,,,,,0
+26,du7k1akq,5efa98dd74af25000cdbbf43,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:02.934738,1,,,0.0,1,,0.0,17,1,edqsn7rj,,,,,0
+27,ismx0csu,5f09f9a38bf3690ea1c20c96,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 17:44:03.459184,1,,,0.0,1,,0.0,13,1,edqsn7rj,,,,,0
+28,lpd44i41,60fe010f7d53d4e9cebf78a4,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:04.574525,1,,,11.0,2,,0.0,14,1,edqsn7rj,,,,,0
+29,d7vzn4s7,6107704ce2b1dc206c3dfff1,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:05.612658,1,,,11.0,1,,0.0,11,1,edqsn7rj,,,,,0
+30,twpqviup,61083d0cd5238a0405e40d81,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:05.698265,1,,,12.0,1,,0.0,12,1,edqsn7rj,,,,,0
+31,w9n7a60a,5ee09c1a0c2ad1027f541f53,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:07.067490,1,,,5.0,1,,0.0,16,1,edqsn7rj,,,,,0
+32,8utuvio3,5e8b32ec2c33ae7f20a0b401,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:07.221668,1,,,5.0,2,,0.0,17,1,edqsn7rj,,,,,0
+33,vt5ldo87,6153985e7640f9294606c01b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:07.475676,1,,,5.0,2,,0.0,26,1,edqsn7rj,,,,,0
+34,dpnpnj1t,5d5b0dd7c032a2001ad7cf5d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:08.557873,1,,,6.0,2,,0.0,12,1,edqsn7rj,,,,,0
+35,dfj72i8v,6155f53fc771902cafcf2d04,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:08.924099,1,,,9.0,2,,0.0,15,1,edqsn7rj,,,,,0
+36,eov3m3kb,5cd1a619240bc80013310b4e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:08.929890,1,,,11.0,1,,0.0,33,1,edqsn7rj,,,,,0
+37,ovfqu0iv,6077a808b8d8534a901e5d78,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:09.582975,1,,,4.0,1,,0.0,19,1,edqsn7rj,,,,,0
+38,1n1puiwt,570521cfde5095001018a0c8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:10.224768,1,,,0.0,1,,0.0,18,1,edqsn7rj,,,,,0
+39,47m7wpjv,60b3e6ad448226548d21fc4d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:10.669160,1,,,5.0,1,,0.0,44,1,edqsn7rj,,,,,0
+40,mz8gnwoa,60fccb9cdc755c472323f72f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:10.871161,1,,,11.0,2,,0.0,13,1,edqsn7rj,,,,,0
+41,0n0xh6uz,60fd543d2abb391065714ebd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:11.489628,1,,,4.0,1,,0.0,21,1,edqsn7rj,,,,,0
+42,ko9jqa5g,61115686fa7f267dae6767fc,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:11.730237,1,,,5.0,2,,0.0,27,1,edqsn7rj,,,,,0
+43,d0weqf4x,6104d98266f5052e15ea9c7d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:11.939503,1,,,0.0,2,,0.0,19,1,edqsn7rj,,,,,0
+44,mzqclnxx,6079ba5a05d72de699c90891,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:12.371642,1,,,14.0,1,,0.0,37,1,edqsn7rj,,,,,0
+45,rbif67mv,61077651f3cf03585e9f04e8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:12.603426,1,,,0.0,1,,0.0,22,1,edqsn7rj,,,,,0
+46,q6ol8fvq,61008eb5a88b152b46baaae0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:13.537532,1,,,5.0,1,,0.0,20,1,edqsn7rj,,,,,0
+47,8ke373kc,61210b5c3f465c51a7f4166a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:13.869694,1,,,11.0,1,,0.0,57,1,edqsn7rj,,,,,0
+48,fbpatpvr,5f405adcda0ade19c87826bd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:13.724316,1,,,4.0,2,,0.0,16,1,edqsn7rj,,,,,0
+49,evmsa7dd,60928b55a027ee7893ed76e5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:13.905151,1,,,10.0,1,,0.0,28,1,edqsn7rj,,,,,0
+50,rola6r95,60ff4cca713180d934efc4c7,0,3,24,assignment,AssignmentWaitPage,2021-12-15 17:44:14.131970,1,,,0.0,50,,0.0,1,1,edqsn7rj,,,,,0
+51,k1cd1yg8,5a84f454ae9a0b0001a9e4e5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:14.534029,1,,,9.0,1,,0.0,23,1,edqsn7rj,,,,,0
+52,66abx11h,60fe43d9f9d89a9237395a83,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:15.221053,1,,,13.0,1,,0.0,36,1,edqsn7rj,,,,,0
+53,dygccdxl,61118740f276fed33c6e6894,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:15.373481,1,,,17.0,1,,0.0,34,1,edqsn7rj,,,,,0
+54,wkbwgfh4,60ea823910936e7bff37d86b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:16.179625,1,,,9.0,2,,0.0,23,1,edqsn7rj,,,,,0
+55,1kgbz7m8,5d979a7705d4d60017b154c6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:16.693420,1,,,6.0,2,,0.0,21,1,edqsn7rj,,,,,0
+56,uquqn5x4,5baa535fa3c9170001156197,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:16.796483,1,,,13.0,1,,0.0,30,1,edqsn7rj,,,,,0
+57,h1l02m2g,60d29dcc8ee32f63b359d02d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:18.019738,1,,,5.0,2,,0.0,20,1,edqsn7rj,,,,,0
+58,gui077e3,5f658f418c686c1096675a12,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:18.134651,1,,,5.0,1,,0.0,43,1,edqsn7rj,,,,,0
+59,rtnouk2v,5f4169e6373fe00ecfe0caa7,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:18.555590,1,,,0.0,2,,0.0,18,1,edqsn7rj,,,,,0
+60,l6r38b36,5c42803ea3e45a0001be6979,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:19.368697,1,,,5.0,2,,0.0,25,1,edqsn7rj,,,,,0
+61,07a4lapr,6165a8ee6dde7ff6f4b22e6f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:19.615096,1,,,10.0,2,,0.0,28,1,edqsn7rj,,,,,0
+62,qpuuo0m4,5ec75df0d799ae1c11a8115c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:21.465159,1,,,4.0,2,,0.0,40,1,edqsn7rj,,,,,0
+63,16j8tfe9,608ecc26e4c76e93f4e1afe3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:21.939373,1,,,4.0,1,,0.0,42,1,edqsn7rj,,,,,0
+64,a7xvldzf,5fc6c29c3639800a0199ad8d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:21.932905,1,,,7.0,2,,0.0,22,1,edqsn7rj,,,,,0
+65,4qeb0lu4,5e7146ee69a3f1061774803b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:22.744658,1,,,5.0,2,,0.0,24,1,edqsn7rj,,,,,0
+66,ot40x60u,5d0e9d1bf403080016411381,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:22.962242,1,,,13.0,2,,0.0,34,1,edqsn7rj,,,,,0
+67,hbv5ithb,5d0ac7504d57690017a355ef,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:23.153755,1,,,12.0,1,,0.0,32,1,edqsn7rj,,,,,0
+68,0g021tdh,60d7199f88ea85b1e5790d58,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:23.471013,1,,,11.0,1,,0.0,31,1,edqsn7rj,,,,,0
+69,rw012pfp,58d4c4c287b2420001263b6a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:24.164596,1,,,10.0,2,,0.0,30,1,edqsn7rj,,,,,0
+70,dmd1zpsj,564d1fedb48dec0005b5191d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:25.461109,1,,,14.0,1,,0.0,39,1,edqsn7rj,,,,,0
+71,xz22lp2j,5fa2050042e91e3c2bae0ec2,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:26.919865,1,,,4.0,2,,0.0,43,1,edqsn7rj,,,,,0
+72,wui5k5pi,6154973c69da7c97996a19f6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:27.173903,1,,,8.0,2,,0.0,31,1,edqsn7rj,,,,,0
+73,wh7mvbu5,5dde8fba82f458000c8c7c75,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:27.702563,1,,,10.0,2,,0.0,33,1,edqsn7rj,,,,,0
+74,o3gx4s3k,5c52016a3146f80001d47b26,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:28.755686,1,,,10.0,1,,0.0,29,1,edqsn7rj,,,,,0
+75,q4eygpk1,5e387dba03aa45000bc6e272,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:29.455421,1,,,5.0,2,,0.0,32,1,edqsn7rj,,,,,0
+76,pt20i4zg,58742bf5d53c97000159df8c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:29.438557,1,,,3.0,1,,0.0,35,1,edqsn7rj,,,,,0
+77,cpav9b1j,6018d815710c721dd0c0a34c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:31.984523,1,,,5.0,2,,0.0,37,1,edqsn7rj,,,,,0
+78,2f9te8ps,60801193150c8f60aa4884f0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:30.887579,1,,,5.0,2,,0.0,29,1,edqsn7rj,,,,,0
+79,69i9pnpv,60fe1952f39082cd493260b5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:33.468897,1,,,11.0,1,,0.0,38,1,edqsn7rj,,,,,0
+80,w2rolq1q,5bfd81fb2feab400014d9060,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:40.231565,1,,,11.0,2,,0.0,38,1,edqsn7rj,,,,,0
+81,vlnim7qw,60b8cdf27f4022c3f2a8512e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:41.585312,1,,,13.0,2,,0.0,35,1,edqsn7rj,,,,,0
+82,71k29j1d,60fd6b0424bef26f15703a76,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:47.536776,1,,,10.0,2,,0.0,36,1,edqsn7rj,,,,,0
+83,p7r0azs8,60b97a3a8823dbdc946d8708,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:44:49.190573,1,,,8.0,1,,0.0,47,1,edqsn7rj,,,,,0
+84,u6zqftv3,5ff37fcafef4d1958f4ac4a3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:45:00.977624,1,,,13.0,2,,0.0,39,1,edqsn7rj,,,,,0
+85,hrwfrmwk,570b7f8fb9b52b00102d9723,0,15,24,ultimatum_robot_proposer_strategy,Instructions,2021-12-15 17:45:04.141555,1,,,0.0,1,,0.0,41,1,edqsn7rj,,,,,0
+86,7ql41sk6,5f6f738fef894f0dbf9839f8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:45:16.329885,1,,,0.0,2,,0.0,42,1,edqsn7rj,,,,,0
+87,eld5q80d,56c89c761d066b000c473879,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:45:20.130802,1,,,5.0,2,,0.0,41,1,edqsn7rj,,,,,0
+88,ylhrlntv,5f50732850c7c600098593df,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:01.698723,1,,,0.0,2,,0.0,44,1,edqsn7rj,,,,,0
+89,nevvxj6g,612039d9400fae9545b3c5a8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:05.535077,1,,,5.0,1,,0.0,45,1,edqsn7rj,,,,,0
+90,hsn2owr2,615628491d10d2dda4037437,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:12.130601,1,,,5.0,1,,0.0,46,1,edqsn7rj,,,,,0
+91,ca0h32i7,5a8b1ee2000dab00018cc7cd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:12.303613,1,,,0.0,2,,0.0,46,1,edqsn7rj,,,,,0
+92,yxz499nu,604a7e9f84bf0e7937200df5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:24.100050,1,,,2.0,2,,0.0,45,1,edqsn7rj,,,,,0
+93,2zm1jtbn,5f5a545ec6a95e0e5b5e670e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:46:34.362596,1,,,9.0,2,,0.0,47,1,edqsn7rj,,,,,0
+94,lo8n25fy,5f7a28b8bedcf2112ebd1289,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:19.876357,1,,,9.0,1,,0.0,61,1,edqsn7rj,,,,,0
+95,q164tx8s,5df967d2f6191f6e87b236e6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:20.490886,1,,,15.0,1,,0.0,59,1,edqsn7rj,,,,,0
+96,n7hvchx8,5d012930cfeb82001817c9c9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:21.721571,1,,,5.0,1,,0.0,63,1,edqsn7rj,,,,,0
+97,88kbdxxl,5f9ac707dc3cd12104ea955c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:23.636669,1,,,10.0,1,,0.0,49,1,edqsn7rj,,,,,0
+98,7akgpfxt,605d0687aa6cd6cdf1a634ee,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:24.740641,1,,,0.0,1,,0.0,48,1,edqsn7rj,,,,,0
+99,l2d0xcs0,5e01570d9b92b1d2a3936dd6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:24.900174,1,,,5.0,2,,0.0,49,1,edqsn7rj,,,,,0
+100,svgwxd4s,5d35c7a19a2dfc0018446287,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:25.153461,1,,,0.0,1,,0.0,56,1,edqsn7rj,,,,,0
+101,lo95r2d5,5b32599cc8e94a00018f22a5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:27.388474,1,,,9.0,2,,0.0,48,1,edqsn7rj,,,,,0
+102,sbt1hk99,60fd60dd8e126219c0818d87,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:27.686597,1,,,7.0,2,,0.0,63,1,edqsn7rj,,,,,0
+103,ibcx963o,6151c93f62e26ed6871a5fbd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:28.400595,1,,,9.0,1,,0.0,50,1,edqsn7rj,,,,,0
+104,vz6o52ft,611c1cf68a3a6fc487b01d82,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:29.970015,1,,,11.0,2,,0.0,59,1,edqsn7rj,,,,,0
+105,e78zkr8t,5e89d0a17ec160000888ee98,0,23,24,survey,Survey,2021-12-15 17:48:30.774912,1,,,5.0,1,,0.0,98,1,edqsn7rj,,,,,0
+106,esr9op1i,5ace650a436f550001004f87,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:32.334864,1,,,10.0,1,,0.0,52,1,edqsn7rj,,,,,0
+107,w993mnw5,607db957e9d570c7c2657b8d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:33.394054,1,,,7.0,1,,0.0,69,1,edqsn7rj,,,,,0
+108,0mseziw1,6175eab1ddb5791df88241d1,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:33.667449,1,,,7.0,1,,0.0,51,1,edqsn7rj,,,,,0
+109,y5cup9e6,5ffb8c5b60571908f3ac19fa,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:33.875847,1,,,11.0,1,,0.0,60,1,edqsn7rj,,,,,0
+110,9bpnvxze,5589cd58fdf99b18be3203af,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:33.935751,1,,,10.0,2,,0.0,50,1,edqsn7rj,,,,,0
+111,jokbdfh7,5ec4b10f7e31c83a4d915cf6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:34.607981,1,,,7.0,2,,0.0,51,1,edqsn7rj,,,,,0
+112,rj1au8c3,60fd795a96e15917bb9966c9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:34.890728,1,,,9.0,2,,0.0,69,1,edqsn7rj,,,,,0
+113,8qyeqc5g,60e5d47e17c05633eef565e3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:35.018207,1,,,10.0,2,,0.0,52,1,edqsn7rj,,,,,0
+114,0shnz4d8,60cd25ed439e39c03fe597a4,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:35.203748,1,,,10.0,1,,0.0,53,1,edqsn7rj,,,,,0
+115,3nsx37lh,5f44c445cfb0a801244f652f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:35.305190,1,,,2.0,1,,0.0,70,1,edqsn7rj,,,,,0
+116,j2aioeaw,5dd4767b32288646716dc98a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:36.497991,1,,,0.0,1,,0.0,64,1,edqsn7rj,,,,,0
+117,ydi21cj2,6108454f0f1590114b9d85c9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:37.372794,1,,,16.0,1,,0.0,55,1,edqsn7rj,,,,,0
+118,uzi187nh,61108719ddb956bd0e94733d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:37.404107,1,,,5.0,1,,0.0,67,1,edqsn7rj,,,,,0
+119,jctkhxal,6100b8ec68f33db3c5aa1619,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 17:48:38.220082,1,,,0.0,2,,0.0,55,1,edqsn7rj,,,,,0
+120,0ars8q4y,6090578fb2299eacaec32b7a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:38.638251,1,,,4.0,1,,0.0,66,1,edqsn7rj,,,,,0
+121,8frax6ko,55a47692fdf99b126e625257,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:39.246822,1,,,17.0,1,,0.0,58,1,edqsn7rj,,,,,0
+122,tppcp968,60fef0626d87d03fb002641e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:39.583278,1,,,7.0,2,,0.0,58,1,edqsn7rj,,,,,0
+123,5smldust,5fee10bfcb76970dffb57296,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:39.627833,1,,,10.0,2,,0.0,56,1,edqsn7rj,,,,,0
+124,ws4z1huu,600dcdff34fef66077146d8e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:39.787761,1,,,10.0,2,,0.0,53,1,edqsn7rj,,,,,0
+125,t15hvhsl,5c7336a216dc79000146929b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:39.954720,1,,,12.0,1,,0.0,62,1,edqsn7rj,,,,,0
+126,xrbt85t7,610810f532bc885e17a6ce8a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:40.214947,1,,,5.0,1,,0.0,65,1,edqsn7rj,,,,,0
+127,s7cldrvp,5c9293accd8dd00001d0b129,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:41.429112,1,,,4.0,2,,0.0,64,1,edqsn7rj,,,,,0
+128,ayepw6u5,60fee4900df86713b669fe90,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:41.451913,1,,,5.0,2,,0.0,66,1,edqsn7rj,,,,,0
+129,22h08d1c,61128d1fd41c74c6ee31a564,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:41.711963,1,,,10.0,2,,0.0,60,1,edqsn7rj,,,,,0
+130,bwu06wa7,602348484d326a1c5aa80bb7,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:41.912842,1,,,14.0,2,,0.0,62,1,edqsn7rj,,,,,0
+131,ri1kakvf,56d0901c197fb1000b2348ee,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:42.886308,1,,,10.0,1,,0.0,76,1,edqsn7rj,,,,,0
+132,6gicetkf,60d9e7e76cf2ab6d21eb5f99,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:43.542534,1,,,12.0,2,,0.0,61,1,edqsn7rj,,,,,0
+133,tdcnbvon,5e1e223891295b000c6dc95f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:44.042426,1,,,7.0,2,,0.0,57,1,edqsn7rj,,,,,0
+134,vtzegkio,5cfb5233df7d70001619ca90,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:45.099133,1,,,2.0,2,,0.0,70,1,edqsn7rj,,,,,0
+135,wzcq3l4h,60859f820e5009a67adb3921,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:46.073544,1,,,0.0,1,,0.0,68,1,edqsn7rj,,,,,0
+136,lwa5whts,603407c4dd800c16d182bb1e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:57.679864,1,,,0.0,2,,0.0,65,1,edqsn7rj,,,,,0
+137,9vqlf0as,5dd31760fb7d41000c6610e3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:48:58.581127,1,,,5.0,2,,0.0,67,1,edqsn7rj,,,,,0
+138,qqbgzb4k,56875435369319000c26947d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:49:11.233925,1,,,5.0,2,,0.0,68,1,edqsn7rj,,,,,0
+139,cf9zltqr,61507c30291069d83501fdad,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:49:34.059182,1,,,7.0,1,,0.0,71,1,edqsn7rj,,,,,0
+140,9t7t1xak,5df81cd72713055bdf02efd8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:50:08.791338,1,,,2.0,2,,0.0,71,1,edqsn7rj,,,,,0
+141,1j73ri40,5f402da30ce123154d1f3f84,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:50:22.620916,1,,,0.0,1,,0.0,72,1,edqsn7rj,,,,,0
+142,271mmqfs,6115b151e995a87857689547,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:50:52.707782,1,,,2.0,2,,0.0,72,1,edqsn7rj,,,,,0
+143,0v9oxcmi,5e2ac2aa0038f21089a533a4,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:51:22.872494,1,,,8.0,1,,0.0,73,1,edqsn7rj,,,,,0
+144,cs15j2hy,61705235c277934df17055e6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:51:55.617246,1,,,7.0,2,,0.0,73,1,edqsn7rj,,,,,0
+145,w6j272eb,56f2a49ced0cf600069131cd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:48.012564,1,,,10.0,1,,0.0,75,1,edqsn7rj,,,,,0
+146,tzeug0qo,608bfa04767191aa4d57bfd8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:53.292233,1,,,14.0,1,,0.0,82,1,edqsn7rj,,,,,0
+147,89sk3y5b,60dca5d351d99ef73b2f8994,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:53.514560,1,,,5.0,2,,0.0,75,1,edqsn7rj,,,,,0
+148,7gyq5dzg,5afa5252672ea800010d97e6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:54.735413,1,,,10.0,1,,0.0,74,1,edqsn7rj,,,,,0
+149,mnfvzl57,614fb055a7d4d923b73590fe,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:55.068798,1,,,9.0,1,,0.0,86,1,edqsn7rj,,,,,0
+150,r59sr63m,58211fc787f6b90001f13f90,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:57.607304,1,,,6.0,1,,0.0,85,1,edqsn7rj,,,,,0
+151,rmoqjsq6,6138c2a6b71e7db9178095af,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 17:52:57.919255,1,,,0.0,1,,0.0,80,1,edqsn7rj,,,,,0
+152,dcdi1e8n,5dcefcd0307b8d05031d7264,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:52:58.183386,1,,,10.0,2,,0.0,74,1,edqsn7rj,,,,,0
+153,gsmw913j,57587b29713d8400061730e4,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:00.840162,1,,,4.0,1,,0.0,88,1,edqsn7rj,,,,,0
+154,kzw82jyp,5dc1cd625fd2031344dfe43d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:01.538096,1,,,13.0,1,,0.0,78,1,edqsn7rj,,,,,0
+155,9ccv2tiu,5e837e917441520b9c662931,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:02.138263,1,,,4.0,2,,0.0,90,1,edqsn7rj,,,,,0
+156,i48kjabk,6151c8ea2f7b31bdda93807d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:03.243078,1,,,5.0,1,,0.0,77,1,edqsn7rj,,,,,0
+157,jdkd848c,6111a47c4405e21a554fe17a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:03.746277,1,,,5.0,2,,0.0,76,1,edqsn7rj,,,,,0
+158,k7omthl8,612a5744ab67e0bc1b93dd8b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:04.036461,1,,,6.0,2,,0.0,78,1,edqsn7rj,,,,,0
+159,nlcwd1ks,5ff21e8299e7cf6d2d1a7f13,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:04.214504,1,,,6.0,2,,0.0,77,1,edqsn7rj,,,,,0
+160,kgjuecas,6154afcf38500d8446fb2cbd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:05.159565,1,,,0.0,1,,0.0,92,1,edqsn7rj,,,,,0
+161,irxybtpi,5edc0720ec975e0dc6385210,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:05.385028,1,,,5.0,1,,0.0,84,1,edqsn7rj,,,,,0
+162,27hp27v8,6096c372f94346a5ff86d507,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:05.851818,1,,,20.0,1,,0.0,79,1,edqsn7rj,,,,,0
+163,l53pe66h,5e7e0e92b7838b4aca1b6fca,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 17:53:06.370264,1,,,0.0,2,,0.0,84,1,edqsn7rj,,,,,0
+164,2cay2ui5,5b98940f754b700001f0f15c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:06.787920,1,,,14.0,2,,0.0,79,1,edqsn7rj,,,,,0
+165,9jodyhp2,5d100e740277ff00152f7562,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:06.781696,1,,,9.0,1,,0.0,81,1,edqsn7rj,,,,,0
+166,l4tu2swq,61007966aff8c0392da61a00,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:07.467559,1,,,8.0,2,,0.0,81,1,edqsn7rj,,,,,0
+167,ug7okwm8,5c82c9a4d8302a00010639b8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:07.679821,1,,,2.0,1,,0.0,93,1,edqsn7rj,,,,,0
+168,ucz36htm,5dfe8e7bdc8535b21b18ea2f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:08.585230,1,,,14.0,2,,0.0,82,1,edqsn7rj,,,,,0
+169,9w4jfk9x,5f46b13c9603e305ad51dc7f,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:09.506721,1,,,3.0,1,,0.0,91,1,edqsn7rj,,,,,0
+170,z8s0rklj,61524acf44d954b0da2310a9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:10.675378,1,,,9.0,1,,0.0,87,1,edqsn7rj,,,,,0
+171,90o0y8j3,5f47e6376aa63923f3804e3b,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:10.405857,1,,,11.0,1,,0.0,83,1,edqsn7rj,,,,,0
+172,4rqy1zc4,5f1cc717981bb7584655fe62,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:10.490986,1,,,12.0,2,,0.0,86,1,edqsn7rj,,,,,0
+173,w04sjara,6102c2bafd71006cf4fcbd67,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:12.185203,1,,,10.0,2,,0.0,85,1,edqsn7rj,,,,,0
+174,5szxuh3x,5a33d736bf4d770001e6097a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:13.728264,1,,,0.0,2,,0.0,88,1,edqsn7rj,,,,,0
+175,nm3pzjlc,614e028cce0c68ed60059ab1,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:13.853932,1,,,3.0,2,,0.0,83,1,edqsn7rj,,,,,0
+176,ieooc329,5fc1eec7b53fe8238532add3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:14.248245,1,,,5.0,2,,0.0,91,1,edqsn7rj,,,,,0
+177,fx9x3pzi,5692e00c8d93fe000efa0459,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:14.481251,1,,,9.0,2,,0.0,80,1,edqsn7rj,,,,,0
+178,wjcx9aco,5ee1aff5d156f20008c98012,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:21.886235,1,,,12.0,2,,0.0,87,1,edqsn7rj,,,,,0
+179,zb27gets,612944f9b8a68a69978cf645,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:21.880384,1,,,0.0,1,,0.0,90,1,edqsn7rj,,,,,0
+180,t6yu9b0h,602aaba2c2eb7c106100e516,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:22.509512,1,,,5.0,2,,0.0,93,1,edqsn7rj,,,,,0
+181,clva987y,5ec1ecb7dc45b26292d5467e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:24.938993,1,,,4.0,2,,0.0,92,1,edqsn7rj,,,,,0
+182,jodan9zp,60ffae39406f5e4035c8dea0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:42.664774,1,,,5.0,1,,0.0,95,1,edqsn7rj,,,,,0
+183,h27j5lbh,61083ecdd1be9b22e7caf4cf,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:42.588816,1,,,8.0,1,,0.0,96,1,edqsn7rj,,,,,0
+184,ykmcjm1v,5eea537ffd89d01283ffac22,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:53:56.496406,1,,,9.0,1,,0.0,94,1,edqsn7rj,,,,,0
+185,1te2h7ml,607dc630d2d30aa7e8699c23,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:05.557551,1,,,2.0,2,,0.0,94,1,edqsn7rj,,,,,0
+186,2zf4v635,578673a9275be6000135880e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:07.039008,1,,,7.0,1,,0.0,97,1,edqsn7rj,,,,,0
+187,2j5lprg5,5fb16308dc5973607fa3041c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:08.441010,1,,,3.0,2,,0.0,96,1,edqsn7rj,,,,,0
+188,36j0dz8c,5fa41b6733b31601ac3f79c5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:08.914037,1,,,8.0,2,,0.0,95,1,edqsn7rj,,,,,0
+189,ug1pu8y9,60fdc934e81b93f92f561d76,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:11.049419,1,,,10.0,2,,0.0,98,1,edqsn7rj,,,,,0
+190,2bb7ye98,58d876b14240e50001190090,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:54:40.906567,1,,,4.0,2,,0.0,97,1,edqsn7rj,,,,,0
+191,8ryg61pe,5fbb89e20ddd50a66ab62a67,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:55:17.511515,1,,,10.0,1,,0.0,99,1,edqsn7rj,,,,,0
+192,7wyrxz49,606ce950bef1f305c877048d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:55:19.894054,1,,,10.0,2,,0.0,99,1,edqsn7rj,,,,,0
+193,cwtiqz5d,61588f27299f923d579de650,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:55:31.829593,1,,,7.0,1,,0.0,100,1,edqsn7rj,,,,,0
+194,398a2a70,5bba370b6130300001e3708e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:31.824668,1,,,5.0,1,,0.0,101,1,edqsn7rj,,,,,0
+195,3f1sqqzm,5fe508e86079e12a8a3b2427,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:36.960550,1,,,10.0,2,,0.0,100,1,edqsn7rj,,,,,0
+196,w98e5ov6,610850597daefea9a102be25,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:38.608108,1,,,5.0,2,,0.0,101,1,edqsn7rj,,,,,0
+197,6cdp8zd3,6150b927614a4f154f311f9d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:38.770758,1,,,10.0,1,,0.0,123,1,edqsn7rj,,,,,0
+198,rqojtrlg,5f52e4f162b184600f379760,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:38.947127,1,,,11.0,1,,0.0,108,1,edqsn7rj,,,,,0
+199,dfksw5f2,5c224f5289f0350001738d48,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:39.288770,1,,,4.0,1,,0.0,114,1,edqsn7rj,,,,,0
+200,cxnl1n59,614e0c53139a2a838010794c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:42.149783,1,,,14.0,1,,0.0,102,1,edqsn7rj,,,,,0
+201,6jfwywma,5e5080883771350caf2d9fda,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:42.253219,1,,,0.0,2,,0.0,114,1,edqsn7rj,,,,,0
+202,blzay68j,53a9a1a6fdf99b5cf1a36ee0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:47.728489,1,,,17.0,2,,0.0,102,1,edqsn7rj,,,,,0
+203,smfjhm8y,615009a911243c691332e533,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:49.165504,1,,,5.0,1,,0.0,104,1,edqsn7rj,,,,,0
+204,g6wy5pk3,60fcfac5e20edfa3acdc87e0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:50.133027,1,,,8.0,1,,0.0,103,1,edqsn7rj,,,,,0
+205,ii3umjyr,615c65e4fa1c6b2e5a7d0971,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:52.296648,1,,,0.0,2,,0.0,103,1,edqsn7rj,,,,,0
+206,s703qw61,60051d10e63710373daee6e7,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:52.531392,1,,,7.0,1,,0.0,106,1,edqsn7rj,,,,,0
+207,bzikzpoi,6149c3a3c9138abe6be0d7ec,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:52.613485,1,,,2.0,2,,0.0,104,1,edqsn7rj,,,,,0
+208,241cd9mu,61002435a6ebb7fbb7cbbcb4,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:55.095229,1,,,0.0,1,,0.0,116,1,edqsn7rj,,,,,0
+209,95xm02eg,5cb4c5bad44c410017960aa0,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:55.830333,1,,,7.0,1,,0.0,105,1,edqsn7rj,,,,,0
+210,mu80u22g,613aae01f09a52a007cd063e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:58.007183,1,,,8.0,1,,0.0,129,1,edqsn7rj,,,,,0
+211,nwj5avcq,610024bfd6e1038ba3b1601d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:57.977454,1,,,7.0,1,,0.0,120,1,edqsn7rj,,,,,0
+212,oa6njmet,6122c40ce9843f432b336b30,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:58.104465,1,,,13.0,1,,0.0,107,1,edqsn7rj,,,,,0
+213,dlzb77ph,6107635aeaf5fe6c4d4aac77,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:58.363368,1,,,0.0,2,,0.0,106,1,edqsn7rj,,,,,0
+214,k02jchx3,609a5974625e18ab158c9a3e,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:58.514307,1,,,10.0,1,,0.0,125,1,edqsn7rj,,,,,0
+215,25pfm0c6,5f4859d23306481f0f0dd2a5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:58.979649,1,,,10.0,2,,0.0,123,1,edqsn7rj,,,,,0
+216,e5yitqh9,580d5d1f357e890001dd14ce,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:56:59.518758,1,,,17.0,2,,0.0,105,1,edqsn7rj,,,,,0
+217,i990eb4n,61110ef6be98298514c551e7,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:01.519900,1,,,12.0,1,,0.0,111,1,edqsn7rj,,,,,0
+218,yz9uaxdj,5fc2a0d49893540008bd113f,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 17:57:04.553101,1,,,0.0,2,,0.0,110,1,edqsn7rj,,,,,0
+219,tr8w4xsq,5e7d0520455902383a9d1dd9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:04.628491,1,,,10.0,1,,0.0,124,1,edqsn7rj,,,,,0
+220,bs0i7m9c,5d9d5debf346240014428500,0,13,24,trust_robot_secondmover,Belief,2021-12-15 17:57:05.095968,1,,,0.0,2,,0.0,108,1,edqsn7rj,,,,,0
+221,7v1t1yq9,610db393b77099464f765317,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:05.084261,1,,,7.0,2,,0.0,111,1,edqsn7rj,,,,,0
+222,j8koyj7k,5ea0f8b65669f80008176bec,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:05.181751,1,,,0.0,2,,0.0,116,1,edqsn7rj,,,,,0
+223,bzw6q0ie,5f32486253e14b0451ec5912,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:06.643523,1,,,7.0,1,,0.0,119,1,edqsn7rj,,,,,0
+224,j2g4mup0,60fedd3890ce06a5f852b2e8,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:07.029328,1,,,9.0,1,,0.0,110,1,edqsn7rj,,,,,0
+225,hki7an22,5fb3cbedb3cc10000a19c09d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:07.818627,1,,,5.0,2,,0.0,112,1,edqsn7rj,,,,,0
+226,b08o5qma,611123631a0321bad08e4b6d,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:08.104970,1,,,13.0,2,,0.0,107,1,edqsn7rj,,,,,0
+227,4dn3xout,60fecf386c708796174d25cb,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:08.310873,1,,,7.0,2,,0.0,119,1,edqsn7rj,,,,,0
+228,g9kkx9uo,5fcc103fb2ab80a01f32f7ae,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:08.643698,1,,,5.0,1,,0.0,122,1,edqsn7rj,,,,,0
+229,p2sk36n3,5e1efdb3a8c111230db526ff,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:09.234733,1,,,2.0,1,,0.0,118,1,edqsn7rj,,,,,0
+230,pwtktfd2,5acba4a15cd10500016280ca,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:10.400812,1,,,5.0,1,,0.0,115,1,edqsn7rj,,,,,0
+231,l3ksq4uk,611bf641e1b360ef4ddbdcc9,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:12.327655,1,,,5.0,1,,0.0,113,1,edqsn7rj,,,,,0
+232,6f9ppwid,5e46aa20caec81000b7d4f93,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:14.096084,1,,,5.0,2,,0.0,115,1,edqsn7rj,,,,,0
+233,o82ekbhw,5eea4934bde1301131abb0f3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:14.863891,1,,,5.0,1,,0.0,112,1,edqsn7rj,,,,,0
+234,215qypij,5ee642c9f5cb343a58b1ef13,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:15.300636,1,,,0.0,2,,0.0,113,1,edqsn7rj,,,,,0
+235,jkc76mn7,5dedf0483711364928753ecd,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:18.627776,1,,,8.0,1,,0.0,117,1,edqsn7rj,,,,,0
+236,uvupoxu7,60bbba1662529ae59d1c55cf,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:19.097848,1,,,0.0,2,,0.0,118,1,edqsn7rj,,,,,0
+237,gh3zrumm,612fd3208d3decaf3ec80bcc,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:22.191654,1,,,7.0,2,,0.0,122,1,edqsn7rj,,,,,0
+238,k3pug1ld,5f8f10ecc804f810a8a9cb80,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:25.614069,1,,,8.0,2,,0.0,120,1,edqsn7rj,,,,,0
+239,i1hbb5t8,60c5658aaa71527dab2c9ec3,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:26.786885,1,,,9.0,2,,0.0,117,1,edqsn7rj,,,,,0
+240,34k0l0xw,5f2f03deec679e2cf4a992e6,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:31.339496,1,,,7.0,1,,0.0,121,1,edqsn7rj,,,,,0
+241,34mfr1pz,608f39d2c76e436967135846,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:35.680329,1,,,8.0,2,,0.0,121,1,edqsn7rj,,,,,0
+242,vghrzbhp,6155e0bb17662cfd9293bfd5,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:57:52.795317,1,,,10.0,2,,0.0,124,1,edqsn7rj,,,,,0
+243,aqy2sv8t,60fcc20f3286b54d48b32d10,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:58:46.098493,1,,,5.0,2,,0.0,125,1,edqsn7rj,,,,,0
+244,8tgvelen,5f51529b15e36638fe535eae,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:59:24.577833,1,,,11.0,1,,0.0,126,1,edqsn7rj,,,,,0
+245,10amdpgc,5f1f9c1e6342c31c5c9ebe0a,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:59:35.520821,1,,,17.0,1,,0.0,127,1,edqsn7rj,,,,,0
+246,7jj8ehrw,60fcc6719e27920f135faf0c,0,24,24,final_screen,EndOfExperiment,2021-12-15 17:59:36.354377,1,,,9.0,2,,0.0,126,1,edqsn7rj,,,,,0
+247,e1f9ea3e,5ee11eb5636ea94d3ad43e3b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:00:16.307738,1,,,15.0,2,,0.0,127,1,edqsn7rj,,,,,0
+248,r5u0agtr,5d9f0981b22ffb00118e84cd,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:02:19.516235,1,,,13.0,1,,0.0,128,1,edqsn7rj,,,,,0
+249,brym7q47,6035adb4f3a49c270dd71acd,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:02:40.010102,1,,,8.0,2,,0.0,128,1,edqsn7rj,,,,,0
+250,lksm0kka,5dba0a89ffee14070ae13f74,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:06:57.746797,1,,,9.0,2,,0.0,129,1,edqsn7rj,,,,,0
+251,6v67d445,,0,0,24,,,,0,,,0.0,251,,0.0,1,1,edqsn7rj,,,,,0
+252,h3cvmehd,,0,0,24,,,,0,,,0.0,252,,0.0,1,1,edqsn7rj,,,,,0
+253,8nrn2azo,,0,0,24,,,,0,,,0.0,253,,0.0,1,1,edqsn7rj,,,,,0
+254,uex5fkeb,,0,0,24,,,,0,,,0.0,254,,0.0,1,1,edqsn7rj,,,,,0
+255,80tlup29,,0,0,24,,,,0,,,0.0,255,,0.0,1,1,edqsn7rj,,,,,0
+256,tl7nr3f0,,0,0,24,,,,0,,,0.0,256,,0.0,1,1,edqsn7rj,,,,,0
+257,bs1eq73e,,0,0,24,,,,0,,,0.0,257,,0.0,1,1,edqsn7rj,,,,,0
+258,pkafv5xn,,0,0,24,,,,0,,,0.0,258,,0.0,1,1,edqsn7rj,,,,,0
+259,cqj8r7ai,,0,0,24,,,,0,,,0.0,259,,0.0,1,1,edqsn7rj,,,,,0
+260,3tkw43z5,,0,0,24,,,,0,,,0.0,260,,0.0,1,1,edqsn7rj,,,,,0
+261,112x5yxk,,0,0,24,,,,0,,,0.0,261,,0.0,1,1,edqsn7rj,,,,,0
+262,p00yy7fi,,0,0,24,,,,0,,,0.0,262,,0.0,1,1,edqsn7rj,,,,,0
+263,4thpgtei,,0,0,24,,,,0,,,0.0,263,,0.0,1,1,edqsn7rj,,,,,0
+264,oebeoab9,,0,0,24,,,,0,,,0.0,264,,0.0,1,1,edqsn7rj,,,,,0
+265,psmzeka7,,0,0,24,,,,0,,,0.0,265,,0.0,1,1,edqsn7rj,,,,,0
+266,epndce7m,,0,0,24,,,,0,,,0.0,266,,0.0,1,1,edqsn7rj,,,,,0
+267,zcua1hqh,,0,0,24,,,,0,,,0.0,267,,0.0,1,1,edqsn7rj,,,,,0
+268,inbymiq6,,0,0,24,,,,0,,,0.0,268,,0.0,1,1,edqsn7rj,,,,,0
+269,w96byymq,,0,0,24,,,,0,,,0.0,269,,0.0,1,1,edqsn7rj,,,,,0
+270,dzjzuypr,,0,0,24,,,,0,,,0.0,270,,0.0,1,1,edqsn7rj,,,,,0
+271,y6g9ba4x,,0,0,24,,,,0,,,0.0,271,,0.0,1,1,edqsn7rj,,,,,0
+272,gdbo4ecd,,0,0,24,,,,0,,,0.0,272,,0.0,1,1,edqsn7rj,,,,,0
+273,qfbh11w8,,0,0,24,,,,0,,,0.0,273,,0.0,1,1,edqsn7rj,,,,,0
+274,6v60wlap,,0,0,24,,,,0,,,0.0,274,,0.0,1,1,edqsn7rj,,,,,0
+275,k9vtwcbe,,0,0,24,,,,0,,,0.0,275,,0.0,1,1,edqsn7rj,,,,,0
+276,gjevfwbx,,0,0,24,,,,0,,,0.0,276,,0.0,1,1,edqsn7rj,,,,,0
+277,1zh32b9i,,0,0,24,,,,0,,,0.0,277,,0.0,1,1,edqsn7rj,,,,,0
+278,yvli6tc5,,0,0,24,,,,0,,,0.0,278,,0.0,1,1,edqsn7rj,,,,,0
+279,o59mupv5,,0,0,24,,,,0,,,0.0,279,,0.0,1,1,edqsn7rj,,,,,0
+280,hresb6z8,,0,0,24,,,,0,,,0.0,280,,0.0,1,1,edqsn7rj,,,,,0
+281,s0z9w8zs,,0,0,24,,,,0,,,0.0,281,,0.0,1,1,edqsn7rj,,,,,0
+282,ub03zon5,,0,0,24,,,,0,,,0.0,282,,0.0,1,1,edqsn7rj,,,,,0
+283,v4n2s8tp,,0,0,24,,,,0,,,0.0,283,,0.0,1,1,edqsn7rj,,,,,0
+284,474p5cyo,,0,0,24,,,,0,,,0.0,284,,0.0,1,1,edqsn7rj,,,,,0
+285,fb8mjdhz,,0,0,24,,,,0,,,0.0,285,,0.0,1,1,edqsn7rj,,,,,0
+286,4eovi2ph,,0,0,24,,,,0,,,0.0,286,,0.0,1,1,edqsn7rj,,,,,0
+287,hzmft6de,,0,0,24,,,,0,,,0.0,287,,0.0,1,1,edqsn7rj,,,,,0
+288,cuh35m5r,,0,0,24,,,,0,,,0.0,288,,0.0,1,1,edqsn7rj,,,,,0
+289,ilah0p81,,0,0,24,,,,0,,,0.0,289,,0.0,1,1,edqsn7rj,,,,,0
+290,n1sgls3l,,0,0,24,,,,0,,,0.0,290,,0.0,1,1,edqsn7rj,,,,,0
+291,fvfxi91w,,0,0,24,,,,0,,,0.0,291,,0.0,1,1,edqsn7rj,,,,,0
+292,hky2aph0,,0,0,24,,,,0,,,0.0,292,,0.0,1,1,edqsn7rj,,,,,0
+293,tm9lsepi,,0,0,24,,,,0,,,0.0,293,,0.0,1,1,edqsn7rj,,,,,0
+294,y1myf37k,,0,0,24,,,,0,,,0.0,294,,0.0,1,1,edqsn7rj,,,,,0
+295,vg1h4qpu,,0,0,24,,,,0,,,0.0,295,,0.0,1,1,edqsn7rj,,,,,0
+296,h5d7qt0w,,0,0,24,,,,0,,,0.0,296,,0.0,1,1,edqsn7rj,,,,,0
+297,g6yc2kin,,0,0,24,,,,0,,,0.0,297,,0.0,1,1,edqsn7rj,,,,,0
+298,7ongf7tj,,0,0,24,,,,0,,,0.0,298,,0.0,1,1,edqsn7rj,,,,,0
+299,3txn76pz,,0,0,24,,,,0,,,0.0,299,,0.0,1,1,edqsn7rj,,,,,0
+300,6sz0v37w,,0,0,24,,,,0,,,0.0,300,,0.0,1,1,edqsn7rj,,,,,0
+301,vruhu16p,,0,0,24,,,,0,,,0.0,301,,0.0,1,1,edqsn7rj,,,,,0
+302,e32bz65p,,0,0,24,,,,0,,,0.0,302,,0.0,1,1,edqsn7rj,,,,,0
+303,d57sprp6,,0,0,24,,,,0,,,0.0,303,,0.0,1,1,edqsn7rj,,,,,0
+304,mr0pbmbl,,0,0,24,,,,0,,,0.0,304,,0.0,1,1,edqsn7rj,,,,,0
+305,7r9sf2ay,,0,0,24,,,,0,,,0.0,305,,0.0,1,1,edqsn7rj,,,,,0
+306,fkoeiym8,,0,0,24,,,,0,,,0.0,306,,0.0,1,1,edqsn7rj,,,,,0
+307,hy42481b,,0,0,24,,,,0,,,0.0,307,,0.0,1,1,edqsn7rj,,,,,0
+308,1lw7bzr3,,0,0,24,,,,0,,,0.0,308,,0.0,1,1,edqsn7rj,,,,,0
+309,xp4oyk5n,,0,0,24,,,,0,,,0.0,309,,0.0,1,1,edqsn7rj,,,,,0
+310,lu9x5tjl,,0,0,24,,,,0,,,0.0,310,,0.0,1,1,edqsn7rj,,,,,0
+311,9zzbpdsg,,0,0,24,,,,0,,,0.0,311,,0.0,1,1,edqsn7rj,,,,,0
+312,armsrqpn,,0,0,24,,,,0,,,0.0,312,,0.0,1,1,edqsn7rj,,,,,0
+313,0xxuwouq,,0,0,24,,,,0,,,0.0,313,,0.0,1,1,edqsn7rj,,,,,0
+314,myehz9t3,,0,0,24,,,,0,,,0.0,314,,0.0,1,1,edqsn7rj,,,,,0
+315,5jmrbw3j,,0,0,24,,,,0,,,0.0,315,,0.0,1,1,edqsn7rj,,,,,0
+316,t4fcbjw7,,0,0,24,,,,0,,,0.0,316,,0.0,1,1,edqsn7rj,,,,,0
+317,66z2mdrk,,0,0,24,,,,0,,,0.0,317,,0.0,1,1,edqsn7rj,,,,,0
+318,xf1bdb32,,0,0,24,,,,0,,,0.0,318,,0.0,1,1,edqsn7rj,,,,,0
+319,j4cad5gq,,0,0,24,,,,0,,,0.0,319,,0.0,1,1,edqsn7rj,,,,,0
+320,gf6svehz,,0,0,24,,,,0,,,0.0,320,,0.0,1,1,edqsn7rj,,,,,0
+321,ln5sfa8v,,0,0,24,,,,0,,,0.0,321,,0.0,1,1,edqsn7rj,,,,,0
+322,4xw9rn9i,,0,0,24,,,,0,,,0.0,322,,0.0,1,1,edqsn7rj,,,,,0
+323,dkpdivhn,,0,0,24,,,,0,,,0.0,323,,0.0,1,1,edqsn7rj,,,,,0
+324,68n3ueqs,,0,0,24,,,,0,,,0.0,324,,0.0,1,1,edqsn7rj,,,,,0
+325,m786uypn,,0,0,24,,,,0,,,0.0,325,,0.0,1,1,edqsn7rj,,,,,0
+326,0v68bi0o,,0,0,24,,,,0,,,0.0,326,,0.0,1,1,edqsn7rj,,,,,0
+327,rqgjbvlq,,0,0,24,,,,0,,,0.0,327,,0.0,1,1,edqsn7rj,,,,,0
+328,yct3hxd4,,0,0,24,,,,0,,,0.0,328,,0.0,1,1,edqsn7rj,,,,,0
+329,1mbzk3sc,,0,0,24,,,,0,,,0.0,329,,0.0,1,1,edqsn7rj,,,,,0
+330,c6ytgsia,,0,0,24,,,,0,,,0.0,330,,0.0,1,1,edqsn7rj,,,,,0
+331,h2voqi1h,,0,0,24,,,,0,,,0.0,331,,0.0,1,1,edqsn7rj,,,,,0
+332,o911aom0,,0,0,24,,,,0,,,0.0,332,,0.0,1,1,edqsn7rj,,,,,0
+333,9hf6z7ah,,0,0,24,,,,0,,,0.0,333,,0.0,1,1,edqsn7rj,,,,,0
+334,s9so1kxc,,0,0,24,,,,0,,,0.0,334,,0.0,1,1,edqsn7rj,,,,,0
+335,lmbe8zt2,,0,0,24,,,,0,,,0.0,335,,0.0,1,1,edqsn7rj,,,,,0
+336,1qfymd0o,,0,0,24,,,,0,,,0.0,336,,0.0,1,1,edqsn7rj,,,,,0
+337,lv3123ac,,0,0,24,,,,0,,,0.0,337,,0.0,1,1,edqsn7rj,,,,,0
+338,8khmar8b,,0,0,24,,,,0,,,0.0,338,,0.0,1,1,edqsn7rj,,,,,0
+339,88iuv7fx,,0,0,24,,,,0,,,0.0,339,,0.0,1,1,edqsn7rj,,,,,0
+340,9w6b9qcb,,0,0,24,,,,0,,,0.0,340,,0.0,1,1,edqsn7rj,,,,,0
+341,f2wq9klp,,0,0,24,,,,0,,,0.0,341,,0.0,1,1,edqsn7rj,,,,,0
+342,xvb92onw,,0,0,24,,,,0,,,0.0,342,,0.0,1,1,edqsn7rj,,,,,0
+343,r6ws4xdg,,0,0,24,,,,0,,,0.0,343,,0.0,1,1,edqsn7rj,,,,,0
+344,2ps038j3,,0,0,24,,,,0,,,0.0,344,,0.0,1,1,edqsn7rj,,,,,0
+345,bpqaawkj,,0,0,24,,,,0,,,0.0,345,,0.0,1,1,edqsn7rj,,,,,0
+346,oqe9r1s4,,0,0,24,,,,0,,,0.0,346,,0.0,1,1,edqsn7rj,,,,,0
+347,od88j0zf,,0,0,24,,,,0,,,0.0,347,,0.0,1,1,edqsn7rj,,,,,0
+348,0ke4s3vk,,0,0,24,,,,0,,,0.0,348,,0.0,1,1,edqsn7rj,,,,,0
+349,fwzp1vyq,,0,0,24,,,,0,,,0.0,349,,0.0,1,1,edqsn7rj,,,,,0
+350,4zbwnxgv,,0,0,24,,,,0,,,0.0,350,,0.0,1,1,edqsn7rj,,,,,0
+351,lbuozr86,,0,0,24,,,,0,,,0.0,351,,0.0,1,1,edqsn7rj,,,,,0
+352,ut9b18et,,0,0,24,,,,0,,,0.0,352,,0.0,1,1,edqsn7rj,,,,,0
+353,0zktsd1r,,0,0,24,,,,0,,,0.0,353,,0.0,1,1,edqsn7rj,,,,,0
+354,bky00jvb,,0,0,24,,,,0,,,0.0,354,,0.0,1,1,edqsn7rj,,,,,0
+355,0bygwtop,,0,0,24,,,,0,,,0.0,355,,0.0,1,1,edqsn7rj,,,,,0
+356,0wvw8y5r,,0,0,24,,,,0,,,0.0,356,,0.0,1,1,edqsn7rj,,,,,0
+357,wxso7r8h,,0,0,24,,,,0,,,0.0,357,,0.0,1,1,edqsn7rj,,,,,0
+358,49lo6003,,0,0,24,,,,0,,,0.0,358,,0.0,1,1,edqsn7rj,,,,,0
+359,30haql1n,,0,0,24,,,,0,,,0.0,359,,0.0,1,1,edqsn7rj,,,,,0
+360,t62iz8c5,,0,0,24,,,,0,,,0.0,360,,0.0,1,1,edqsn7rj,,,,,0
+361,d51z2138,,0,0,24,,,,0,,,0.0,361,,0.0,1,1,edqsn7rj,,,,,0
+362,c53xerr3,,0,0,24,,,,0,,,0.0,362,,0.0,1,1,edqsn7rj,,,,,0
+363,ztcbups9,,0,0,24,,,,0,,,0.0,363,,0.0,1,1,edqsn7rj,,,,,0
+364,xzp2fzqd,,0,0,24,,,,0,,,0.0,364,,0.0,1,1,edqsn7rj,,,,,0
+365,h350h5iz,,0,0,24,,,,0,,,0.0,365,,0.0,1,1,edqsn7rj,,,,,0
+366,5v9km0fq,,0,0,24,,,,0,,,0.0,366,,0.0,1,1,edqsn7rj,,,,,0
+367,vu4dfy9k,,0,0,24,,,,0,,,0.0,367,,0.0,1,1,edqsn7rj,,,,,0
+368,041vyhr4,,0,0,24,,,,0,,,0.0,368,,0.0,1,1,edqsn7rj,,,,,0
+369,9qs59cjh,,0,0,24,,,,0,,,0.0,369,,0.0,1,1,edqsn7rj,,,,,0
+370,x9qjebzy,,0,0,24,,,,0,,,0.0,370,,0.0,1,1,edqsn7rj,,,,,0
+371,ll9uh275,,0,0,24,,,,0,,,0.0,371,,0.0,1,1,edqsn7rj,,,,,0
+372,6o11uxk3,,0,0,24,,,,0,,,0.0,372,,0.0,1,1,edqsn7rj,,,,,0
+373,26j2wq60,,0,0,24,,,,0,,,0.0,373,,0.0,1,1,edqsn7rj,,,,,0
+374,rxzpzabq,,0,0,24,,,,0,,,0.0,374,,0.0,1,1,edqsn7rj,,,,,0
+375,aqqpyq8y,,0,0,24,,,,0,,,0.0,375,,0.0,1,1,edqsn7rj,,,,,0
+376,3twrzkj4,,0,0,24,,,,0,,,0.0,376,,0.0,1,1,edqsn7rj,,,,,0
+377,12fwjuwh,,0,0,24,,,,0,,,0.0,377,,0.0,1,1,edqsn7rj,,,,,0
+378,wuxq5q29,,0,0,24,,,,0,,,0.0,378,,0.0,1,1,edqsn7rj,,,,,0
+379,efln82vb,,0,0,24,,,,0,,,0.0,379,,0.0,1,1,edqsn7rj,,,,,0
+380,k2b2fmpo,,0,0,24,,,,0,,,0.0,380,,0.0,1,1,edqsn7rj,,,,,0
+381,rh7dmize,,0,0,24,,,,0,,,0.0,381,,0.0,1,1,edqsn7rj,,,,,0
+382,brd4gtt1,,0,0,24,,,,0,,,0.0,382,,0.0,1,1,edqsn7rj,,,,,0
+383,jorhrszk,,0,0,24,,,,0,,,0.0,383,,0.0,1,1,edqsn7rj,,,,,0
+384,74lyzomt,,0,0,24,,,,0,,,0.0,384,,0.0,1,1,edqsn7rj,,,,,0
+385,5z6rm7lh,,0,0,24,,,,0,,,0.0,385,,0.0,1,1,edqsn7rj,,,,,0
+386,tkzczob1,,0,0,24,,,,0,,,0.0,386,,0.0,1,1,edqsn7rj,,,,,0
+387,wle7spyn,,0,0,24,,,,0,,,0.0,387,,0.0,1,1,edqsn7rj,,,,,0
+388,xt9n7bxq,,0,0,24,,,,0,,,0.0,388,,0.0,1,1,edqsn7rj,,,,,0
+389,sor5qbst,,0,0,24,,,,0,,,0.0,389,,0.0,1,1,edqsn7rj,,,,,0
+390,fqsmb107,,0,0,24,,,,0,,,0.0,390,,0.0,1,1,edqsn7rj,,,,,0
+391,4w8zfhty,,0,0,24,,,,0,,,0.0,391,,0.0,1,1,edqsn7rj,,,,,0
+392,vetezjvz,,0,0,24,,,,0,,,0.0,392,,0.0,1,1,edqsn7rj,,,,,0
+393,lyx3axzt,,0,0,24,,,,0,,,0.0,393,,0.0,1,1,edqsn7rj,,,,,0
+394,0i39x21z,,0,0,24,,,,0,,,0.0,394,,0.0,1,1,edqsn7rj,,,,,0
+395,3swyvuo8,,0,0,24,,,,0,,,0.0,395,,0.0,1,1,edqsn7rj,,,,,0
+396,irtgapa6,,0,0,24,,,,0,,,0.0,396,,0.0,1,1,edqsn7rj,,,,,0
+397,dbcehnee,,0,0,24,,,,0,,,0.0,397,,0.0,1,1,edqsn7rj,,,,,0
+398,j5yi5q1k,,0,0,24,,,,0,,,0.0,398,,0.0,1,1,edqsn7rj,,,,,0
+399,1jr0fsfo,,0,0,24,,,,0,,,0.0,399,,0.0,1,1,edqsn7rj,,,,,0
+400,drhz5f72,,0,0,24,,,,0,,,0.0,400,,0.0,1,1,edqsn7rj,,,,,0
+1,1iahtu24,5c3399d8cb218a000176c6c6,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:13.461843,1,,,10.0,1,,0.0,4,1,xsp8cw0b,,,,,0
+2,hiy2wi1j,60bc38931b526e2f38268207,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:15.690558,1,,,10.0,1,,0.0,2,1,xsp8cw0b,,,,,0
+3,vjetlla1,5e4c21f770e1ed0849f9a7d0,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:16.328144,1,,,11.0,1,,0.0,8,1,xsp8cw0b,,,,,0
+4,hya575nv,61569ee5ec13f9d23135674e,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:16.398850,1,,,7.0,1,,0.0,5,1,xsp8cw0b,,,,,0
+5,k2epxisw,61083c3043474227a8512bf7,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:17.437702,1,,,5.0,1,,0.0,23,1,xsp8cw0b,,,,,0
+6,d0ogetzl,60ed8b58291a506de5a1bf6f,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:17.804987,1,,,7.0,2,,0.0,2,1,xsp8cw0b,,,,,0
+7,w3bo5d60,6114c2ab3ba37f186e3a18f6,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:19.774405,1,,,10.0,1,,0.0,3,1,xsp8cw0b,,,,,0
+8,vms2ywvs,5ff358b80f62f48e21e684fa,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:19.890884,1,,,10.0,2,,0.0,3,1,xsp8cw0b,,,,,0
+9,rzyp1bnl,6091e942f96d14968cfb08b4,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:22.193756,1,,,2.0,2,,0.0,5,1,xsp8cw0b,,,,,0
+10,mkfftef5,612648079fa0866dd2bce10b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:24.968059,1,,,9.0,1,,0.0,6,1,xsp8cw0b,,,,,0
+11,j58h1si2,60f4770f1a89baae4b4f9ddb,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:25.238659,1,,,6.0,2,,0.0,4,1,xsp8cw0b,,,,,0
+12,rriivkdx,60c2b160526d0ae3b07ca006,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:27.432481,1,,,6.0,1,,0.0,11,1,xsp8cw0b,,,,,0
+13,4ike3q75,5fc98bb760422d47c315d393,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:28.348776,1,,,9.0,1,,0.0,7,1,xsp8cw0b,,,,,0
+14,zl2ctxeg,5c52f898110c55000144bf18,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:28.735938,1,,,7.0,1,,0.0,22,1,xsp8cw0b,,,,,0
+15,iczatiug,614fc816a16fc09b18c32f04,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:29.291926,1,,,7.0,2,,0.0,10,1,xsp8cw0b,,,,,0
+16,qr65ymmz,5c9e65d52707e10001a00524,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:29.871395,1,,,2.0,1,,0.0,21,1,xsp8cw0b,,,,,0
+17,s7lnflvd,5e0f443e8205266652153f5e,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:30.844098,1,,,17.0,2,,0.0,7,1,xsp8cw0b,,,,,0
+18,893kabl2,5ba8e80089390100019064ed,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:31.242447,1,,,14.0,2,,0.0,6,1,xsp8cw0b,,,,,0
+19,msj6elz0,5e82a76d09f66f9cd3aeb0e7,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:32.731861,1,,,8.0,2,,0.0,8,1,xsp8cw0b,,,,,0
+20,1ydwf7di,5f1c2ebf1d8b7c48ad3ec3db,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:33.540051,1,,,9.0,1,,0.0,14,1,xsp8cw0b,,,,,0
+21,foav2tuv,5ea97b49b27dc9073e665286,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:33.622516,1,,,7.0,1,,0.0,10,1,xsp8cw0b,,,,,0
+22,uovqdman,5c3c6b3d1ede2b000116397e,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:36.620415,1,,,7.0,1,,0.0,24,1,xsp8cw0b,,,,,0
+23,hy9gsa2v,57334d427d01ed00098e8e69,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 18:41:37.145440,1,,,0.0,2,,0.0,11,1,xsp8cw0b,,,,,0
+24,ipxbdn0r,60ddf017992f20e34420dd08,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:39.372769,1,,,6.0,1,,0.0,77,1,xsp8cw0b,,,,,0
+25,k3ug9ohb,5a348ea750833c0001ee9550,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:41.443099,1,,,14.0,1,,0.0,13,1,xsp8cw0b,,,,,0
+26,nv98juvl,61120d0ed4ab54df137ab06a,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:41.484432,1,,,5.0,1,,0.0,16,1,xsp8cw0b,,,,,0
+27,y3qmvl4d,5e11882114ae638303c715d9,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:41.491906,1,,,4.0,1,,0.0,12,1,xsp8cw0b,,,,,0
+28,cs5zmeca,608f2ebc23ba13416e9a7e57,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:41.976010,1,,,13.0,2,,0.0,12,1,xsp8cw0b,,,,,0
+29,poo5m39m,60a9ad71e8fe182d9a4b16f3,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:42.214374,1,,,5.0,1,,0.0,17,1,xsp8cw0b,,,,,0
+30,6gc2gz1q,60a55d4bb6bd9be6c95b89eb,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:42.058976,1,,,9.0,2,,0.0,14,1,xsp8cw0b,,,,,0
+31,r4414ick,5b53bf0802660200017909e1,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:42.794429,1,,,14.0,1,,0.0,15,1,xsp8cw0b,,,,,0
+32,1h0rnicb,5ba86de49629a90001b3ef5f,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:44.254384,1,,,5.0,1,,0.0,19,1,xsp8cw0b,,,,,0
+33,08mhopu7,5f21c29511084913913af654,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:44.558737,1,,,7.0,2,,0.0,23,1,xsp8cw0b,,,,,0
+34,vwknh9ou,5dc1a56a648927000be0fca7,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:44.615148,1,,,5.0,2,,0.0,16,1,xsp8cw0b,,,,,0
+35,1ou9scsr,558823c2fdf99b318cb4224b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:45.789184,1,,,0.0,1,,0.0,20,1,xsp8cw0b,,,,,0
+36,2ck9diod,614f95fdc3c3e5b08fd0c60a,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:46.848289,1,,,5.0,2,,0.0,17,1,xsp8cw0b,,,,,0
+37,fedo3b86,5fd23ecda6599f06a53f4f62,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:47.417594,1,,,6.0,2,,0.0,15,1,xsp8cw0b,,,,,0
+38,4li1xisj,5fca054298bccf24d97f2530,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:47.931017,1,,,8.0,2,,0.0,21,1,xsp8cw0b,,,,,0
+39,8p2fkkd8,55d5e2c9db6a810006fa078b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:48.482195,1,,,9.0,2,,0.0,13,1,xsp8cw0b,,,,,0
+40,w52nrnjn,60fa3897412a3b9106117614,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:48.630922,1,,,0.0,1,,0.0,18,1,xsp8cw0b,,,,,0
+41,qgutlyrl,54b13343fdf99b6f84cedf7a,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:49.984767,1,,,5.0,2,,0.0,18,1,xsp8cw0b,,,,,0
+42,f3z636ur,607f40d20471eec0b3f77678,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:55.067232,1,,,4.0,2,,0.0,20,1,xsp8cw0b,,,,,0
+43,02t2sqk5,5c2f7a01c5b00a0001f3e52f,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:41:55.578184,1,,,7.0,1,,0.0,25,1,xsp8cw0b,,,,,0
+44,23j6a2h2,5dcaf5db575da17c63ebb51b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:42:05.072120,1,,,0.0,2,,0.0,19,1,xsp8cw0b,,,,,0
+45,vckyzozc,5d531dbf8c48ca00018560a7,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:42:11.308936,1,,,5.0,2,,0.0,22,1,xsp8cw0b,,,,,0
+46,gatdf2mb,5d74001d391b6600175f433b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:42:44.407775,1,,,5.0,2,,0.0,24,1,xsp8cw0b,,,,,0
+47,asv5rfhl,6148dc3549155e9222aee13b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:43:02.759044,1,,,4.0,2,,0.0,25,1,xsp8cw0b,,,,,0
+48,8o3wauen,6155b4ba6222e3f19f3d36d0,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:43:58.943208,1,,,8.0,1,,0.0,26,1,xsp8cw0b,,,,,0
+49,o3r2ws8c,60f989f2b726f86c3d24e13e,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:43:59.335712,1,,,8.0,2,,0.0,26,1,xsp8cw0b,,,,,0
+50,h6nvrgv8,5c48f00f37da740001e8969c,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:44:12.368336,1,,,10.0,1,,0.0,27,1,xsp8cw0b,,,,,0
+51,6se7xabt,611763bd48620d588e88cde0,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:13.387136,1,,,15.0,1,,0.0,32,1,xsp8cw0b,,,,,0
+52,387wz85t,5e274886bcb84f052bf6858f,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:13.787263,1,,,10.0,2,,0.0,27,1,xsp8cw0b,,,,,0
+53,i9tuv2io,5d56ae8ce2a7330015ed2eb7,0,5,24,dictator_robot,Instructions,2021-12-15 18:45:15.053677,1,,,0.0,1,,0.0,29,1,xsp8cw0b,,,,,0
+54,m9wgh3hd,60ef75e98194ebdf7e440783,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:16.608439,1,,,0.0,2,,0.0,29,1,xsp8cw0b,,,,,0
+55,n4gov6oz,5bc8897f462bdb0001a61426,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:18.332454,1,,,0.0,1,,0.0,31,1,xsp8cw0b,,,,,0
+56,bhod8qtl,5c1827dbebe9950001752e40,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:20.338025,1,,,8.0,1,,0.0,28,1,xsp8cw0b,,,,,0
+57,zwbdq06y,5f7dd6ed4303f7000814dd3b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:21.509675,1,,,0.0,2,,0.0,28,1,xsp8cw0b,,,,,0
+58,la4xabkt,6110cc212a3ac417ba55da29,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:21.738702,1,,,7.0,1,,0.0,39,1,xsp8cw0b,,,,,0
+59,fmh8fj0a,5bbfeaeb785edb0001fac427,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:22.447650,1,,,12.0,1,,0.0,38,1,xsp8cw0b,,,,,0
+60,1mp43bsv,611285de4477f8152efce6e8,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:24.931424,1,,,13.0,2,,0.0,31,1,xsp8cw0b,,,,,0
+61,bxngglq3,5f0632802b566a17e81a5f5f,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 18:45:25.305390,1,,,0.0,1,,0.0,30,1,xsp8cw0b,,,,,0
+62,ucxp79p6,6108c5822438aa3dc5c6e152,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:29.502061,1,,,6.0,2,,0.0,30,1,xsp8cw0b,,,,,0
+63,miavqs4w,610434dbaa187bfdbe2e8ac9,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:31.351986,1,,,16.0,2,,0.0,32,1,xsp8cw0b,,,,,0
+64,gbxuft5p,614e1599db14d8f3a5c1486a,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:32.686715,1,,,12.0,1,,0.0,36,1,xsp8cw0b,,,,,0
+65,fawhqvv8,60d65f765bb5e73e308a1ea2,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:33.625351,1,,,15.0,1,,0.0,37,1,xsp8cw0b,,,,,0
+66,lw567nmj,5bb7d50b94519e0001c5a095,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:34.578666,1,,,5.0,1,,0.0,41,1,xsp8cw0b,,,,,0
+67,dz8f9wcv,5b72d1b972a6fc0001b2abc2,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:36.876605,1,,,12.0,1,,0.0,35,1,xsp8cw0b,,,,,0
+68,i485jyv2,5ee2d96eac3291203650f16e,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:37.068748,1,,,7.0,1,,0.0,34,1,xsp8cw0b,,,,,0
+69,9j9ld05r,61087a3ac7ca8020fdbd4a5e,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:37.193030,1,,,10.0,2,,0.0,36,1,xsp8cw0b,,,,,0
+70,jrufudds,5acacf8c9534ba0001c777cf,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:38.591886,1,,,4.0,1,,0.0,42,1,xsp8cw0b,,,,,0
+71,lijrcqnn,60fd6e6d7b35102b8ca961a5,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:38.404220,1,,,15.0,1,,0.0,33,1,xsp8cw0b,,,,,0
+72,mbyzh2w8,5e794f94cd742b5121734d4c,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:39.179396,1,,,8.0,2,,0.0,33,1,xsp8cw0b,,,,,0
+73,e4bq2csy,61670b499c1bc22ba3a7b588,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:41.668743,1,,,12.0,2,,0.0,37,1,xsp8cw0b,,,,,0
+74,lg1b1obt,5b564680ed90280001510d9a,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:41.660410,1,,,5.0,1,,0.0,46,1,xsp8cw0b,,,,,0
+75,mnqhos83,60ccbffae161aadb1880ad6c,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:42.031017,1,,,0.0,2,,0.0,41,1,xsp8cw0b,,,,,0
+76,ai5yquld,61001862463c1eca6db99298,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:42.235938,1,,,14.0,2,,0.0,34,1,xsp8cw0b,,,,,0
+77,m2u65clp,61698b032d91d9ba8c15de76,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:42.436221,1,,,13.0,2,,0.0,35,1,xsp8cw0b,,,,,0
+78,6hh4k6ck,60aec8d62cd630b976374c5e,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:42.737326,1,,,3.0,1,,0.0,44,1,xsp8cw0b,,,,,0
+79,u61qwgdj,615d0733aeb8f75406c20fbb,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:44.479121,1,,,4.0,1,,0.0,40,1,xsp8cw0b,,,,,0
+80,oj865wlc,5f2545d96aeaad0009f624df,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:44.663521,1,,,6.0,2,,0.0,38,1,xsp8cw0b,,,,,0
+81,eihc8351,612e7ef85edba8d26ef96c99,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:47.478314,1,,,7.0,1,,0.0,48,1,xsp8cw0b,,,,,0
+82,h3a4reb1,5ebb2f5f72b18c1017317cf3,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:48.046366,1,,,5.0,2,,0.0,44,1,xsp8cw0b,,,,,0
+83,5cuemauf,60fee6b26d66c814c4f3a5b4,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:48.790533,1,,,4.0,1,,0.0,43,1,xsp8cw0b,,,,,0
+84,6hh5yxth,5e544727059e3744ccdd4c3b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:49.325596,1,,,5.0,1,,0.0,45,1,xsp8cw0b,,,,,0
+85,c3587f22,5fe7da95957b611b25e210f5,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:49.419655,1,,,0.0,2,,0.0,42,1,xsp8cw0b,,,,,0
+86,f65peax7,60fadf64707bc7dcf61f9e54,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:49.992663,1,,,5.0,1,,0.0,49,1,xsp8cw0b,,,,,0
+87,jw2axnu1,608ad48370a61c21065e6010,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:50.327151,1,,,0.0,2,,0.0,40,1,xsp8cw0b,,,,,0
+88,gs2azu5b,5fda1e659df7fa12561ec08a,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 18:45:50.301656,1,,,0.0,2,,0.0,39,1,xsp8cw0b,,,,,0
+89,3s178yh4,5e3e54f69e51f80b67c1cc06,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:50.684462,1,,,7.0,2,,0.0,48,1,xsp8cw0b,,,,,0
+90,gl6eup3m,5ab85787a3ba7a0001b41428,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:50.935026,1,,,5.0,2,,0.0,43,1,xsp8cw0b,,,,,0
+91,tytd8rsc,6111a54ccc7d180f8061316e,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:56.924181,1,,,5.0,2,,0.0,45,1,xsp8cw0b,,,,,0
+92,rvzre78y,5bef64b373e44f0001092811,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:57.178612,1,,,7.0,1,,0.0,52,1,xsp8cw0b,,,,,0
+93,8gsxm6j2,614dff99a7df5de140464ec3,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:45:57.761245,1,,,8.0,1,,0.0,47,1,xsp8cw0b,,,,,0
+94,wk3u3s9x,5c6ae4c31b9d0e000190bacc,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:46:05.751062,1,,,4.0,2,,0.0,46,1,xsp8cw0b,,,,,0
+95,0cbf6p44,53987712fdf99b68e3a45021,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:46:23.832729,1,,,7.0,2,,0.0,47,1,xsp8cw0b,,,,,0
+96,dgbfmgn2,61706990debe1fe754bcbd61,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:46:41.328483,1,,,5.0,1,,0.0,50,1,xsp8cw0b,,,,,0
+97,37pqrz5a,5f74fd83ed11b81620baf105,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:46:42.239414,1,,,5.0,2,,0.0,49,1,xsp8cw0b,,,,,0
+98,w6qplb0y,5ca9e89dcb4af3001440da22,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:46:46.944897,1,,,9.0,2,,0.0,50,1,xsp8cw0b,,,,,0
+99,ow69scpa,5f038dc85819b15b08840dfd,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:47:50.205994,1,,,10.0,1,,0.0,51,1,xsp8cw0b,,,,,0
+100,n6qeo9zv,61032274bad76a096a09f0b0,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:47:53.907752,1,,,10.0,2,,0.0,51,1,xsp8cw0b,,,,,0
+101,3otek0sj,5a78dbb9ae9a0b0001a97212,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:48:10.397449,1,,,6.0,2,,0.0,52,1,xsp8cw0b,,,,,0
+102,gpwsx1yn,6148c4876abfac663ccf0c3a,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:48:49.561336,1,,,8.0,1,,0.0,53,1,xsp8cw0b,,,,,0
+103,7md5dnwi,6054e1ddb68b58dd23242765,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:28.709252,1,,,0.0,1,,0.0,54,1,xsp8cw0b,,,,,0
+104,ftdp0ery,5c71bdec87f8cd0001b458f5,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:29.932242,1,,,5.0,2,,0.0,53,1,xsp8cw0b,,,,,0
+105,j3ob9npe,6102dc69fe9b452795eb3d72,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:31.525740,1,,,14.0,2,,0.0,54,1,xsp8cw0b,,,,,0
+106,e7uj0bs1,5e836a3c2598d409928dae31,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:31.831947,1,,,9.0,1,,0.0,55,1,xsp8cw0b,,,,,0
+107,28wukrm3,60ff632a01371d68a406f893,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:36.029789,1,,,7.0,1,,0.0,56,1,xsp8cw0b,,,,,0
+108,mms01y3t,5a9067894eecca0001dd1427,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:36.623067,1,,,6.0,1,,0.0,57,1,xsp8cw0b,,,,,0
+109,ybjscqa0,611e91d3417faebad3101d08,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:43.414586,1,,,9.0,1,,0.0,59,1,xsp8cw0b,,,,,0
+110,s5o1mf05,60e4fe072aa5db731051c240,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:44.829223,1,,,9.0,1,,0.0,58,1,xsp8cw0b,,,,,0
+111,fjz3rlzb,5fc6bb4182ff63089f4a26be,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:46.539246,1,,,5.0,1,,0.0,75,1,xsp8cw0b,,,,,0
+112,9e4jm4u5,614fd56753386a7c522d5feb,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:47.007310,1,,,11.0,1,,0.0,62,1,xsp8cw0b,,,,,0
+113,0poptzbm,606604f1ca47696cf97529c0,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:47.260720,1,,,13.0,2,,0.0,62,1,xsp8cw0b,,,,,0
+114,6wn07a4q,5c48d9b3cd853b0001287890,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:47.880070,1,,,7.0,2,,0.0,55,1,xsp8cw0b,,,,,0
+115,0e8ar2gx,61127edae420c460b6e45aa0,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:48.265227,1,,,5.0,1,,0.0,68,1,xsp8cw0b,,,,,0
+116,k50lfrz5,5fefefa4c9707d3516361c9c,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 18:49:49.385107,1,,,0.0,2,,0.0,58,1,xsp8cw0b,,,,,0
+117,mmmc9w3a,60fee61eee6562af6a278990,0,2,24,introduction,Introduction,2021-12-15 18:49:49.398196,1,,,0.0,117,,0.0,1,1,xsp8cw0b,,,,,0
+118,ez9qecx3,5deec7e78b5f8b5683c0355a,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:49.739477,1,,,9.0,2,,0.0,57,1,xsp8cw0b,,,,,0
+119,zn0varqd,6164edb74198a072bd18dea3,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:51.145269,1,,,14.0,2,,0.0,59,1,xsp8cw0b,,,,,0
+120,ok47xndv,5ea70b0537c5170b90ece8ac,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:51.466484,1,,,10.0,2,,0.0,56,1,xsp8cw0b,,,,,0
+121,yjde2m6g,6108621d7dec27d392e7bb9d,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:52.939515,1,,,5.0,1,,0.0,72,1,xsp8cw0b,,,,,0
+122,noqgdslb,5e2c972a7d97642ba0a357c6,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:54.502678,1,,,8.0,1,,0.0,63,1,xsp8cw0b,,,,,0
+123,5c8643vq,5a1cddb4087f2e0001eafb99,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:54.838519,1,,,16.0,1,,0.0,61,1,xsp8cw0b,,,,,0
+124,tga4aur6,5755a4c33c680b00095db408,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:54.978516,1,,,5.0,1,,0.0,64,1,xsp8cw0b,,,,,0
+125,0pucx7g6,5bb239a60cc22c000146833e,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:55.708998,1,,,9.0,1,,0.0,60,1,xsp8cw0b,,,,,0
+126,xktsx46g,60f71eb315abd11a590fda93,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:56.354042,1,,,6.0,1,,0.0,70,1,xsp8cw0b,,,,,0
+127,ly8bqltb,5fb69cacddba6408f81a9564,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:57.350215,1,,,13.0,2,,0.0,60,1,xsp8cw0b,,,,,0
+128,2wngl5e3,5b97f8988ae8150001c7a887,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:58.250096,1,,,14.0,2,,0.0,63,1,xsp8cw0b,,,,,0
+129,qsb1gjd1,60fd02da0a86e809c27e1814,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:58.674105,1,,,19.0,2,,0.0,61,1,xsp8cw0b,,,,,0
+130,820zsykk,61002817e1152ddec32cd644,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:59.007004,1,,,5.0,1,,0.0,66,1,xsp8cw0b,,,,,0
+131,m9e584rk,6107e12604ce758d6d356bf6,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:49:59.715544,1,,,10.0,1,,0.0,69,1,xsp8cw0b,,,,,0
+132,1xyubj8w,559fa17cfdf99b69c369d364,0,3,24,assignment,AssignmentWaitPage,2021-12-15 18:50:00.321824,1,,,0.0,132,,0.0,1,1,xsp8cw0b,,,,,0
+133,i7t4v82l,5842eb2904e7550001a06b14,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:02.934312,1,,,5.0,1,,0.0,65,1,xsp8cw0b,,,,,0
+134,w7ncx74x,60ca4cfb5c287146cad0695a,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:03.178020,1,,,7.0,1,,0.0,71,1,xsp8cw0b,,,,,0
+135,jg4dc42k,614ca7f8fc7cba1b74101bfe,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:03.086409,1,,,5.0,2,,0.0,64,1,xsp8cw0b,,,,,0
+136,82bk5syw,5cf7df5a8e098100184cbf43,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:03.305420,1,,,5.0,2,,0.0,65,1,xsp8cw0b,,,,,0
+137,csjyqhcw,610813ebfdb1b78559fb1ff9,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:06.212472,1,,,0.0,1,,0.0,67,1,xsp8cw0b,,,,,0
+138,4n6xov2r,5d8e258e7a33770016980d2b,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:06.544030,1,,,11.0,2,,0.0,71,1,xsp8cw0b,,,,,0
+139,o80rj3xf,6077cb38de8f5c783d413450,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:07.098779,1,,,5.0,2,,0.0,66,1,xsp8cw0b,,,,,0
+140,yf8rlq6x,6115c8cbd1923433e1832a02,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:07.370335,1,,,5.0,2,,0.0,67,1,xsp8cw0b,,,,,0
+141,5kh75nd0,614cbf922a185b9d11bd6648,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:07.634265,1,,,10.0,2,,0.0,75,1,xsp8cw0b,,,,,0
+142,pryhvkwt,614e149fccc6a53ae06dfcd2,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:08.093968,1,,,2.0,2,,0.0,70,1,xsp8cw0b,,,,,0
+143,qho1wv1p,60fcd3e4c974afedd3edf113,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:08.812391,1,,,5.0,2,,0.0,68,1,xsp8cw0b,,,,,0
+144,niimpj1z,5e92a98518ca6c5e48437217,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:10.183078,1,,,8.0,1,,0.0,74,1,xsp8cw0b,,,,,0
+145,vxumpayh,5e63e24eaf3bd51660031dbe,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:13.774307,1,,,7.0,2,,0.0,69,1,xsp8cw0b,,,,,0
+146,oz3sj3gm,5de83f3b3aa615000a41f831,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:17.673040,1,,,11.0,1,,0.0,73,1,xsp8cw0b,,,,,0
+147,0gyazek8,6115f065036ef79a5d0522ac,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:24.271343,1,,,5.0,2,,0.0,73,1,xsp8cw0b,,,,,0
+148,is32e4jx,5c6d460ec3aa150001145611,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:27.723423,1,,,4.0,2,,0.0,72,1,xsp8cw0b,,,,,0
+149,ee29dy7y,61310db855a32fc69c440550,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:50:35.726657,1,,,10.0,2,,0.0,74,1,xsp8cw0b,,,,,0
+150,b6jn4sz5,5fc8a956800c80232e0b7a32,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:51:06.027839,1,,,5.0,1,,0.0,76,1,xsp8cw0b,,,,,0
+151,1lixcqgy,5bf9bd81549c180001dab194,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:51:08.574012,1,,,9.0,2,,0.0,76,1,xsp8cw0b,,,,,0
+152,qsnt5bk9,5796912e913c710001975919,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:52:43.279264,1,,,5.0,2,,0.0,77,1,xsp8cw0b,,,,,0
+153,gowcjbb2,558aab19fdf99b65685f0142,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:54:30.025855,1,,,14.0,1,,0.0,78,1,xsp8cw0b,,,,,0
+154,9q1m4ia9,61094c7cb8c79b6a734c2d0c,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:55:52.182124,1,,,9.0,1,,0.0,79,1,xsp8cw0b,,,,,0
+155,kaa67s0m,611d2052a2e24732a40fe5c6,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:56:07.249444,1,,,17.0,2,,0.0,78,1,xsp8cw0b,,,,,0
+156,i0tesnlb,614dece04ee1516045ed298d,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:56:08.629192,1,,,10.0,2,,0.0,79,1,xsp8cw0b,,,,,0
+157,2lm8ddsx,5c525573f3001c000124e4cb,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:57:54.199787,1,,,17.0,1,,0.0,80,1,xsp8cw0b,,,,,0
+158,s7t1n2h1,5c5badb6a333b50001db9724,0,24,24,final_screen,EndOfExperiment,2021-12-15 18:58:26.999739,1,,,8.0,2,,0.0,80,1,xsp8cw0b,,,,,0
+159,uauf2ueq,5ba12c13863e280001976a10,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 19:30:40.000468,1,,,0.0,1,,0.0,82,1,xsp8cw0b,,,,,0
+160,h7q0mduo,5e814f98193c1983e819818f,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:40.726631,1,,,10.0,1,,0.0,81,1,xsp8cw0b,,,,,0
+161,8knjzg4w,6111c4865701e1ba367af3e3,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:41.468658,1,,,7.0,2,,0.0,81,1,xsp8cw0b,,,,,0
+162,2b69lu8x,5e954b384491ad117052cd48,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:42.550395,1,,,17.0,2,,0.0,82,1,xsp8cw0b,,,,,0
+163,sklky8c3,5f1338a87447d0308e865fd0,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:42.719556,1,,,10.0,1,,0.0,83,1,xsp8cw0b,,,,,0
+164,kcdoppp5,5c0da14d656168000159da7a,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:42.906400,1,,,9.0,1,,0.0,84,1,xsp8cw0b,,,,,0
+165,0d5u712f,58be2fc3bfc0f4000179f3c5,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:51.371176,1,,,14.0,1,,0.0,85,1,xsp8cw0b,,,,,0
+166,2v276nbj,5f4fe42aa8de8e1136e85064,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:51.532025,1,,,11.0,2,,0.0,85,1,xsp8cw0b,,,,,0
+167,j7zm218d,5ec76194079cdc1b61767c3b,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:53.375126,1,,,4.0,1,,0.0,92,1,xsp8cw0b,,,,,0
+168,y604ipn2,6126ecc3ebef11936ed8bfcb,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:54.205553,1,,,5.0,1,,0.0,88,1,xsp8cw0b,,,,,0
+169,kw92dr7h,5ad38729dfe710000183c244,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:57.651626,1,,,7.0,2,,0.0,87,1,xsp8cw0b,,,,,0
+170,ivyj9gcr,5fc84279fff9b01c16046778,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:30:59.356389,1,,,9.0,2,,0.0,83,1,xsp8cw0b,,,,,0
+171,9vbp8wug,6109a7337fd93218ba5926c0,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:00.790616,1,,,5.0,1,,0.0,90,1,xsp8cw0b,,,,,0
+172,2t2n5hlo,600628028f2211980fd1632c,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:01.690550,1,,,5.0,1,,0.0,89,1,xsp8cw0b,,,,,0
+173,hin7a2p4,5ef110ef74978d1e943f0e7a,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:02.034252,1,,,7.0,1,,0.0,87,1,xsp8cw0b,,,,,0
+174,8u37t6ds,610700584a8aa53c1a2ea92d,0,15,24,ultimatum_robot_proposer_strategy,Instructions,2021-12-15 19:31:02.202047,1,,,0.0,2,,0.0,88,1,xsp8cw0b,,,,,0
+175,60nddfbz,5e40cd8807d04430f28eef0c,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:03.709625,1,,,6.0,2,,0.0,84,1,xsp8cw0b,,,,,0
+176,pmuuqxtl,5f9204c669c428109eda454e,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:04.366027,1,,,0.0,2,,0.0,90,1,xsp8cw0b,,,,,0
+177,tfos87w7,5f45beae060bdc1f49704285,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:05.663245,1,,,0.0,2,,0.0,89,1,xsp8cw0b,,,,,0
+178,fxxazvlo,5f88fc9a4157a110c725e6f5,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:06.067696,1,,,5.0,1,,0.0,91,1,xsp8cw0b,,,,,0
+179,0p4to3sa,5af1c24d5bbd0b00015eca8b,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:08.036989,1,,,7.0,1,,0.0,93,1,xsp8cw0b,,,,,0
+180,7jgqtvfy,613b53e4038b14ab5bf1f889,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:08.197752,1,,,0.0,1,,0.0,94,1,xsp8cw0b,,,,,0
+181,lzq0cu5a,5f6eb18408ed4c3fa68fbf8a,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:10.556800,1,,,2.0,2,,0.0,93,1,xsp8cw0b,,,,,0
+182,qeqlc09h,60fde20dd4b213017b1f2ac7,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:11.624947,1,,,0.0,2,,0.0,92,1,xsp8cw0b,,,,,0
+183,vt0kol4m,605134897eb2ce8a9eb367f9,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:13.143718,1,,,5.0,2,,0.0,91,1,xsp8cw0b,,,,,0
+184,5yrmxiar,60fe7748a8ef9311de5f2fcd,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:23.743651,1,,,7.0,2,,0.0,94,1,xsp8cw0b,,,,,0
+185,uj4puy5d,5f483fcda023e1304ce86119,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:31:43.174287,1,,,9.0,1,,0.0,95,1,xsp8cw0b,,,,,0
+186,0w2ky0xu,60fcc00af3ec0d2d4b95c4be,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:32:21.399578,1,,,10.0,2,,0.0,95,1,xsp8cw0b,,,,,0
+187,grckr4gd,5f4f1795c7230316afc2b88a,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:33:49.221954,1,,,7.0,1,,0.0,96,1,xsp8cw0b,,,,,0
+188,jh12f6az,5d215a1bbf7f840019701939,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:34:06.746146,1,,,9.0,1,,0.0,97,1,xsp8cw0b,,,,,0
+189,1gz08ugn,5f14b46fefc95253caca20b4,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:34:14.456104,1,,,5.0,2,,0.0,96,1,xsp8cw0b,,,,,0
+190,iyc2j9uu,5e09ffd8fa3d102a583771c1,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:35:38.652315,1,,,7.0,2,,0.0,97,1,xsp8cw0b,,,,,0
+191,xvk1ei17,55bd8669fdf99b5bfc7d4cfc,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:41:21.708603,1,,,6.0,1,,0.0,98,1,xsp8cw0b,,,,,0
+192,ve9z2e49,,0,5,24,dictator_robot,Instructions,2021-12-15 19:48:09.711297,1,,,0.0,2,,0.0,98,1,xsp8cw0b,,,,,0
+193,7az1xldt,,0,5,24,dictator_robot,Instructions,2021-12-15 19:48:10.448233,1,,,0.0,1,,0.0,99,1,xsp8cw0b,,,,,0
+194,aaxsoelt,,0,5,24,dictator_robot,Instructions,2021-12-15 19:48:11.346219,1,,,0.0,2,,0.0,99,1,xsp8cw0b,,,,,0
+195,q6yn0pom,,0,5,24,dictator_robot,Instructions,2021-12-15 19:48:12.081895,1,,,0.0,1,,0.0,100,1,xsp8cw0b,,,,,0
+196,5zywvrns,,0,5,24,dictator_robot,Instructions,2021-12-15 19:48:12.996911,1,,,0.0,2,,0.0,100,1,xsp8cw0b,,,,,0
+197,jg19wxc5,,0,5,24,dictator_robot,Instructions,2021-12-15 19:48:13.916260,1,,,0.0,1,,0.0,101,1,xsp8cw0b,,,,,0
+198,v56pwt5e,,0,5,24,dictator_robot,Instructions,2021-12-15 19:48:14.958114,1,,,0.0,2,,0.0,101,1,xsp8cw0b,,,,,0
+199,nyxn7zmx,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 19:48:15.862474,1,,,0.0,1,,0.0,103,1,xsp8cw0b,,,,,0
+200,8k1aalg0,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 19:48:16.996131,1,,,0.0,2,,0.0,103,1,xsp8cw0b,,,,,0
+201,u5be479k,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 19:48:17.797032,1,,,0.0,1,,0.0,119,1,xsp8cw0b,,,,,0
+202,qe4c5p1w,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 19:48:20.301947,1,,,0.0,1,,0.0,120,1,xsp8cw0b,,,,,0
+203,nmegf27m,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 19:48:21.108679,1,,,0.0,1,,0.0,121,1,xsp8cw0b,,,,,0
+204,drw9pbm2,611086785cf16356967cf754,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:51:46.720051,1,,,10.0,1,,0.0,102,1,xsp8cw0b,,,,,0
+205,tvyu261v,58ae59babb9e0f0001acb414,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:51:58.698817,1,,,17.0,2,,0.0,102,1,xsp8cw0b,,,,,0
+206,rwjhkz89,61117e8d9c4878fdd4551e02,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:11.066787,1,,,12.0,1,,0.0,104,1,xsp8cw0b,,,,,0
+207,t7gdwe98,5f8564e35185820008e112da,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:25.570808,1,,,11.0,2,,0.0,104,1,xsp8cw0b,,,,,0
+208,m3jukr7p,5db75a2044b77e000b92456a,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:25.956573,1,,,10.0,1,,0.0,105,1,xsp8cw0b,,,,,0
+209,1mtl29h1,5c223d4a4a7e1f000137e5b9,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:26.995093,1,,,11.0,1,,0.0,107,1,xsp8cw0b,,,,,0
+210,0ofva2z5,558d4a54fdf99b534f79b13e,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:27.377111,1,,,9.0,2,,0.0,105,1,xsp8cw0b,,,,,0
+211,kjw3170x,611ab91a00baa062f55b86d8,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:27.646769,1,,,11.0,1,,0.0,108,1,xsp8cw0b,,,,,0
+212,j7vrubq0,614f70b55373b6760cb9d5c9,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:27.893070,1,,,0.0,1,,0.0,116,1,xsp8cw0b,,,,,0
+213,qdomus1y,610b4cc023a7aaa7f7374288,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:28.418928,1,,,4.0,2,,0.0,116,1,xsp8cw0b,,,,,0
+214,86s78c6l,5b954f10754b700001f06bf0,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:29.597290,1,,,9.0,2,,0.0,107,1,xsp8cw0b,,,,,0
+215,462fdn00,5f15f2a9eeada712d2014314,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:30.283818,1,,,9.0,1,,0.0,106,1,xsp8cw0b,,,,,0
+216,af7cn5ip,614f64f2645e6cdc8bdfae8e,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:30.318241,1,,,5.0,1,,0.0,113,1,xsp8cw0b,,,,,0
+217,mk7hha13,614e2791b9cd4f7631f6b991,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:30.773141,1,,,10.0,1,,0.0,111,1,xsp8cw0b,,,,,0
+218,6m041ey3,6144b5a12cb3cc9c3336771e,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:31.016647,1,,,3.0,1,,0.0,112,1,xsp8cw0b,,,,,0
+219,bnunt5uw,60de3caba8fbf2e04c048e1c,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:32.730717,1,,,13.0,1,,0.0,109,1,xsp8cw0b,,,,,0
+220,ap065oxj,5f42167916548e3e557a1e6a,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:33.959362,1,,,19.0,1,,0.0,110,1,xsp8cw0b,,,,,0
+221,2hgdai7k,5ab3fc4b5f01000001cb07e2,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:34.718513,1,,,0.0,2,,0.0,106,1,xsp8cw0b,,,,,0
+222,ifjrqde1,6110d0f069bfd7702ebabba2,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:35.093112,1,,,2.0,1,,0.0,114,1,xsp8cw0b,,,,,0
+223,kuqzo97c,5f989fa02b5a611b2df1a305,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:36.021565,1,,,12.0,2,,0.0,108,1,xsp8cw0b,,,,,0
+224,sbg6qkme,601e13b872774f263d64acac,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:38.772023,1,,,0.0,2,,0.0,112,1,xsp8cw0b,,,,,0
+225,cv38yhzq,5a5d7a42acc75b00017a8193,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:39.856404,1,,,0.0,2,,0.0,114,1,xsp8cw0b,,,,,0
+226,psvt9vsu,5f8e2a9201810e1f2b9f63a2,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:42.292052,1,,,9.0,2,,0.0,110,1,xsp8cw0b,,,,,0
+227,drwkxhue,5d61a3001c84fc001780f4ad,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:42.321748,1,,,9.0,2,,0.0,109,1,xsp8cw0b,,,,,0
+228,or7jj3on,5ee933d3280cdb2bb68165b0,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:50.009061,1,,,5.0,2,,0.0,113,1,xsp8cw0b,,,,,0
+229,7sygixbs,5f8b90a4b237f91824a88aeb,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:57:58.621000,1,,,11.0,2,,0.0,111,1,xsp8cw0b,,,,,0
+230,hqegt561,55c5d75efdf99b255411b190,0,3,24,assignment,AssignmentWaitPage,2021-12-15 19:57:59.505853,1,,,0.0,230,,0.0,1,1,xsp8cw0b,,,,,0
+231,24s3ce6p,614ee5e28a2f0a07d4d639dd,0,23,24,survey,Survey,2021-12-15 19:58:06.788823,1,,,2.0,1,,0.0,117,1,xsp8cw0b,,,,,0
+232,s1ktifgd,60e9dd69a621497f1f8d3c2b,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:58:11.427892,1,,,0.0,1,,0.0,115,1,xsp8cw0b,,,,,0
+233,048maqpv,60ad72b4b8730b3d5305329c,0,24,24,final_screen,EndOfExperiment,2021-12-15 19:58:11.485034,1,,,5.0,2,,0.0,115,1,xsp8cw0b,,,,,0
+234,x7bzj1m3,6153feff56031fc0b414028b,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:00:05.730200,1,,,5.0,2,,0.0,117,1,xsp8cw0b,,,,,0
+235,51oo1y1x,5b2c71645b5c0900018b4223,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:02:19.089028,1,,,0.0,1,,0.0,118,1,xsp8cw0b,,,,,0
+236,dt0v8aoi,5f99e87c962bbc0cf6dc92d2,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:02:27.012536,1,,,11.0,2,,0.0,118,1,xsp8cw0b,,,,,0
+237,z8gjl3zf,6122548871de12f3a454e5cb,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:07:42.208257,1,,,0.0,2,,0.0,119,1,xsp8cw0b,,,,,0
+238,0qilql3b,5fdfb7d6e1442280fc095a66,0,3,24,assignment,AssignmentWaitPage,2021-12-15 20:10:07.730133,1,,,0.0,238,,0.0,1,1,xsp8cw0b,,,,,0
+239,7xpqkpkh,60fe3a34f7f4d5e48ad56af2,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:10:08.954157,1,,,5.0,2,,0.0,120,1,xsp8cw0b,,,,,0
+240,s5bgwafl,60fe20bbcbafdeb1047785fb,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:13:37.993947,1,,,7.0,2,,0.0,121,1,xsp8cw0b,,,,,0
+241,68mbmtu8,,0,5,24,dictator_robot,Instructions,2021-12-15 20:19:24.017596,1,,,0.0,1,,0.0,122,1,xsp8cw0b,,,,,0
+242,qws5jc49,,0,5,24,dictator_robot,Instructions,2021-12-15 20:19:24.491874,1,,,0.0,2,,0.0,122,1,xsp8cw0b,,,,,0
+243,0mcne2hh,,0,5,24,dictator_robot,Instructions,2021-12-15 20:19:25.028478,1,,,0.0,1,,0.0,123,1,xsp8cw0b,,,,,0
+244,yzis3ylu,,0,5,24,dictator_robot,Instructions,2021-12-15 20:19:25.747273,1,,,0.0,2,,0.0,123,1,xsp8cw0b,,,,,0
+245,7rcqx8ta,5f480c726bf20b290a8e4bc3,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:25.663490,1,,,7.0,1,,0.0,131,1,xsp8cw0b,,,,,0
+246,3ivsv1j0,5ec4416c7bf5d7310fe961c6,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:34.675514,1,,,5.0,1,,0.0,124,1,xsp8cw0b,,,,,0
+247,ed1xdptx,6143af8721d1445864c4f6c8,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:37.703354,1,,,5.0,1,,0.0,125,1,xsp8cw0b,,,,,0
+248,s9irlhzo,615b22b2b654b57bcb5ad7b3,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:41.202274,1,,,9.0,1,,0.0,127,1,xsp8cw0b,,,,,0
+249,vmr7vd78,60db8b0a6273519d8cd8088f,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:42.039792,1,,,9.0,2,,0.0,124,1,xsp8cw0b,,,,,0
+250,ngotd7m3,603e97018512c2f752512f0b,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:42.580165,1,,,9.0,1,,0.0,126,1,xsp8cw0b,,,,,0
+251,xhbtamy9,5dd42e7f35cf744223c60d1b,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:42.943905,1,,,7.0,1,,0.0,130,1,xsp8cw0b,,,,,0
+252,23z07f3q,5f7654f879a4420e6d20971b,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:43.843669,1,,,12.0,1,,0.0,134,1,xsp8cw0b,,,,,0
+253,kxlmox12,5b72166ef62da60001c02608,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:44.782053,1,,,7.0,1,,0.0,129,1,xsp8cw0b,,,,,0
+254,35r0ll46,6108678bdc10bef3ef27f7f0,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:45.736643,1,,,13.0,1,,0.0,132,1,xsp8cw0b,,,,,0
+255,0fk9r8hy,5f11ea555cb9170eb62aed40,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:45.999000,1,,,6.0,2,,0.0,125,1,xsp8cw0b,,,,,0
+256,2rb8tnu6,614e286a03ce8b775ececd84,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:46.165963,1,,,9.0,1,,0.0,128,1,xsp8cw0b,,,,,0
+257,kvisiysl,61006f3c396dd596eb7c555e,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:46.559856,1,,,9.0,2,,0.0,126,1,xsp8cw0b,,,,,0
+258,fsz07g42,612e774f539a45b2e8aad19e,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:47.902894,1,,,3.0,1,,0.0,137,1,xsp8cw0b,,,,,0
+259,kozefog7,5e13ad514c81b2a01ae4aa9f,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:48.212002,1,,,14.0,2,,0.0,131,1,xsp8cw0b,,,,,0
+260,5doi35bc,60fcd2c0ef92b8427c66e83a,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:48.353581,1,,,4.0,2,,0.0,127,1,xsp8cw0b,,,,,0
+261,rbea27nl,6150dd7a8f92b6107473a171,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:50.015991,1,,,7.0,2,,0.0,128,1,xsp8cw0b,,,,,0
+262,lmd5215u,60b91e7f81b40fd08d67baaa,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:50.022832,1,,,9.0,2,,0.0,129,1,xsp8cw0b,,,,,0
+263,nojwz6dt,6159d4026fd4e22c9f1179c1,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:50.916069,1,,,9.0,1,,0.0,135,1,xsp8cw0b,,,,,0
+264,mi7mschv,607adde86872360e1d814dbc,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:54.447999,1,,,9.0,2,,0.0,132,1,xsp8cw0b,,,,,0
+265,jokwellw,60a2a8570a0f9cc00d6b9d1a,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 20:20:55.333165,1,,,0.0,2,,0.0,134,1,xsp8cw0b,,,,,0
+266,5vpomoqs,5c742339e621f900163f4543,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:55.677450,1,,,8.0,2,,0.0,130,1,xsp8cw0b,,,,,0
+267,epjcvera,614f9baf3672b160f253c13e,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:20:58.704533,1,,,9.0,2,,0.0,135,1,xsp8cw0b,,,,,0
+268,d6vl0ajy,610a461594c84308409d30ca,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:21:21.583298,1,,,4.0,1,,0.0,136,1,xsp8cw0b,,,,,0
+269,zbr6uh37,61103c2b7810420e5f23f437,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:21:52.515580,1,,,5.0,2,,0.0,136,1,xsp8cw0b,,,,,0
+270,6inwpitk,6109ed83fee91ce5c4a316c2,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:22:43.391657,1,,,5.0,2,,0.0,137,1,xsp8cw0b,,,,,0
+271,hvs7rmkj,,0,15,24,ultimatum_robot_proposer_strategy,Instructions,2021-12-15 20:38:44.883637,1,,,0.0,1,,0.0,138,1,xsp8cw0b,,,,,0
+272,d61dhzy2,,0,15,24,ultimatum_robot_proposer_strategy,Instructions,2021-12-15 20:38:45.599833,1,,,0.0,2,,0.0,138,1,xsp8cw0b,,,,,0
+273,dblvltc1,,0,15,24,ultimatum_robot_proposer_strategy,Instructions,2021-12-15 20:38:46.262915,1,,,0.0,1,,0.0,139,1,xsp8cw0b,,,,,0
+274,9xjaz8bo,,0,15,24,ultimatum_robot_proposer_strategy,Instructions,2021-12-15 20:38:47.082859,1,,,0.0,2,,0.0,139,1,xsp8cw0b,,,,,0
+275,pfxugv1o,,0,15,24,ultimatum_robot_proposer_strategy,Instructions,2021-12-15 20:38:47.808466,1,,,0.0,1,,0.0,140,1,xsp8cw0b,,,,,0
+276,188mf106,,0,15,24,ultimatum_robot_proposer_strategy,Instructions,2021-12-15 20:38:48.615952,1,,,0.0,2,,0.0,140,1,xsp8cw0b,,,,,0
+277,l5x1kfl7,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 20:38:49.259579,1,,,0.0,1,,0.0,141,1,xsp8cw0b,,,,,0
+278,8jauzsvm,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 20:38:49.956000,1,,,0.0,2,,0.0,141,1,xsp8cw0b,,,,,0
+279,8xe7tofe,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 20:38:50.875445,1,,,0.0,1,,0.0,142,1,xsp8cw0b,,,,,0
+280,k2f7egud,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 20:38:51.595157,1,,,0.0,2,,0.0,142,1,xsp8cw0b,,,,,0
+281,u47kxvh2,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 20:38:52.492003,1,,,0.0,1,,0.0,143,1,xsp8cw0b,,,,,0
+282,bpi8nwqq,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 20:38:53.329730,1,,,0.0,2,,0.0,143,1,xsp8cw0b,,,,,0
+283,wd5d1q41,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 20:38:54.199211,1,,,0.0,1,,0.0,144,1,xsp8cw0b,,,,,0
+284,wgjesqhp,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 20:38:54.963463,1,,,0.0,2,,0.0,144,1,xsp8cw0b,,,,,0
+285,7iios5ev,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 20:38:55.858333,1,,,0.0,1,,0.0,145,1,xsp8cw0b,,,,,0
+286,7e4f5pd3,,0,18,24,ultimatum_robot_responder_strategy,Instructions,2021-12-15 20:38:56.653030,1,,,0.0,2,,0.0,145,1,xsp8cw0b,,,,,0
+287,wka8oda0,,0,5,24,dictator_robot,Instructions,2021-12-15 20:40:29.415984,1,,,0.0,1,,0.0,146,1,xsp8cw0b,,,,,0
+288,720m6uvh,,0,5,24,dictator_robot,Instructions,2021-12-15 20:40:30.028957,1,,,0.0,2,,0.0,146,1,xsp8cw0b,,,,,0
+289,2ocyn5s0,,0,5,24,dictator_robot,Instructions,2021-12-15 20:40:30.908219,1,,,0.0,1,,0.0,147,1,xsp8cw0b,,,,,0
+290,cfx8eops,,0,5,24,dictator_robot,Instructions,2021-12-15 20:40:31.691282,1,,,0.0,2,,0.0,147,1,xsp8cw0b,,,,,0
+291,ln9rg4g7,,0,5,24,dictator_robot,Instructions,2021-12-15 20:40:35.702954,1,,,0.0,1,,0.0,148,1,xsp8cw0b,,,,,0
+292,edl2j4tk,,0,5,24,dictator_robot,Instructions,2021-12-15 20:40:36.484804,1,,,0.0,2,,0.0,148,1,xsp8cw0b,,,,,0
+293,a899ok9y,,0,5,24,dictator_robot,Instructions,2021-12-15 20:40:37.731422,1,,,0.0,1,,0.0,149,1,xsp8cw0b,,,,,0
+294,4ft7yiup,,0,5,24,dictator_robot,Instructions,2021-12-15 20:40:38.367560,1,,,0.0,2,,0.0,149,1,xsp8cw0b,,,,,0
+295,ka5t1t44,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 20:40:39.038486,1,,,0.0,1,,0.0,150,1,xsp8cw0b,,,,,0
+296,xyniqz23,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 20:40:39.650995,1,,,0.0,2,,0.0,150,1,xsp8cw0b,,,,,0
+297,0uw0630o,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 20:40:40.281619,1,,,0.0,1,,0.0,151,1,xsp8cw0b,,,,,0
+298,ar31u7fk,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 20:40:40.905586,1,,,0.0,2,,0.0,151,1,xsp8cw0b,,,,,0
+299,rkr6zemd,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 20:41:58.976004,1,,,0.0,1,,0.0,152,1,xsp8cw0b,,,,,0
+300,ks7idem9,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 20:41:59.708396,1,,,0.0,2,,0.0,152,1,xsp8cw0b,,,,,0
+301,1pbrnwlf,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 20:42:00.484859,1,,,0.0,1,,0.0,153,1,xsp8cw0b,,,,,0
+302,i73jwkmb,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 20:42:01.240583,1,,,0.0,2,,0.0,153,1,xsp8cw0b,,,,,0
+303,j4ryv29i,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 20:42:02.026760,1,,,0.0,1,,0.0,154,1,xsp8cw0b,,,,,0
+304,vcx15go6,,0,8,24,trust_robot_firstmover_strategy,Instructions,2021-12-15 20:42:02.728360,1,,,0.0,2,,0.0,154,1,xsp8cw0b,,,,,0
+305,4zoxcon0,,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 20:42:56.655251,1,,,0.0,1,,0.0,155,1,xsp8cw0b,,,,,0
+306,2gptzs46,,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 20:42:57.510974,1,,,0.0,2,,0.0,155,1,xsp8cw0b,,,,,0
+307,ktixrg5h,,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 20:42:59.641396,1,,,0.0,1,,0.0,156,1,xsp8cw0b,,,,,0
+308,4yqtsqtx,,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 20:43:00.491966,1,,,0.0,2,,0.0,156,1,xsp8cw0b,,,,,0
+309,uz67pdgm,5fc7e1a6984e2507f4df948e,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:43:48.646170,1,,,6.0,1,,0.0,157,1,xsp8cw0b,,,,,0
+310,qucdvvpb,60fcdd362d1a5e0d012b91f0,0,11,24,trust_robot_secondmover,Instructions,2021-12-15 20:43:55.152798,1,,,0.0,2,,0.0,157,1,xsp8cw0b,,,,,0
+311,7lg0nawb,5f7789d1dc37e32f21e818aa,0,2,24,introduction,Introduction,2021-12-15 20:48:47.890762,1,,,0.0,311,,0.0,1,1,xsp8cw0b,,,,,0
+312,tvgfynin,5f262a5da3ee73344f66d050,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:49:01.326964,1,,,10.0,1,,0.0,158,1,xsp8cw0b,,,,,0
+313,i9khas0a,5e387f2c0d70ef099d5e5a4f,0,24,24,final_screen,EndOfExperiment,2021-12-15 20:49:07.061773,1,,,4.0,2,,0.0,158,1,xsp8cw0b,,,,,0
+314,rjup2h8u,,0,0,24,,,,0,,,0.0,314,,0.0,1,1,xsp8cw0b,,,,,0
+315,uhu9itcw,,0,0,24,,,,0,,,0.0,315,,0.0,1,1,xsp8cw0b,,,,,0
+316,u1gial1k,,0,0,24,,,,0,,,0.0,316,,0.0,1,1,xsp8cw0b,,,,,0
+317,oam4hid2,,0,0,24,,,,0,,,0.0,317,,0.0,1,1,xsp8cw0b,,,,,0
+318,r2e41rsh,,0,0,24,,,,0,,,0.0,318,,0.0,1,1,xsp8cw0b,,,,,0
+319,b4i5vugq,,0,0,24,,,,0,,,0.0,319,,0.0,1,1,xsp8cw0b,,,,,0
+320,ekat4dbu,,0,0,24,,,,0,,,0.0,320,,0.0,1,1,xsp8cw0b,,,,,0
+321,a1acn23a,,0,0,24,,,,0,,,0.0,321,,0.0,1,1,xsp8cw0b,,,,,0
+322,kguxojuq,,0,0,24,,,,0,,,0.0,322,,0.0,1,1,xsp8cw0b,,,,,0
+323,ov0w46rx,,0,0,24,,,,0,,,0.0,323,,0.0,1,1,xsp8cw0b,,,,,0
+324,ldcrf91x,,0,0,24,,,,0,,,0.0,324,,0.0,1,1,xsp8cw0b,,,,,0
+325,prl0quty,,0,0,24,,,,0,,,0.0,325,,0.0,1,1,xsp8cw0b,,,,,0
+326,wlg0s764,,0,0,24,,,,0,,,0.0,326,,0.0,1,1,xsp8cw0b,,,,,0
+327,0dtaj2y1,,0,0,24,,,,0,,,0.0,327,,0.0,1,1,xsp8cw0b,,,,,0
+328,3r6hm3iq,,0,0,24,,,,0,,,0.0,328,,0.0,1,1,xsp8cw0b,,,,,0
+329,q7ksno8j,,0,0,24,,,,0,,,0.0,329,,0.0,1,1,xsp8cw0b,,,,,0
+330,6vr83u8t,,0,0,24,,,,0,,,0.0,330,,0.0,1,1,xsp8cw0b,,,,,0
+331,16ckfdq6,,0,0,24,,,,0,,,0.0,331,,0.0,1,1,xsp8cw0b,,,,,0
+332,44h5vw9d,,0,0,24,,,,0,,,0.0,332,,0.0,1,1,xsp8cw0b,,,,,0
+333,mljby81l,,0,0,24,,,,0,,,0.0,333,,0.0,1,1,xsp8cw0b,,,,,0
+334,tt9x0vlu,,0,0,24,,,,0,,,0.0,334,,0.0,1,1,xsp8cw0b,,,,,0
+335,yistr3in,,0,0,24,,,,0,,,0.0,335,,0.0,1,1,xsp8cw0b,,,,,0
+336,6wmun8zp,,0,0,24,,,,0,,,0.0,336,,0.0,1,1,xsp8cw0b,,,,,0
+337,apryimpe,,0,0,24,,,,0,,,0.0,337,,0.0,1,1,xsp8cw0b,,,,,0
+338,2l8f0mgn,,0,0,24,,,,0,,,0.0,338,,0.0,1,1,xsp8cw0b,,,,,0
+339,duvbkwny,,0,0,24,,,,0,,,0.0,339,,0.0,1,1,xsp8cw0b,,,,,0
+340,m6tbbk6v,,0,0,24,,,,0,,,0.0,340,,0.0,1,1,xsp8cw0b,,,,,0
+341,xxx40qde,,0,0,24,,,,0,,,0.0,341,,0.0,1,1,xsp8cw0b,,,,,0
+342,cv3xj4uv,,0,0,24,,,,0,,,0.0,342,,0.0,1,1,xsp8cw0b,,,,,0
+343,x5u5ydhf,,0,0,24,,,,0,,,0.0,343,,0.0,1,1,xsp8cw0b,,,,,0
+344,uxnhwz02,,0,0,24,,,,0,,,0.0,344,,0.0,1,1,xsp8cw0b,,,,,0
+345,yj4tr19m,,0,0,24,,,,0,,,0.0,345,,0.0,1,1,xsp8cw0b,,,,,0
+346,fooke9xe,,0,0,24,,,,0,,,0.0,346,,0.0,1,1,xsp8cw0b,,,,,0
+347,n6sv357t,,0,0,24,,,,0,,,0.0,347,,0.0,1,1,xsp8cw0b,,,,,0
+348,cohxovnn,,0,0,24,,,,0,,,0.0,348,,0.0,1,1,xsp8cw0b,,,,,0
+349,75y15mst,,0,0,24,,,,0,,,0.0,349,,0.0,1,1,xsp8cw0b,,,,,0
+350,dpnwbea1,,0,0,24,,,,0,,,0.0,350,,0.0,1,1,xsp8cw0b,,,,,0
+351,qj1jv7u3,,0,0,24,,,,0,,,0.0,351,,0.0,1,1,xsp8cw0b,,,,,0
+352,rdabny2k,,0,0,24,,,,0,,,0.0,352,,0.0,1,1,xsp8cw0b,,,,,0
+353,healxcv3,,0,0,24,,,,0,,,0.0,353,,0.0,1,1,xsp8cw0b,,,,,0
+354,2qvka6mf,,0,0,24,,,,0,,,0.0,354,,0.0,1,1,xsp8cw0b,,,,,0
+355,py911d2p,,0,0,24,,,,0,,,0.0,355,,0.0,1,1,xsp8cw0b,,,,,0
+356,l8bkn3mz,,0,0,24,,,,0,,,0.0,356,,0.0,1,1,xsp8cw0b,,,,,0
+357,p9omrgno,,0,0,24,,,,0,,,0.0,357,,0.0,1,1,xsp8cw0b,,,,,0
+358,uo08ga7p,,0,0,24,,,,0,,,0.0,358,,0.0,1,1,xsp8cw0b,,,,,0
+359,8pwc6m6y,,0,0,24,,,,0,,,0.0,359,,0.0,1,1,xsp8cw0b,,,,,0
+360,3pwkinht,,0,0,24,,,,0,,,0.0,360,,0.0,1,1,xsp8cw0b,,,,,0
+361,xxnye3z9,,0,0,24,,,,0,,,0.0,361,,0.0,1,1,xsp8cw0b,,,,,0
+362,e4zwo0zs,,0,0,24,,,,0,,,0.0,362,,0.0,1,1,xsp8cw0b,,,,,0
+363,d8yqe1h2,,0,0,24,,,,0,,,0.0,363,,0.0,1,1,xsp8cw0b,,,,,0
+364,umao0d2z,,0,0,24,,,,0,,,0.0,364,,0.0,1,1,xsp8cw0b,,,,,0
+365,8i1z9kuq,,0,0,24,,,,0,,,0.0,365,,0.0,1,1,xsp8cw0b,,,,,0
+366,tu3etwgz,,0,0,24,,,,0,,,0.0,366,,0.0,1,1,xsp8cw0b,,,,,0
+367,hag5xfcx,,0,0,24,,,,0,,,0.0,367,,0.0,1,1,xsp8cw0b,,,,,0
+368,q2580r20,,0,0,24,,,,0,,,0.0,368,,0.0,1,1,xsp8cw0b,,,,,0
+369,oq8nzia9,,0,0,24,,,,0,,,0.0,369,,0.0,1,1,xsp8cw0b,,,,,0
+370,h6i5hiuo,,0,0,24,,,,0,,,0.0,370,,0.0,1,1,xsp8cw0b,,,,,0
+371,95kv7bp7,,0,0,24,,,,0,,,0.0,371,,0.0,1,1,xsp8cw0b,,,,,0
+372,4d0cbh4x,,0,0,24,,,,0,,,0.0,372,,0.0,1,1,xsp8cw0b,,,,,0
+373,gbpppibd,,0,0,24,,,,0,,,0.0,373,,0.0,1,1,xsp8cw0b,,,,,0
+374,rvx823bb,,0,0,24,,,,0,,,0.0,374,,0.0,1,1,xsp8cw0b,,,,,0
+375,g5v01bo8,,0,0,24,,,,0,,,0.0,375,,0.0,1,1,xsp8cw0b,,,,,0
+376,2kgyecch,,0,0,24,,,,0,,,0.0,376,,0.0,1,1,xsp8cw0b,,,,,0
+377,p5233ycn,,0,0,24,,,,0,,,0.0,377,,0.0,1,1,xsp8cw0b,,,,,0
+378,h5ts7fb2,,0,0,24,,,,0,,,0.0,378,,0.0,1,1,xsp8cw0b,,,,,0
+379,e1kuiv00,,0,0,24,,,,0,,,0.0,379,,0.0,1,1,xsp8cw0b,,,,,0
+380,qfo3f1d9,,0,0,24,,,,0,,,0.0,380,,0.0,1,1,xsp8cw0b,,,,,0
+381,fo3yb4nh,,0,0,24,,,,0,,,0.0,381,,0.0,1,1,xsp8cw0b,,,,,0
+382,dgwk51cy,,0,0,24,,,,0,,,0.0,382,,0.0,1,1,xsp8cw0b,,,,,0
+383,4ferhxfz,,0,0,24,,,,0,,,0.0,383,,0.0,1,1,xsp8cw0b,,,,,0
+384,n84udvqz,,0,0,24,,,,0,,,0.0,384,,0.0,1,1,xsp8cw0b,,,,,0
+385,tjfpab6l,,0,0,24,,,,0,,,0.0,385,,0.0,1,1,xsp8cw0b,,,,,0
+386,w9ot0uu7,,0,0,24,,,,0,,,0.0,386,,0.0,1,1,xsp8cw0b,,,,,0
+387,tggs9qt2,,0,0,24,,,,0,,,0.0,387,,0.0,1,1,xsp8cw0b,,,,,0
+388,d3875oup,,0,0,24,,,,0,,,0.0,388,,0.0,1,1,xsp8cw0b,,,,,0
+389,unl9mosj,,0,0,24,,,,0,,,0.0,389,,0.0,1,1,xsp8cw0b,,,,,0
+390,lod5llvv,,0,0,24,,,,0,,,0.0,390,,0.0,1,1,xsp8cw0b,,,,,0
+391,3np1nayr,,0,0,24,,,,0,,,0.0,391,,0.0,1,1,xsp8cw0b,,,,,0
+392,gn4hr8id,,0,0,24,,,,0,,,0.0,392,,0.0,1,1,xsp8cw0b,,,,,0
+393,uomuc5lg,,0,0,24,,,,0,,,0.0,393,,0.0,1,1,xsp8cw0b,,,,,0
+394,sviaqs2m,,0,0,24,,,,0,,,0.0,394,,0.0,1,1,xsp8cw0b,,,,,0
+395,nf0w2v56,,0,0,24,,,,0,,,0.0,395,,0.0,1,1,xsp8cw0b,,,,,0
+396,1vlrjsuw,,0,0,24,,,,0,,,0.0,396,,0.0,1,1,xsp8cw0b,,,,,0
+397,d1kx4yuq,,0,0,24,,,,0,,,0.0,397,,0.0,1,1,xsp8cw0b,,,,,0
+398,0q5i19t3,,0,0,24,,,,0,,,0.0,398,,0.0,1,1,xsp8cw0b,,,,,0
+399,owwc2ck3,,0,0,24,,,,0,,,0.0,399,,0.0,1,1,xsp8cw0b,,,,,0
+400,mo7wsow2,,0,0,24,,,,0,,,0.0,400,,0.0,1,1,xsp8cw0b,,,,,0
+401,hzyjuz62,,0,0,24,,,,0,,,0.0,401,,0.0,1,1,xsp8cw0b,,,,,0
+402,3m2ruh5o,,0,0,24,,,,0,,,0.0,402,,0.0,1,1,xsp8cw0b,,,,,0
+403,m4hg6j4z,,0,0,24,,,,0,,,0.0,403,,0.0,1,1,xsp8cw0b,,,,,0
+404,zc75yoml,,0,0,24,,,,0,,,0.0,404,,0.0,1,1,xsp8cw0b,,,,,0
+405,w1jeyt18,,0,0,24,,,,0,,,0.0,405,,0.0,1,1,xsp8cw0b,,,,,0
+406,loopzve0,,0,0,24,,,,0,,,0.0,406,,0.0,1,1,xsp8cw0b,,,,,0
+407,0imiqf4v,,0,0,24,,,,0,,,0.0,407,,0.0,1,1,xsp8cw0b,,,,,0
+408,bua5bq0m,,0,0,24,,,,0,,,0.0,408,,0.0,1,1,xsp8cw0b,,,,,0
+409,jaak16v7,,0,0,24,,,,0,,,0.0,409,,0.0,1,1,xsp8cw0b,,,,,0
+410,qgmzxsdh,,0,0,24,,,,0,,,0.0,410,,0.0,1,1,xsp8cw0b,,,,,0
+411,z6b18so7,,0,0,24,,,,0,,,0.0,411,,0.0,1,1,xsp8cw0b,,,,,0
+412,3dvtx7zm,,0,0,24,,,,0,,,0.0,412,,0.0,1,1,xsp8cw0b,,,,,0
+413,87upfxzz,,0,0,24,,,,0,,,0.0,413,,0.0,1,1,xsp8cw0b,,,,,0
+414,8ondggbe,,0,0,24,,,,0,,,0.0,414,,0.0,1,1,xsp8cw0b,,,,,0
+415,m5rn9vus,,0,0,24,,,,0,,,0.0,415,,0.0,1,1,xsp8cw0b,,,,,0
+416,63629xwq,,0,0,24,,,,0,,,0.0,416,,0.0,1,1,xsp8cw0b,,,,,0
+417,gclx1e74,,0,0,24,,,,0,,,0.0,417,,0.0,1,1,xsp8cw0b,,,,,0
+418,x73z35lv,,0,0,24,,,,0,,,0.0,418,,0.0,1,1,xsp8cw0b,,,,,0
+419,1pu0qrps,,0,0,24,,,,0,,,0.0,419,,0.0,1,1,xsp8cw0b,,,,,0
+420,oyggtyei,,0,0,24,,,,0,,,0.0,420,,0.0,1,1,xsp8cw0b,,,,,0
+421,04d9j9m7,,0,0,24,,,,0,,,0.0,421,,0.0,1,1,xsp8cw0b,,,,,0
+422,y76zmjwk,,0,0,24,,,,0,,,0.0,422,,0.0,1,1,xsp8cw0b,,,,,0
+423,47jk59mi,,0,0,24,,,,0,,,0.0,423,,0.0,1,1,xsp8cw0b,,,,,0
+424,o9vy8lkl,,0,0,24,,,,0,,,0.0,424,,0.0,1,1,xsp8cw0b,,,,,0
+425,dble0oem,,0,0,24,,,,0,,,0.0,425,,0.0,1,1,xsp8cw0b,,,,,0
+426,jcija4mn,,0,0,24,,,,0,,,0.0,426,,0.0,1,1,xsp8cw0b,,,,,0
+427,j6kgsrst,,0,0,24,,,,0,,,0.0,427,,0.0,1,1,xsp8cw0b,,,,,0
+428,btee4876,,0,0,24,,,,0,,,0.0,428,,0.0,1,1,xsp8cw0b,,,,,0
+429,sopluhh8,,0,0,24,,,,0,,,0.0,429,,0.0,1,1,xsp8cw0b,,,,,0
+430,rq85vksj,,0,0,24,,,,0,,,0.0,430,,0.0,1,1,xsp8cw0b,,,,,0
+431,kpvywwaq,,0,0,24,,,,0,,,0.0,431,,0.0,1,1,xsp8cw0b,,,,,0
+432,m82f6z5x,,0,0,24,,,,0,,,0.0,432,,0.0,1,1,xsp8cw0b,,,,,0
+433,l9gn4iuz,,0,0,24,,,,0,,,0.0,433,,0.0,1,1,xsp8cw0b,,,,,0
+434,lo2rq749,,0,0,24,,,,0,,,0.0,434,,0.0,1,1,xsp8cw0b,,,,,0
+435,88x96gkf,,0,0,24,,,,0,,,0.0,435,,0.0,1,1,xsp8cw0b,,,,,0
+436,473ercwp,,0,0,24,,,,0,,,0.0,436,,0.0,1,1,xsp8cw0b,,,,,0
+437,d3gv8cgh,,0,0,24,,,,0,,,0.0,437,,0.0,1,1,xsp8cw0b,,,,,0
+438,ue44z0ye,,0,0,24,,,,0,,,0.0,438,,0.0,1,1,xsp8cw0b,,,,,0
+439,fvr2qps7,,0,0,24,,,,0,,,0.0,439,,0.0,1,1,xsp8cw0b,,,,,0
+440,i6ii8r33,,0,0,24,,,,0,,,0.0,440,,0.0,1,1,xsp8cw0b,,,,,0
+441,sm88znmi,,0,0,24,,,,0,,,0.0,441,,0.0,1,1,xsp8cw0b,,,,,0
+442,3lz5w9l9,,0,0,24,,,,0,,,0.0,442,,0.0,1,1,xsp8cw0b,,,,,0
+443,2dv73ab3,,0,0,24,,,,0,,,0.0,443,,0.0,1,1,xsp8cw0b,,,,,0
+444,2hq4o330,,0,0,24,,,,0,,,0.0,444,,0.0,1,1,xsp8cw0b,,,,,0
+445,2ddy0a06,,0,0,24,,,,0,,,0.0,445,,0.0,1,1,xsp8cw0b,,,,,0
+446,bej6s4b6,,0,0,24,,,,0,,,0.0,446,,0.0,1,1,xsp8cw0b,,,,,0
+447,jk5o0vjw,,0,0,24,,,,0,,,0.0,447,,0.0,1,1,xsp8cw0b,,,,,0
+448,ifdw7116,,0,0,24,,,,0,,,0.0,448,,0.0,1,1,xsp8cw0b,,,,,0
+449,ifwplopr,,0,0,24,,,,0,,,0.0,449,,0.0,1,1,xsp8cw0b,,,,,0
+450,f0mccm8o,,0,0,24,,,,0,,,0.0,450,,0.0,1,1,xsp8cw0b,,,,,0
+451,tdmqmisx,,0,0,24,,,,0,,,0.0,451,,0.0,1,1,xsp8cw0b,,,,,0
+452,ky0oo3h7,,0,0,24,,,,0,,,0.0,452,,0.0,1,1,xsp8cw0b,,,,,0
+453,dj91xca1,,0,0,24,,,,0,,,0.0,453,,0.0,1,1,xsp8cw0b,,,,,0
+454,ec28dozg,,0,0,24,,,,0,,,0.0,454,,0.0,1,1,xsp8cw0b,,,,,0
+455,p13vc0kp,,0,0,24,,,,0,,,0.0,455,,0.0,1,1,xsp8cw0b,,,,,0
+456,ze8f1xf5,,0,0,24,,,,0,,,0.0,456,,0.0,1,1,xsp8cw0b,,,,,0
+457,q6r0o46b,,0,0,24,,,,0,,,0.0,457,,0.0,1,1,xsp8cw0b,,,,,0
+458,z68m8ir0,,0,0,24,,,,0,,,0.0,458,,0.0,1,1,xsp8cw0b,,,,,0
+459,vywcduac,,0,0,24,,,,0,,,0.0,459,,0.0,1,1,xsp8cw0b,,,,,0
+460,uxw1v8yy,,0,0,24,,,,0,,,0.0,460,,0.0,1,1,xsp8cw0b,,,,,0
+461,x379xe2j,,0,0,24,,,,0,,,0.0,461,,0.0,1,1,xsp8cw0b,,,,,0
+462,cnfess0p,,0,0,24,,,,0,,,0.0,462,,0.0,1,1,xsp8cw0b,,,,,0
+463,3tg6h68v,,0,0,24,,,,0,,,0.0,463,,0.0,1,1,xsp8cw0b,,,,,0
+464,fmw6dpd1,,0,0,24,,,,0,,,0.0,464,,0.0,1,1,xsp8cw0b,,,,,0
+465,xaf764ql,,0,0,24,,,,0,,,0.0,465,,0.0,1,1,xsp8cw0b,,,,,0
+466,rlkyi1b1,,0,0,24,,,,0,,,0.0,466,,0.0,1,1,xsp8cw0b,,,,,0
+467,7ldcqmve,,0,0,24,,,,0,,,0.0,467,,0.0,1,1,xsp8cw0b,,,,,0
+468,8h5fw0ep,,0,0,24,,,,0,,,0.0,468,,0.0,1,1,xsp8cw0b,,,,,0
+469,cgz78tjh,,0,0,24,,,,0,,,0.0,469,,0.0,1,1,xsp8cw0b,,,,,0
+470,cnc5x2jw,,0,0,24,,,,0,,,0.0,470,,0.0,1,1,xsp8cw0b,,,,,0
+471,ts3nqu7v,,0,0,24,,,,0,,,0.0,471,,0.0,1,1,xsp8cw0b,,,,,0
+472,1nw07w7j,,0,0,24,,,,0,,,0.0,472,,0.0,1,1,xsp8cw0b,,,,,0
+473,u7ez66ar,,0,0,24,,,,0,,,0.0,473,,0.0,1,1,xsp8cw0b,,,,,0
+474,5oi94wbi,,0,0,24,,,,0,,,0.0,474,,0.0,1,1,xsp8cw0b,,,,,0
+475,mtdak6kw,,0,0,24,,,,0,,,0.0,475,,0.0,1,1,xsp8cw0b,,,,,0
+476,acnk0uwd,,0,0,24,,,,0,,,0.0,476,,0.0,1,1,xsp8cw0b,,,,,0
+477,a26w9hyi,,0,0,24,,,,0,,,0.0,477,,0.0,1,1,xsp8cw0b,,,,,0
+478,us7aud3c,,0,0,24,,,,0,,,0.0,478,,0.0,1,1,xsp8cw0b,,,,,0
+479,q3zbuuw6,,0,0,24,,,,0,,,0.0,479,,0.0,1,1,xsp8cw0b,,,,,0
+480,bhooo6wz,,0,0,24,,,,0,,,0.0,480,,0.0,1,1,xsp8cw0b,,,,,0
+481,r9206mi2,,0,0,24,,,,0,,,0.0,481,,0.0,1,1,xsp8cw0b,,,,,0
+482,k4odws5j,,0,0,24,,,,0,,,0.0,482,,0.0,1,1,xsp8cw0b,,,,,0
+483,ozpde9um,,0,0,24,,,,0,,,0.0,483,,0.0,1,1,xsp8cw0b,,,,,0
+484,o3bzp2er,,0,0,24,,,,0,,,0.0,484,,0.0,1,1,xsp8cw0b,,,,,0
+485,3149163w,,0,0,24,,,,0,,,0.0,485,,0.0,1,1,xsp8cw0b,,,,,0
+486,ifxqd1at,,0,0,24,,,,0,,,0.0,486,,0.0,1,1,xsp8cw0b,,,,,0
+487,7cum4agw,,0,0,24,,,,0,,,0.0,487,,0.0,1,1,xsp8cw0b,,,,,0
+488,3q5a1mxo,,0,0,24,,,,0,,,0.0,488,,0.0,1,1,xsp8cw0b,,,,,0
+489,t8qpw82h,,0,0,24,,,,0,,,0.0,489,,0.0,1,1,xsp8cw0b,,,,,0
+490,7v815yfk,,0,0,24,,,,0,,,0.0,490,,0.0,1,1,xsp8cw0b,,,,,0
+491,e6x5ymf2,,0,0,24,,,,0,,,0.0,491,,0.0,1,1,xsp8cw0b,,,,,0
+492,w5anjft7,,0,0,24,,,,0,,,0.0,492,,0.0,1,1,xsp8cw0b,,,,,0
+493,afurvpwz,,0,0,24,,,,0,,,0.0,493,,0.0,1,1,xsp8cw0b,,,,,0
+494,uvekwd50,,0,0,24,,,,0,,,0.0,494,,0.0,1,1,xsp8cw0b,,,,,0
+495,wv0x2w07,,0,0,24,,,,0,,,0.0,495,,0.0,1,1,xsp8cw0b,,,,,0
+496,l8rfzhhu,,0,0,24,,,,0,,,0.0,496,,0.0,1,1,xsp8cw0b,,,,,0
+497,9n1ok95m,,0,0,24,,,,0,,,0.0,497,,0.0,1,1,xsp8cw0b,,,,,0
+498,ckab7crg,,0,0,24,,,,0,,,0.0,498,,0.0,1,1,xsp8cw0b,,,,,0
+499,4gh7x26i,,0,0,24,,,,0,,,0.0,499,,0.0,1,1,xsp8cw0b,,,,,0
+500,bmrakeqn,,0,0,24,,,,0,,,0.0,500,,0.0,1,1,xsp8cw0b,,,,,0
