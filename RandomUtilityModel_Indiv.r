@@ -30,67 +30,73 @@ data_rt_noin <- data[data$treatment=="no info" & data$game=="trust",]
 
 # Estimate on individual Data
 # NOTE: This takes very long, load results for quicker access below
-iest_hd <- as.data.frame(f.indivest_dict(data_hd))
-iest_ht <- as.data.frame(f.indivest(data_ht))
+# iest_hd <- as.data.frame(f.indivest_dict(data_hd))
+# iest_ht <- as.data.frame(f.indivest(data_ht))
+# 
+# iest_rd_prog <- as.data.frame(f.indivest_dict(data_rd_prog))
+# iest_rd_toke <- as.data.frame(f.indivest_dict(data_rd_toke))
+# iest_rd_mach <- as.data.frame(f.indivest_dict(data_rd_mach))
+# iest_rd_burn <- as.data.frame(f.indivest_dict(data_rd_burn))
+# iest_rd_noin <- as.data.frame(f.indivest_dict(data_rd_noin))
+# 
+# iest_rt_prog <- as.data.frame(f.indivest(data_rt_prog))
+# iest_rt_toke <- as.data.frame(f.indivest(data_rt_toke))
+# iest_rt_mach <- as.data.frame(f.indivest(data_rt_mach))
+# iest_rt_burn <- as.data.frame(f.indivest(data_rt_burn))
+# iest_rt_noin <- as.data.frame(f.indivest(data_rt_noin))
 
-iest_rd_prog <- as.data.frame(f.indivest_dict(data_rd_prog))
-iest_rd_toke <- as.data.frame(f.indivest_dict(data_rd_toke))
-iest_rd_mach <- as.data.frame(f.indivest_dict(data_rd_mach))
-iest_rd_burn <- as.data.frame(f.indivest_dict(data_rd_burn))
-iest_rd_noin <- as.data.frame(f.indivest_dict(data_rd_noin))
 
-iest_rt_prog <- as.data.frame(f.indivest(data_rt_prog))
-iest_rt_toke <- as.data.frame(f.indivest(data_rt_toke))
-iest_rt_mach <- as.data.frame(f.indivest(data_rt_mach))
-iest_rt_burn <- as.data.frame(f.indivest(data_rt_burn))
-iest_rt_noin <- as.data.frame(f.indivest(data_rt_noin))
-
-
+# Load results
 load("IndivEstim.RData")
 
+
+# Generate dummy for inconsistent preferences/behavior
+
 iest_h_all <- rbind(iest_hd, iest_ht[,-c(3,4)])
-iest_h_all$incons <- (iest_h_all$alpha > 0 & iest_h_all$beta < 0) | iest_h_all$alpha > 1  | iest_h_all$alpha < -1  | iest_h_all$beta > 1  | iest_h_all$beta < -1
-table(iest_h_all$incons)
+iest_h_all$incons_ab <- (iest_h_all$alpha > 0 & iest_h_all$beta < 0) | iest_h_all$alpha > 1  | iest_h_all$alpha < -1  | iest_h_all$beta > 1  | iest_h_all$beta < -1
+table(iest_h_all$incons_ab)
 
 iest_r_prog_all <- rbind(iest_rd_prog, iest_rt_prog[,-c(3,4)])
-iest_r_prog_all$incons <- (iest_r_prog_all$alpha > 0 & iest_r_prog_all$beta < 0) | iest_r_prog_all$alpha > 1  | iest_r_prog_all$alpha < -1  | iest_r_prog_all$beta > 1  | iest_r_prog_all$beta < -1
-table(iest_r_prog_all$incons)
+iest_r_prog_all$incons_ab <- (iest_r_prog_all$alpha > 0 & iest_r_prog_all$beta < 0) | iest_r_prog_all$alpha > 1  | iest_r_prog_all$alpha < -1  | iest_r_prog_all$beta > 1  | iest_r_prog_all$beta < -1
+table(iest_r_prog_all$incons_ab)
 
 iest_r_toke_all <- rbind(iest_rd_toke, iest_rt_toke[,-c(3,4)])
-iest_r_toke_all$incons <- (iest_r_toke_all$alpha > 0 & iest_r_toke_all$beta < 0) | iest_r_toke_all$alpha > 1  | iest_r_toke_all$alpha < -1  | iest_r_toke_all$beta > 1  | iest_r_toke_all$beta < -1
-table(iest_r_toke_all$incons)
+iest_r_toke_all$incons_ab <- (iest_r_toke_all$alpha > 0 & iest_r_toke_all$beta < 0) | iest_r_toke_all$alpha > 1  | iest_r_toke_all$alpha < -1  | iest_r_toke_all$beta > 1  | iest_r_toke_all$beta < -1
+table(iest_r_toke_all$incons_ab)
 
 iest_r_mach_all <- rbind(iest_rd_mach, iest_rt_mach[,-c(3,4)])
-iest_r_mach_all$incons <- (iest_r_mach_all$alpha > 0 & iest_r_mach_all$beta < 0) | iest_r_mach_all$alpha > 1  | iest_r_mach_all$alpha < -1  | iest_r_mach_all$beta > 1  | iest_r_mach_all$beta < -1
-table(iest_r_mach_all$incons)
+iest_r_mach_all$incons_ab <- (iest_r_mach_all$alpha > 0 & iest_r_mach_all$beta < 0) | iest_r_mach_all$alpha > 1  | iest_r_mach_all$alpha < -1  | iest_r_mach_all$beta > 1  | iest_r_mach_all$beta < -1
+table(iest_r_mach_all$incons_ab)
 
 iest_r_burn_all <- rbind(iest_rd_burn, iest_rt_burn[,-c(3,4)])
-iest_r_burn_all$incons <- (iest_r_burn_all$alpha > 0 & iest_r_burn_all$beta < 0) | iest_r_burn_all$alpha > 1  | iest_r_burn_all$alpha < -1  | iest_r_burn_all$beta > 1  | iest_r_burn_all$beta < -1
-table(iest_r_burn_all$incons)
+iest_r_burn_all$incons_ab <- (iest_r_burn_all$alpha > 0 & iest_r_burn_all$beta < 0) | iest_r_burn_all$alpha > 1  | iest_r_burn_all$alpha < -1  | iest_r_burn_all$beta > 1  | iest_r_burn_all$beta < -1
+table(iest_r_burn_all$incons_ab)
 
 iest_r_noin_all <- rbind(iest_rd_noin, iest_rt_noin[,-c(3,4)])
-iest_r_noin_all$incons <- (iest_r_noin_all$alpha > 0 & iest_r_noin_all$beta < 0) | iest_r_noin_all$alpha > 1  | iest_r_noin_all$alpha < -1  | iest_r_noin_all$beta > 1  | iest_r_noin_all$beta < -1
-table(iest_r_noin_all$incons)
+iest_r_noin_all$incons_ab <- (iest_r_noin_all$alpha > 0 & iest_r_noin_all$beta < 0) | iest_r_noin_all$alpha > 1  | iest_r_noin_all$alpha < -1  | iest_r_noin_all$beta > 1  | iest_r_noin_all$beta < -1
+table(iest_r_noin_all$incons_ab)
 
 
-iest_ht$incons <- (iest_ht$alpha > 0 & iest_ht$beta < 0) | iest_ht$alpha > 1  | iest_ht$alpha < -1  | iest_ht$beta > 1  | iest_ht$beta < -1 | iest_ht$gamma > 1 | iest_ht$gamma < -1 | iest_ht$delta > 1 | iest_ht$delta < -1 
-table(iest_ht$incons)
+iest_ht$incons_gd <- (iest_ht$alpha > 0 & iest_ht$beta < 0) | iest_ht$alpha > 1  | iest_ht$alpha < -1  | iest_ht$beta > 1  | iest_ht$beta < -1 | iest_ht$gamma > 1 | iest_ht$gamma < -1 | iest_ht$delta > 1 | iest_ht$delta < -1 
+table(iest_ht$incons_gd)
 
-iest_rt_prog$incons <- (iest_rt_prog$alpha > 0 & iest_rt_prog$beta < 0) | iest_rt_prog$alpha > 1  | iest_rt_prog$alpha < -1  | iest_rt_prog$beta > 1  | iest_rt_prog$beta < -1 | iest_rt_prog$gamma > 1 | iest_rt_prog$gamma < -1 | iest_rt_prog$delta > 1 | iest_rt_prog$delta < -1 
-table(iest_rt_prog$incons)
+iest_rt_prog$incons_gd <- (iest_rt_prog$alpha > 0 & iest_rt_prog$beta < 0) | iest_rt_prog$alpha > 1  | iest_rt_prog$alpha < -1  | iest_rt_prog$beta > 1  | iest_rt_prog$beta < -1 | iest_rt_prog$gamma > 1 | iest_rt_prog$gamma < -1 | iest_rt_prog$delta > 1 | iest_rt_prog$delta < -1 
+table(iest_rt_prog$incons_gd)
 
-iest_rt_toke$incons <- (iest_rt_toke$alpha > 0 & iest_rt_toke$beta < 0) | iest_rt_toke$alpha > 1  | iest_rt_toke$alpha < -1  | iest_rt_toke$beta > 1  | iest_rt_toke$beta < -1 | iest_rt_toke$gamma > 1 | iest_rt_toke$gamma < -1 | iest_rt_toke$delta > 1 | iest_rt_toke$delta < -1 
-table(iest_rt_toke$incons)
+iest_rt_toke$incons_gd <- (iest_rt_toke$alpha > 0 & iest_rt_toke$beta < 0) | iest_rt_toke$alpha > 1  | iest_rt_toke$alpha < -1  | iest_rt_toke$beta > 1  | iest_rt_toke$beta < -1 | iest_rt_toke$gamma > 1 | iest_rt_toke$gamma < -1 | iest_rt_toke$delta > 1 | iest_rt_toke$delta < -1 
+table(iest_rt_toke$incons_gd)
 
-iest_rt_mach$incons <- (iest_rt_mach$alpha > 0 & iest_rt_mach$beta < 0) | iest_rt_mach$alpha > 1  | iest_rt_mach$alpha < -1  | iest_rt_mach$beta > 1  | iest_rt_mach$beta < -1 | iest_rt_mach$gamma > 1 | iest_rt_mach$gamma < -1 | iest_rt_mach$delta > 1 | iest_rt_mach$delta < -1 
-table(iest_rt_mach$incons)
+iest_rt_mach$incons_gd <- (iest_rt_mach$alpha > 0 & iest_rt_mach$beta < 0) | iest_rt_mach$alpha > 1  | iest_rt_mach$alpha < -1  | iest_rt_mach$beta > 1  | iest_rt_mach$beta < -1 | iest_rt_mach$gamma > 1 | iest_rt_mach$gamma < -1 | iest_rt_mach$delta > 1 | iest_rt_mach$delta < -1 
+table(iest_rt_mach$incons_gd)
 
-iest_rt_burn$incons <- (iest_rt_burn$alpha > 0 & iest_rt_burn$beta < 0) | iest_rt_burn$alpha > 1  | iest_rt_burn$alpha < -1  | iest_rt_burn$beta > 1  | iest_rt_burn$beta < -1 | iest_rt_burn$gamma > 1 | iest_rt_burn$gamma < -1 | iest_rt_burn$delta > 1 | iest_rt_burn$delta < -1 
-table(iest_rt_burn$incons)
+iest_rt_burn$incons_gd <- (iest_rt_burn$alpha > 0 & iest_rt_burn$beta < 0) | iest_rt_burn$alpha > 1  | iest_rt_burn$alpha < -1  | iest_rt_burn$beta > 1  | iest_rt_burn$beta < -1 | iest_rt_burn$gamma > 1 | iest_rt_burn$gamma < -1 | iest_rt_burn$delta > 1 | iest_rt_burn$delta < -1 
+table(iest_rt_burn$incons_gd)
 
-iest_rt_noin$incons <- (iest_rt_noin$alpha > 0 & iest_rt_noin$beta < 0) | iest_rt_noin$alpha > 1  | iest_rt_noin$alpha < -1  | iest_rt_noin$beta > 1  | iest_rt_noin$beta < -1 | iest_rt_noin$gamma > 1 | iest_rt_noin$gamma < -1 | iest_rt_noin$delta > 1 | iest_rt_noin$delta < -1 
-table(iest_rt_noin$incons)
+iest_rt_noin$incons_gd <- (iest_rt_noin$alpha > 0 & iest_rt_noin$beta < 0) | iest_rt_noin$alpha > 1  | iest_rt_noin$alpha < -1  | iest_rt_noin$beta > 1  | iest_rt_noin$beta < -1 | iest_rt_noin$gamma > 1 | iest_rt_noin$gamma < -1 | iest_rt_noin$delta > 1 | iest_rt_noin$delta < -1 
+table(iest_rt_noin$incons_gd)
 
+
+# Combine data sets into one
 
 iest_h_all$treatment <- "Fellow Human"
 iest_r_prog_all$treatment <- "Programmer"
@@ -100,8 +106,46 @@ iest_r_burn_all$treatment <- "Nobody Earns"
 iest_r_noin_all$treatment <- "No Info"
 
 iest_all <- rbind(iest_h_all, iest_r_prog_all, iest_r_toke_all, iest_r_mach_all, iest_r_burn_all, iest_r_noin_all)
-iest_all <- iest_all[!iest_all$incons,-6]
+iest_all <- iest_all[!iest_all$incons_ab,-c(5,6)]
 
+iest_ht$treatment <- "Fellow Human"
+iest_rt_prog$treatment <- "Programmer"
+iest_rt_toke$treatment <- "Human behind Machine"
+iest_rt_mach$treatment <- "Machine Earns"
+iest_rt_burn$treatment <- "Nobody Earns"
+iest_rt_noin$treatment <- "No Info"
+
+iest_t_all <- rbind(iest_ht, iest_rt_prog, iest_rt_toke, iest_rt_mach, iest_rt_burn, iest_rt_noin)
+iest_t_all <- iest_t_all[!iest_t_all$incons_gd,-c(1,2,7,8)]
+
+iest_all$treatment_ordered <- ifelse(
+  iest_all$treatment == "Fellow Human", "1 Fellow Human",
+  ifelse(
+    iest_all$treatment == "Programmer", "2 Programmer",
+  ifelse(
+    iest_all$treatment == "Human behind Machine", "3 Human behind Machine",
+  ifelse(
+    iest_all$treatment == "Machine Earns", "4 Machine Earns",
+  ifelse(
+    iest_all$treatment == "Nobody Earns", "5 Nobody Earns", 
+    "6 No Info"
+)))))
+
+iest_t_all$treatment_ordered <- ifelse(
+  iest_t_all$treatment == "Fellow Human", "1 Fellow Human",
+  ifelse(
+    iest_t_all$treatment == "Programmer", "2 Programmer",
+  ifelse(
+    iest_t_all$treatment == "Human behind Machine", "3 Human behind Machine",
+  ifelse(
+    iest_t_all$treatment == "Machine Earns", "4 Machine Earns",
+  ifelse(
+    iest_t_all$treatment == "Nobody Earns", "5 Nobody Earns", 
+    "6 No Info"
+)))))
+
+
+# Scatter plots alpha beta
 
 ggplot(iest_h_all[!iest_h_all$incons,], aes(x=alpha, y=beta)) + 
   geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
@@ -161,6 +205,7 @@ ggarrange(ab_h_prog, ab_h_toke, ab_h_mach, ab_h_burn, ab_h_noin,
           ncol = 3, nrow = 2)
 
 
+# Scatter plots gamma delta
 
 ggplot(iest_ht, aes(x=gamma, y=delta)) + 
   geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
@@ -218,3 +263,45 @@ dg_h_noin <- ggplot(iest_ht, aes(x=gamma, y=delta)) +
 
 ggarrange(dg_h_prog, dg_h_toke, dg_h_mach, dg_h_burn, dg_h_noin,
           ncol = 3, nrow = 2)
+
+
+# Indra violin plots
+
+set.seed(123)
+
+violin_alpha <- ggbetweenstats(
+  data = iest_all,
+  x = treatment_ordered,
+  y = alpha,
+  title = "alpha",
+  xlab = "Treatment"
+)
+
+violin_beta <- ggbetweenstats(
+  data = iest_all,
+  x = treatment_ordered,
+  y = beta,
+  title = "beta",
+  xlab = "Treatment"
+)
+
+violin_gamma <- ggbetweenstats(
+  data = iest_t_all,
+  x = treatment_ordered,
+  y = gamma,
+  title = "gamma",
+  xlab = "Treatment"
+)
+
+violin_delta <- ggbetweenstats(
+  data = iest_t_all,
+  x = treatment_ordered,
+  y = delta,
+  title = "delta",
+  xlab = "Treatment"
+)
+
+print(violin_alpha)
+print(violin_beta)
+print(violin_gamma)
+print(violin_delta)
