@@ -1,0 +1,783 @@
+View(data)
+
+
+# ===========================================================================================================================================
+# Individual results
+# ===========================================================================================================================================
+
+library(ggplot2)
+library(ggpubr)
+library(ggstatsplot)
+library(dplyr)
+#rm(list=ls()) # Clear the memory
+setwd("C:/Users/koebis/Dropbox/Work/Post-Doc MPI Berlin/Projects/Project - Behavioral Economics of AI/Data and Code")
+#source("99_estim_functions_aggregate_individual.r") # Load the required functions for performing the estimations
+#set.seed(51)
+
+#data <- read.table("decisions.csv",  sep=",", header=T) # Load choice data
+#data_hd <- data[data$treatment=="human" & data$game=="dictator",]
+#data_ht <- data[data$treatment=="human" & data$game=="trust",]
+
+#data_rd_prog <- data[data$treatment=="programmer" & data$game=="dictator",]
+#data_rd_toke <- data[data$treatment=="token" & data$game=="dictator",]
+#data_rd_mach <- data[data$treatment=="machine earns" & data$game=="dictator",]
+#data_rd_burn <- data[data$treatment=="burned" & data$game=="dictator",]
+#data_rd_noin <- data[data$treatment=="no info" & data$game=="dictator",]
+
+#data_rt_prog <- data[data$treatment=="programmer" & data$game=="trust",]
+#data_rt_toke <- data[data$treatment=="token" & data$game=="trust",]
+#data_rt_mach <- data[data$treatment=="machine earns" & data$game=="trust",]
+#data_rt_burn <- data[data$treatment=="burned" & data$game=="trust",]
+#data_rt_noin <- data[data$treatment=="no info" & data$game=="trust",]
+
+
+# Estimate on individual Data
+# NOTE: This takes very long, load results for quicker access below
+# iest_hd <- as.data.frame(f.indivest_dict(data_hd))
+# iest_ht <- as.data.frame(f.indivest(data_ht))
+# 
+# iest_rd_prog <- as.data.frame(f.indivest_dict(data_rd_prog))
+# iest_rd_toke <- as.data.frame(f.indivest_dict(data_rd_toke))
+# iest_rd_mach <- as.data.frame(f.indivest_dict(data_rd_mach))
+# iest_rd_burn <- as.data.frame(f.indivest_dict(data_rd_burn))
+# iest_rd_noin <- as.data.frame(f.indivest_dict(data_rd_noin))
+# 
+# iest_rt_prog <- as.data.frame(f.indivest(data_rt_prog))
+# iest_rt_toke <- as.data.frame(f.indivest(data_rt_toke))
+# iest_rt_mach <- as.data.frame(f.indivest(data_rt_mach))
+# iest_rt_burn <- as.data.frame(f.indivest(data_rt_burn))
+# iest_rt_noin <- as.data.frame(f.indivest(data_rt_noin))
+
+
+# Load results
+load("IndivEstim.RData")
+
+
+# Generate dummy for inconsistent preferences/behavior
+
+iest_h_all <- rbind(iest_hd, iest_ht[,-c(3,4)])
+iest_h_all$incons_ab <- (iest_h_all$alpha > 0 & iest_h_all$beta < 0) | iest_h_all$alpha > 1  | iest_h_all$alpha < -1  | iest_h_all$beta > 1  | iest_h_all$beta < -1
+table(iest_h_all$incons_ab)
+
+iest_r_prog_all <- rbind(iest_rd_prog, iest_rt_prog[,-c(3,4)])
+iest_r_prog_all$incons_ab <- (iest_r_prog_all$alpha > 0 & iest_r_prog_all$beta < 0) | iest_r_prog_all$alpha > 1  | iest_r_prog_all$alpha < -1  | iest_r_prog_all$beta > 1  | iest_r_prog_all$beta < -1
+table(iest_r_prog_all$incons_ab)
+
+iest_r_toke_all <- rbind(iest_rd_toke, iest_rt_toke[,-c(3,4)])
+iest_r_toke_all$incons_ab <- (iest_r_toke_all$alpha > 0 & iest_r_toke_all$beta < 0) | iest_r_toke_all$alpha > 1  | iest_r_toke_all$alpha < -1  | iest_r_toke_all$beta > 1  | iest_r_toke_all$beta < -1
+table(iest_r_toke_all$incons_ab)
+
+iest_r_mach_all <- rbind(iest_rd_mach, iest_rt_mach[,-c(3,4)])
+iest_r_mach_all$incons_ab <- (iest_r_mach_all$alpha > 0 & iest_r_mach_all$beta < 0) | iest_r_mach_all$alpha > 1  | iest_r_mach_all$alpha < -1  | iest_r_mach_all$beta > 1  | iest_r_mach_all$beta < -1
+table(iest_r_mach_all$incons_ab)
+
+iest_r_burn_all <- rbind(iest_rd_burn, iest_rt_burn[,-c(3,4)])
+iest_r_burn_all$incons_ab <- (iest_r_burn_all$alpha > 0 & iest_r_burn_all$beta < 0) | iest_r_burn_all$alpha > 1  | iest_r_burn_all$alpha < -1  | iest_r_burn_all$beta > 1  | iest_r_burn_all$beta < -1
+table(iest_r_burn_all$incons_ab)
+
+iest_r_noin_all <- rbind(iest_rd_noin, iest_rt_noin[,-c(3,4)])
+iest_r_noin_all$incons_ab <- (iest_r_noin_all$alpha > 0 & iest_r_noin_all$beta < 0) | iest_r_noin_all$alpha > 1  | iest_r_noin_all$alpha < -1  | iest_r_noin_all$beta > 1  | iest_r_noin_all$beta < -1
+table(iest_r_noin_all$incons_ab)
+
+
+iest_ht$incons_gd <- (iest_ht$alpha > 0 & iest_ht$beta < 0) | iest_ht$alpha > 1  | iest_ht$alpha < -1  | iest_ht$beta > 1  | iest_ht$beta < -1 | iest_ht$gamma > 1 | iest_ht$gamma < -1 | iest_ht$delta > 1 | iest_ht$delta < -1 
+table(iest_ht$incons_gd)
+
+iest_rt_prog$incons_gd <- (iest_rt_prog$alpha > 0 & iest_rt_prog$beta < 0) | iest_rt_prog$alpha > 1  | iest_rt_prog$alpha < -1  | iest_rt_prog$beta > 1  | iest_rt_prog$beta < -1 | iest_rt_prog$gamma > 1 | iest_rt_prog$gamma < -1 | iest_rt_prog$delta > 1 | iest_rt_prog$delta < -1 
+table(iest_rt_prog$incons_gd)
+
+iest_rt_toke$incons_gd <- (iest_rt_toke$alpha > 0 & iest_rt_toke$beta < 0) | iest_rt_toke$alpha > 1  | iest_rt_toke$alpha < -1  | iest_rt_toke$beta > 1  | iest_rt_toke$beta < -1 | iest_rt_toke$gamma > 1 | iest_rt_toke$gamma < -1 | iest_rt_toke$delta > 1 | iest_rt_toke$delta < -1 
+table(iest_rt_toke$incons_gd)
+
+iest_rt_mach$incons_gd <- (iest_rt_mach$alpha > 0 & iest_rt_mach$beta < 0) | iest_rt_mach$alpha > 1  | iest_rt_mach$alpha < -1  | iest_rt_mach$beta > 1  | iest_rt_mach$beta < -1 | iest_rt_mach$gamma > 1 | iest_rt_mach$gamma < -1 | iest_rt_mach$delta > 1 | iest_rt_mach$delta < -1 
+table(iest_rt_mach$incons_gd)
+
+iest_rt_burn$incons_gd <- (iest_rt_burn$alpha > 0 & iest_rt_burn$beta < 0) | iest_rt_burn$alpha > 1  | iest_rt_burn$alpha < -1  | iest_rt_burn$beta > 1  | iest_rt_burn$beta < -1 | iest_rt_burn$gamma > 1 | iest_rt_burn$gamma < -1 | iest_rt_burn$delta > 1 | iest_rt_burn$delta < -1 
+table(iest_rt_burn$incons_gd)
+
+iest_rt_noin$incons_gd <- (iest_rt_noin$alpha > 0 & iest_rt_noin$beta < 0) | iest_rt_noin$alpha > 1  | iest_rt_noin$alpha < -1  | iest_rt_noin$beta > 1  | iest_rt_noin$beta < -1 | iest_rt_noin$gamma > 1 | iest_rt_noin$gamma < -1 | iest_rt_noin$delta > 1 | iest_rt_noin$delta < -1 
+table(iest_rt_noin$incons_gd)
+
+
+# Combine data sets into one
+
+iest_h_all$treatment <- "Fellow Human"
+iest_r_prog_all$treatment <- "Programmer"
+iest_r_toke_all$treatment <- "Human behind Machine"
+iest_r_mach_all$treatment <- "Machine Earns"
+iest_r_burn_all$treatment <- "Nobody Earns"
+iest_r_noin_all$treatment <- "No Info"
+
+iest_all <- rbind(iest_h_all, iest_r_prog_all, iest_r_toke_all, iest_r_mach_all, iest_r_burn_all, iest_r_noin_all)
+iest_all <- iest_all[!iest_all$incons_ab,-c(5,6)]
+
+iest_ht$treatment <- "Fellow Human"
+iest_rt_prog$treatment <- "Programmer"
+iest_rt_toke$treatment <- "Human behind Machine"
+iest_rt_mach$treatment <- "Machine Earns"
+iest_rt_burn$treatment <- "Nobody Earns"
+iest_rt_noin$treatment <- "No Info"
+
+iest_t_all <- rbind(iest_ht, iest_rt_prog, iest_rt_toke, iest_rt_mach, iest_rt_burn, iest_rt_noin)
+iest_t_all <- iest_t_all[!iest_t_all$incons_gd,-c(1,2,7,8)]
+
+iest_all$treatment_ordered <- ifelse(
+  iest_all$treatment == "Fellow Human", "1 Fellow Human",
+  ifelse(
+    iest_all$treatment == "Programmer", "2 Programmer",
+    ifelse(
+      iest_all$treatment == "Human behind Machine", "3 Human behind Machine",
+      ifelse(
+        iest_all$treatment == "Machine Earns", "4 Machine Earns",
+        ifelse(
+          iest_all$treatment == "Nobody Earns", "5 Nobody Earns", 
+          "6 No Info"
+        )))))
+
+iest_t_all$treatment_ordered <- ifelse(
+  iest_t_all$treatment == "Fellow Human", "1 Fellow Human",
+  ifelse(
+    iest_t_all$treatment == "Programmer", "2 Programmer",
+    ifelse(
+      iest_t_all$treatment == "Human behind Machine", "3 Human behind Machine",
+      ifelse(
+        iest_t_all$treatment == "Machine Earns", "4 Machine Earns",
+        ifelse(
+          iest_t_all$treatment == "Nobody Earns", "5 Nobody Earns", 
+          "6 No Info"
+        )))))
+
+# Scatter plots alpha beta
+
+ggplot(iest_h_all[!iest_h_all$incons,], aes(x=alpha, y=beta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,1.05) + 
+  ylim(-1.05,1.05) +
+  ggtitle("Fellow Human")
+
+
+ab_h_prog <- ggplot(iest_h_all[!iest_h_all$incons,], aes(x=alpha, y=beta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_point(colour="red", size=3, data=iest_r_prog_all[!iest_r_prog_all$incons,], shape=15, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,0.55) + 
+  ylim(-0.55,1.05) +
+  ggtitle("Fellow Human vs. Programmer")
+
+ab_h_toke <- ggplot(iest_h_all[!iest_h_all$incons,], aes(x=alpha, y=beta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_point(colour="red", size=3, data=iest_r_toke_all[!iest_r_toke_all$incons,], shape=15, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,0.55) + 
+  ylim(-0.55,1.05) +
+  ggtitle("Fellow Human vs. Human behind Machine")
+
+ab_h_mach <- ggplot(iest_h_all[!iest_h_all$incons,], aes(x=alpha, y=beta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_point(colour="red", size=3, data=iest_r_mach_all[!iest_r_mach_all$incons,], shape=15, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,0.55) + 
+  ylim(-0.55,1.05) +
+  ggtitle("Fellow Human vs. Machine Earns")
+
+ab_h_burn <- ggplot(iest_h_all[!iest_h_all$incons,], aes(x=alpha, y=beta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_point(colour="red", size=3, data=iest_r_burn_all[!iest_r_burn_all$incons,], shape=15, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,0.55) + 
+  ylim(-0.55,1.05) +
+  ggtitle("Fellow Human vs. Nobody Earns")
+
+ab_h_noin <- ggplot(iest_h_all[!iest_h_all$incons,], aes(x=alpha, y=beta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_point(colour="red", size=3, data=iest_r_noin_all[!iest_r_noin_all$incons,], shape=15, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,0.55) + 
+  ylim(-0.55,1.05) +
+  ggtitle("Fellow Human vs. No Info")
+
+ggarrange(ab_h_prog, ab_h_toke, ab_h_mach, ab_h_burn, ab_h_noin,
+          ncol = 3, nrow = 2)
+
+
+# Scatter plots gamma delta
+
+ggplot(iest_ht, aes(x=gamma, y=delta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,1.05) + 
+  ylim(-1.05,1.05) +
+  ggtitle("Fellow Human")
+
+
+dg_h_prog <- ggplot(iest_ht, aes(x=gamma, y=delta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_point(colour="red", size=3, data=iest_rt_prog, shape=15, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,1.05) + 
+  ylim(-1.05,1.05) +
+  ggtitle("Fellow Human vs. Programmer")
+
+dg_h_toke <- ggplot(iest_ht, aes(x=gamma, y=delta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_point(colour="red", size=3, data=iest_rt_toke, shape=15, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,1.05) + 
+  ylim(-1.05,1.05) +
+  ggtitle("Fellow Human vs. Human behind Machine")
+
+dg_h_mach <- ggplot(iest_ht, aes(x=gamma, y=delta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_point(colour="red", size=3, data=iest_rt_mach, shape=15, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,1.05) + 
+  ylim(-1.05,1.05) +
+  ggtitle("Fellow Human vs. Machine Earns")
+
+dg_h_burn <- ggplot(iest_ht, aes(x=gamma, y=delta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_point(colour="red", size=3, data=iest_rt_burn, shape=15, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,1.05) + 
+  ylim(-1.05,1.05) +
+  ggtitle("Fellow Human vs. Nobody Earns")
+
+dg_h_noin <- ggplot(iest_ht, aes(x=gamma, y=delta)) + 
+  geom_point(colour="blue", size=3, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) +  
+  geom_point(colour="red", size=3, data=iest_rt_noin, shape=15, position = position_jitter(height = 0.05, width = 0.05, seed = 42)) + 
+  geom_hline(yintercept=0) + 
+  geom_vline(xintercept=0) + 
+  xlim(-1.05,1.05) + 
+  ylim(-1.05,1.05) +
+  ggtitle("Fellow Human vs. No Info")
+
+ggarrange(dg_h_prog, dg_h_toke, dg_h_mach, dg_h_burn, dg_h_noin,
+          ncol = 3, nrow = 2)
+
+
+# Indra violin plots
+
+# Indra violin plots
+
+set.seed(123)
+
+violin_alpha <- ggbetweenstats(
+  data = iest_all,
+  x = treatment_ordered,
+  y = alpha,
+  title = "alpha",
+  xlab = "Treatment"
+)
+
+violin_beta <- ggbetweenstats(
+  data = iest_all,
+  x = treatment_ordered,
+  y = beta,
+  title = "beta",
+  xlab = "Treatment"
+)
+
+violin_gamma <- ggbetweenstats(
+  data = iest_t_all,
+  x = treatment_ordered,
+  y = gamma,
+  title = "gamma",
+  xlab = "Treatment"
+)
+
+violin_delta <- ggbetweenstats(
+  data = iest_t_all,
+  x = treatment_ordered,
+  y = delta,
+  title = "delta",
+  xlab = "Treatment"
+)
+
+#Nils code
+
+
+
+
+
+
+
+#===========================================================================================================================================
+ # Aggregate results
+# ===========================================================================================================================================
+
+#rm(list=ls()) # Clear the memory
+#setwd(paste("C:/Users/",Sys.getenv("USERNAME"),"/Seafile/Research/Beh Econ of AI/Data/Binary", sep=""))
+source("99_estim_functions_aggregate_individual.r") # Load the required functions for performing the estimations
+set.seed(111)
+
+#data <- read.table("decisions.csv",  sep=",", header=T) # Load choice data
+data_h      <- data[data$treatment=="human",]
+data_r_prog <- data[data$treatment=="programmer",]
+data_r_toke <- data[data$treatment=="token",]
+data_r_mach <- data[data$treatment=="machine earns",]
+data_r_burn <- data[data$treatment=="burned",]
+data_r_noin <- data[data$treatment=="no info",]
+
+pe.exp1 <- f.estim(data, "choice_x", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "self_x", "other_x", "self_y", "other_y", silent=T, comp.se=T) # Aggregate estimation
+res <- f.clusterse(pe.exp1, data, "choice_x", "self_x", "other_x", "self_y", "other_y", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "sid")
+
+pe.exp1 <- f.estim(data_h, "choice_x", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "self_x", "other_x", "self_y", "other_y", silent=T, comp.se=T) # Aggregate estimation
+res_h <- f.clusterse(pe.exp1, data_h, "choice_x", "self_x", "other_x", "self_y", "other_y", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "sid")
+
+pe.exp1 <- f.estim(data_r_prog, "choice_x", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "self_x", "other_x", "self_y", "other_y", silent=T, comp.se=T) # Aggregate estimation
+res_r_prog <- f.clusterse(pe.exp1, data_r_prog, "choice_x", "self_x", "other_x", "self_y", "other_y", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "sid")
+
+pe.exp1 <- f.estim(data_r_toke, "choice_x", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "self_x", "other_x", "self_y", "other_y", silent=T, comp.se=T) # Aggregate estimation
+res_r_toke <- f.clusterse(pe.exp1, data_r_toke, "choice_x", "self_x", "other_x", "self_y", "other_y", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "sid")
+
+pe.exp1 <- f.estim(data_r_mach, "choice_x", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "self_x", "other_x", "self_y", "other_y", silent=T, comp.se=T) # Aggregate estimation
+res_r_mach <- f.clusterse(pe.exp1, data_r_mach, "choice_x", "self_x", "other_x", "self_y", "other_y", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "sid")
+
+pe.exp1 <- f.estim(data_r_burn, "choice_x", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "self_x", "other_x", "self_y", "other_y", silent=T, comp.se=T) # Aggregate estimation
+res_r_burn <- f.clusterse(pe.exp1, data_r_burn, "choice_x", "self_x", "other_x", "self_y", "other_y", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "sid")
+
+pe.exp1 <- f.estim(data_r_noin, "choice_x", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "self_x", "other_x", "self_y", "other_y", silent=T, comp.se=T) # Aggregate estimation
+res_r_noin <- f.clusterse(pe.exp1, data_r_noin, "choice_x", "self_x", "other_x", "self_y", "other_y", c("s_x","r_x","q","v"), c("s_y","r_y","q","v"), "sid")
+
+
+# z-tests for differences
+p_alpha_prog <- 2*(1-pnorm(abs(res_r_prog$out[1,1] - res_h$out[1,1])/sqrt(res_r_prog$out[1,2]^2 + res_h$out[1,2]^2)))
+p_beta_prog  <- 2*(1-pnorm(abs(res_r_prog$out[2,1] - res_h$out[2,1])/sqrt(res_r_prog$out[2,2]^2 + res_h$out[2,2]^2)))
+p_gamma_prog <- 2*(1-pnorm(abs(res_r_prog$out[3,1] - res_h$out[3,1])/sqrt(res_r_prog$out[3,2]^2 + res_h$out[3,2]^2)))
+p_delta_prog <- 2*(1-pnorm(abs(res_r_prog$out[4,1] - res_h$out[4,1])/sqrt(res_r_prog$out[4,2]^2 + res_h$out[4,2]^2)))
+
+p_alpha_toke <- 2*(1-pnorm(abs(res_r_toke$out[1,1] - res_h$out[1,1])/sqrt(res_r_toke$out[1,2]^2 + res_h$out[1,2]^2)))
+p_beta_toke  <- 2*(1-pnorm(abs(res_r_toke$out[2,1] - res_h$out[2,1])/sqrt(res_r_toke$out[2,2]^2 + res_h$out[2,2]^2)))
+p_gamma_toke <- 2*(1-pnorm(abs(res_r_toke$out[3,1] - res_h$out[3,1])/sqrt(res_r_toke$out[3,2]^2 + res_h$out[3,2]^2)))
+p_delta_toke <- 2*(1-pnorm(abs(res_r_toke$out[4,1] - res_h$out[4,1])/sqrt(res_r_toke$out[4,2]^2 + res_h$out[4,2]^2)))
+
+p_alpha_mach <- 2*(1-pnorm(abs(res_r_mach$out[1,1] - res_h$out[1,1])/sqrt(res_r_mach$out[1,2]^2 + res_h$out[1,2]^2)))
+p_beta_mach  <- 2*(1-pnorm(abs(res_r_mach$out[2,1] - res_h$out[2,1])/sqrt(res_r_mach$out[2,2]^2 + res_h$out[2,2]^2)))
+p_gamma_mach <- 2*(1-pnorm(abs(res_r_mach$out[3,1] - res_h$out[3,1])/sqrt(res_r_mach$out[3,2]^2 + res_h$out[3,2]^2)))
+p_delta_mach <- 2*(1-pnorm(abs(res_r_mach$out[4,1] - res_h$out[4,1])/sqrt(res_r_mach$out[4,2]^2 + res_h$out[4,2]^2)))
+
+p_alpha_burn <- 2*(1-pnorm(abs(res_r_burn$out[1,1] - res_h$out[1,1])/sqrt(res_r_burn$out[1,2]^2 + res_h$out[1,2]^2)))
+p_beta_burn  <- 2*(1-pnorm(abs(res_r_burn$out[2,1] - res_h$out[2,1])/sqrt(res_r_burn$out[2,2]^2 + res_h$out[2,2]^2)))
+p_gamma_burn <- 2*(1-pnorm(abs(res_r_burn$out[3,1] - res_h$out[3,1])/sqrt(res_r_burn$out[3,2]^2 + res_h$out[3,2]^2)))
+p_delta_burn <- 2*(1-pnorm(abs(res_r_burn$out[4,1] - res_h$out[4,1])/sqrt(res_r_burn$out[4,2]^2 + res_h$out[4,2]^2)))
+
+p_alpha_noin <- 2*(1-pnorm(abs(res_r_noin$out[1,1] - res_h$out[1,1])/sqrt(res_r_noin$out[1,2]^2 + res_h$out[1,2]^2)))
+p_beta_noin  <- 2*(1-pnorm(abs(res_r_noin$out[2,1] - res_h$out[2,1])/sqrt(res_r_noin$out[2,2]^2 + res_h$out[2,2]^2)))
+p_gamma_noin <- 2*(1-pnorm(abs(res_r_noin$out[3,1] - res_h$out[3,1])/sqrt(res_r_noin$out[3,2]^2 + res_h$out[3,2]^2)))
+p_delta_noin <- 2*(1-pnorm(abs(res_r_noin$out[4,1] - res_h$out[4,1])/sqrt(res_r_noin$out[4,2]^2 + res_h$out[4,2]^2)))
+
+cat("\nHuman vs. Programmer\np-value for alpha: p =",p_alpha_prog,
+    "\np-value for beta:  p =",p_beta_prog,
+    "\np-value for gamma: p =",p_gamma_prog,
+    "\np-value for delta: p =",p_delta_prog)
+
+cat("\nHuman vs. Human behind Machine\np-value for alpha: p =",p_alpha_toke,
+    "\np-value for beta:  p =",p_beta_toke,
+    "\np-value for gamma: p =",p_gamma_toke,
+    "\np-value for delta: p =",p_delta_toke)
+
+cat("\nHuman vs. Machine Earns\np-value for alpha: p =",p_alpha_mach,
+    "\np-value for beta:  p =",p_beta_mach,
+    "\np-value for gamma: p =",p_gamma_mach,
+    "\np-value for delta: p =",p_delta_mach)
+
+cat("\nHuman vs. Nobody Earns\np-value for alpha: p =",p_alpha_burn,
+    "\np-value for beta:  p =",p_beta_burn,
+    "\np-value for gamma: p =",p_gamma_burn,
+    "\np-value for delta: p =",p_delta_burn)
+
+cat("\nHuman vs. No Info\np-value for alpha: p =",p_alpha_noin,
+    "\np-value for beta:  p =",p_beta_noin,
+    "\np-value for gamma: p =",p_gamma_noin,
+    "\np-value for delta: p =",p_delta_noin)
+
+
+#Bar plots
+library(ggplot2)
+library(ggpubr)
+library(scales)
+dodgewidth <- position_dodge(width=0.9)
+
+estimates <- as.data.frame(matrix(c("Fellow Human", "Programmer", "Human behind Machine", "Machine Earns", "Nobody Earns", "No Information", 
+                                    mean(data_h$choice_x), mean(data_r_prog$choice_x), mean(data_r_toke$choice_x), mean(data_r_mach$choice_x), mean(data_r_burn$choice_x), mean(data_r_noin$choice_x),
+                                    res_h$out[1,1], res_r_prog$out[1,1], res_r_toke$out[1,1], res_r_mach$out[1,1], res_r_burn$out[1,1], res_r_noin$out[1,1],
+                                    res_h$out[2,1], res_r_prog$out[2,1], res_r_toke$out[2,1], res_r_mach$out[2,1], res_r_burn$out[2,1], res_r_noin$out[2,1],
+                                    res_h$out[3,1], res_r_prog$out[3,1], res_r_toke$out[3,1], res_r_mach$out[3,1], res_r_burn$out[3,1], res_r_noin$out[3,1],
+                                    res_h$out[4,1], res_r_prog$out[4,1], res_r_toke$out[4,1], res_r_mach$out[4,1], res_r_burn$out[4,1], res_r_noin$out[4,1]), 
+                                  nrow = 6))
+colnames(estimates) <- c("Treatment", "Share_X", "alpha", "beta", "gamma", "delta")
+estimates$Treatment <- factor(estimates$Treatment, levels = estimates$Treatment)
+estimates[,-1] <- sapply(estimates[,-1], as.numeric)
+
+estimates$note_share1 <- c(
+  paste(formatC(mean(data_h$choice_x)*100, width = 4), "%", sep=""),
+  rep("", 5)
+)
+estimates$note_share2 <- c(
+  "",
+  paste(formatC(mean(data_r_prog$choice_x)*100, width = 4), "%\n[Diff: p<0.001]", sep=""),
+  paste(formatC(mean(data_r_toke$choice_x)*100, width = 2), "%\n[Diff: p<0.001]", sep=""),
+  paste(formatC(mean(data_r_mach$choice_x)*100, width = 2), "%\n[Diff: p<0.001]", sep=""),
+  paste(formatC(mean(data_r_burn$choice_x)*100, width = 2), "%\n[Diff: p<0.001]", sep=""),
+  paste(formatC(mean(data_r_noin$choice_x)*100, width = 2), "%\n[Diff: p<0.001]", sep="")
+)
+
+estimates$note_alpha1 <- c(
+  paste("\U03B1=", formatC(res_h$out[1,1], digits=4, format="f"), "\n(p", ifelse(round(res_h$out[1,4], 3)<0.001, "<0.001", paste("=", formatC(res_h$out[1,4], digits=3, format="f"), sep="")), ")", sep=""),
+  rep("", 5)
+)
+estimates$note_alpha2 <- c(
+  "",
+  paste("\U03B1=", formatC(res_r_prog$out[1,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_prog$out[1,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_prog$out[1,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_alpha_prog, 3)<0.001, "<0.001", paste("=", formatC(p_alpha_prog, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B1=", formatC(res_r_toke$out[1,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_toke$out[1,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_toke$out[1,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_alpha_toke, 3)<0.001, "<0.001", paste("=", formatC(p_alpha_toke, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B1=", formatC(res_r_mach$out[1,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_mach$out[1,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_mach$out[1,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_alpha_mach, 3)<0.001, "<0.001", paste("=", formatC(p_alpha_mach, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B1=", formatC(res_r_burn$out[1,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_burn$out[1,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_burn$out[1,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_alpha_burn, 3)<0.001, "<0.001", paste("=", formatC(p_alpha_burn, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B1=", formatC(res_r_noin$out[1,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_noin$out[1,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_noin$out[1,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_alpha_noin, 3)<0.001, "<0.001", paste("=", formatC(p_alpha_noin, digits=3, format="f"), sep="")), "]", sep="")
+)
+
+estimates$note_beta1 <- c(
+  paste("\U03B2=", formatC(res_h$out[2,1], digits=4, format="f"), "\n(p", ifelse(round(res_h$out[2,4], 3)<0.001, "<0.001", paste("=", formatC(res_h$out[2,4], digits=3, format="f"), sep="")), ")", sep=""),
+  rep("", 5)
+)
+estimates$note_beta2 <- c(
+  "",
+  paste("\U03B2=", formatC(res_r_prog$out[2,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_prog$out[2,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_prog$out[2,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_beta_prog, 3)<0.001, "<0.001", paste("=", formatC(p_beta_prog, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B2=", formatC(res_r_toke$out[2,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_toke$out[2,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_toke$out[2,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_beta_toke, 3)<0.001, "<0.001", paste("=", formatC(p_beta_toke, digits=3, format="f"), sep="")), "]", sep=""),
+  "",
+  "",
+  paste("\U03B2=", formatC(res_r_noin$out[2,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_noin$out[2,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_noin$out[2,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_beta_noin, 3)<0.001, "<0.001", paste("=", formatC(p_beta_noin, digits=3, format="f"), sep="")), "]", sep="")
+)
+estimates$note_beta3 <- c(
+  "",
+  "",
+  "",
+  paste("\U03B2=", formatC(res_r_mach$out[2,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_mach$out[2,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_mach$out[2,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_beta_mach, 3)<0.001, "<0.001", paste("=", formatC(p_beta_mach, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B2=", formatC(res_r_burn$out[2,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_burn$out[2,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_burn$out[2,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_beta_burn, 3)<0.001, "<0.001", paste("=", formatC(p_beta_burn, digits=3, format="f"), sep="")), "]", sep=""),
+  ""
+)
+
+estimates$note_gamma1 <- c(
+  paste("\U03B3=", formatC(res_h$out[3,1], digits=4, format="f"), "\n(p", ifelse(round(res_h$out[3,4], 3)<0.001, "<0.001", paste("=", formatC(res_h$out[3,4], digits=3, format="f"), sep="")), ")", sep=""),
+  rep("", 5)
+)
+estimates$note_gamma2 <- c(
+  "",
+  paste("\U03B3=", formatC(res_r_prog$out[3,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_prog$out[3,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_prog$out[3,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_gamma_prog, 3)<0.001, "<0.001", paste("=", formatC(p_gamma_prog, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B3=", formatC(res_r_toke$out[3,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_toke$out[3,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_toke$out[3,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_gamma_toke, 3)<0.001, "<0.001", paste("=", formatC(p_gamma_toke, digits=3, format="f"), sep="")), "]", sep=""),
+  "",
+  "",
+  ""
+)
+estimates$note_gamma3 <- c(
+  "",
+  "",
+  "",
+  paste("\U03B3=", formatC(res_r_mach$out[3,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_mach$out[3,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_mach$out[3,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_gamma_mach, 3)<0.001, "<0.001", paste("=", formatC(p_gamma_mach, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B3=", formatC(res_r_burn$out[3,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_burn$out[3,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_burn$out[3,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_gamma_burn, 3)<0.001, "<0.001", paste("=", formatC(p_gamma_burn, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B3=", formatC(res_r_noin$out[3,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_noin$out[3,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_noin$out[3,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_gamma_noin, 3)<0.001, "<0.001", paste("=", formatC(p_gamma_noin, digits=3, format="f"), sep="")), "]", sep="")
+)
+
+estimates$note_delta1 <- c(
+  paste("\U03B4=", formatC(res_h$out[4,1], digits=4, format="f"), "\n(p", ifelse(round(res_h$out[4,4], 3)<0.001, "<0.001", paste("=", formatC(res_h$out[4,4], digits=3, format="f"), sep="")), ")", sep=""),
+  rep("", 5)
+)
+estimates$note_delta2 <- c(
+  "",
+  paste("\U03B4=", formatC(res_r_prog$out[4,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_prog$out[4,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_prog$out[4,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_delta_prog, 3)<0.001, "<0.001", paste("=", formatC(p_delta_prog, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B4=", formatC(res_r_toke$out[4,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_toke$out[4,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_toke$out[4,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_delta_toke, 3)<0.001, "<0.001", paste("=", formatC(p_delta_toke, digits=3, format="f"), sep="")), "]", sep=""),
+  "",
+  "",
+  ""
+)
+estimates$note_delta3 <- c(
+  "",
+  "",
+  "",
+  paste("\U03B4=", formatC(res_r_mach$out[4,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_mach$out[4,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_mach$out[4,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_delta_mach, 3)<0.001, "<0.001", paste("=", formatC(p_delta_mach, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B4=", formatC(res_r_burn$out[4,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_burn$out[4,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_burn$out[4,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_delta_burn, 3)<0.001, "<0.001", paste("=", formatC(p_delta_burn, digits=3, format="f"), sep="")), "]", sep=""),
+  paste("\U03B4=", formatC(res_r_noin$out[4,1], digits=4, format="f"), "\n(p", ifelse(round(res_r_noin$out[4,4], 3)<0.001, "<0.001", paste("=", formatC(res_r_noin$out[4,4], digits=3, format="f"), sep="")), ")\n[Diff: p", ifelse(round(p_delta_noin, 3)<0.001, "<0.001", paste("=", formatC(p_delta_noin, digits=3, format="f"), sep="")), "]", sep="")
+)
+
+range_share = c(0.6,0.95)
+ggplot(estimates, aes(x=Treatment, y=Share_X)) + 
+  geom_col(colour = "black", fill="navy", position = dodgewidth) +
+  scale_y_continuous(limits=range_share, oob = rescale_none) + 
+  xlab("") +
+  ylab("Share Option X") +
+  ggtitle("Treatment Comparison: Share Option X") +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=Share_X, label=note_share1), vjust=-1) +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=Share_X, label=note_share2), vjust=-0.4)
+
+plot_alpha <- ggplot(estimates, aes(x=Treatment, y=alpha)) + 
+  geom_col(colour = "black", fill="navy", position = dodgewidth) +
+  scale_y_continuous(limits=c(-0.25,0), oob = rescale_none) +
+  xlab("") +
+  ggtitle("Treatment Comparison: alpha") +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=alpha, label=note_alpha1), vjust=1.1) +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=alpha, label=note_alpha2), vjust=1.1)
+
+plot_beta <- ggplot(estimates, aes(x=Treatment, y=beta)) + 
+  geom_col(colour = "black", fill="navy", position = dodgewidth) +
+  scale_y_continuous(limits=c(-0.13,0.4), oob = rescale_none) +
+  xlab("") +
+  ggtitle("Treatment Comparison: beta") +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=beta, label=note_beta1), vjust=-0.3) +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=beta, label=note_beta2), vjust=-0.2) +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=beta, label=note_beta3), vjust=1.1)
+
+plot_gamma <- ggplot(estimates, aes(x=Treatment, y=gamma)) + 
+  geom_col(colour = "black", fill="navy", position = dodgewidth) +
+  scale_y_continuous(limits=c(-0.07,0.14), oob = rescale_none) +
+  xlab("") +
+  ggtitle("Treatment Comparison: gamma") +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=gamma, label=note_gamma1), vjust=-0.3) +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=gamma, label=note_gamma2), vjust=1.1) +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=gamma, label=note_gamma3), vjust=-0.2)
+
+plot_delta <- ggplot(estimates, aes(x=Treatment, y=delta)) + 
+  geom_col(colour = "black", fill="navy", position = dodgewidth) +
+  scale_y_continuous(limits=c(-0.08,0.08), oob = rescale_none) +
+  xlab("") +
+  ggtitle("Treatment Comparison: delta") +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=delta, label=note_delta1), vjust=-0.3) +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=delta, label=note_delta2), vjust=1.1) +
+  geom_text(position= dodgewidth, aes(x=Treatment, y=delta, label=note_delta3), vjust=-0.2)
+
+ggarrange(plot_alpha, plot_beta, plot_gamma, plot_delta, nrow = 2, ncol = 2)
+
+
+#Raw behavioral data and rank sum tests
+library(dplyr)
+data_h <- data_h %>% select(c(sid, choice_x)) %>% group_by(sid) %>% summarise_all(funs(mean))
+data_r_prog <- data_r_prog %>% select(c(sid, choice_x)) %>% group_by(sid) %>% summarise_all(funs(mean))
+data_r_toke <- data_r_toke %>% select(c(sid, choice_x)) %>% group_by(sid) %>% summarise_all(funs(mean))
+data_r_mach <- data_r_mach %>% select(c(sid, choice_x)) %>% group_by(sid) %>% summarise_all(funs(mean))
+data_r_burn <- data_r_burn %>% select(c(sid, choice_x)) %>% group_by(sid) %>% summarise_all(funs(mean))
+data_r_noin <- data_r_noin %>% select(c(sid, choice_x)) %>% group_by(sid) %>% summarise_all(funs(mean))
+
+mean(data_h$choice_x)
+mean(data_r_prog$choice_x)
+mean(data_r_toke$choice_x)
+mean(data_r_mach$choice_x)
+mean(data_r_burn$choice_x)
+mean(data_r_noin$choice_x)
+
+wilcox.test(data_h$choice_x, data_r_prog$choice_x)
+wilcox.test(data_h$choice_x, data_r_toke$choice_x)
+wilcox.test(data_h$choice_x, data_r_mach$choice_x)
+wilcox.test(data_h$choice_x, data_r_burn$choice_x)
+wilcox.test(data_h$choice_x, data_r_noin$choice_x)
+
+wilcox.test(data_r_noin$choice_x, data_r_prog$choice_x)
+
+
+###Nils Code
+library(ggsci)
+library(ggsignif)
+
+
+range_share = c(0,40)
+Figure2<-ggplot(estimates, aes(x=Treatment, y=(1-(Share_X))*100, fill=Treatment)) + 
+ geom_col(position = dodgewidth, alpha=.7, show.legend = FALSE) +
+ scale_y_continuous(limits=(range_share), oob = rescale_none) + 
+  scale_x_discrete(limits=rev(levels(estimates$Treatment)))+
+ xlab("") +
+ ylab("Percentage of paricipants who share with partner") +
+ ggtitle("Altruism in the Dictator Game across treatments") +
+  coord_flip() 
+Figure2 
+Figure2 + scale_fill_viridis_d() +theme_classic(base_size = 14)
+
+png(file="Fig2.png", width=16, height=12, units="in", res=100)
+Figure2 + scale_fill_viridis_d() +theme_classic(base_size = 20)
+dev.off()
+
+
+set.seed(123)
+###Figure3
+violin_alpha <- ggbetweenstats(
+  data = iest_all,
+  x = treatment_ordered,
+  y = alpha,
+  title = "A) Behindness Aversion",
+  xlab = "Treatment",
+  plot.type = "boxviolin",
+  color = Treatment,
+  fill = Treatment,
+  results.subtitle = TRUE,
+  bf.message = FALSE,
+  ggsignif.args = list(textsize = 3, tip_length = 0.01)
+)+
+  scale_y_continuous(
+    limits = c(-1, 2),
+    breaks = seq(from = -1, to = 1, by = 0.5))
+
+#violin_alpha + scale_color_viridis_d()
+
+violin_beta <- ggbetweenstats(
+  data = iest_all,
+  x = treatment_ordered,
+  y = beta,
+  title = "B) Aheadness Aversion",
+  xlab = "Treatment",
+  plot.type = "violin",
+  color = Treatment,
+  fill = Treatment,
+  results.subtitle = TRUE,
+  ggsignif.args = list(textsize = 3, tip_length = 0.01),
+)+
+  scale_y_continuous(
+    limits = c(-1, 2),
+    breaks = seq(from = -1, to = 1, by = 0.5))
+#violin_beta + scale_color_viridis_d()
+
+
+violin_gamma <- ggbetweenstats(
+  data = iest_t_all,
+  x = treatment_ordered,
+  y = gamma,
+  title = "C) Positive Reciprocity",
+  xlab = "Treatment",
+  plot.type = "violin",
+  color = Treatment,
+  fill = Treatment,
+  results.subtitle = TRUE,
+  ggsignif.args = list(textsize = 3, tip_length = 0.01)
+)+
+  scale_y_continuous(
+    limits = c(-1, 2),
+    breaks = seq(from = -1, to = 1, by = 0.5))
+
+#violin_gamma + scale_color_viridis_d()
+
+violin_delta <- ggbetweenstats(
+  data = iest_t_all,
+  x = treatment_ordered,
+  y = delta,
+  title = "D) Negative Reciprocity",
+  xlab = "Treatment",
+  plot.type = "violin",
+  color = Treatment,
+  fill = Treatment,
+  results.subtitle = TRUE,
+  ggsignif.args = list(textsize = 3, tip_length = 0.01)
+)+
+  scale_y_continuous(
+    limits = c(-1, 2),
+    breaks = seq(from = -1, to = 1, by = 0.5))
+#violin_gamma + scale_color_viridis_d()
+
+pdf("Fig3.pdf",
+    width = 8, height = 7)
+ggarrange(violin_alpha + scale_color_viridis_d(), violin_beta +scale_color_viridis_d(), violin_gamma +scale_color_viridis_d(), violin_delta +scale_color_viridis_d(),
+               ncol = 2, nrow = 2)
+dev.off()
+
+
+png(file="Fig3a.png", width=16, height=13, units="in", res=100)
+ggarrange(violin_alpha + scale_color_viridis_d(), violin_beta +scale_color_viridis_d(), 
+          ncol = 1, nrow = 2)
+dev.off() 
+
+png(file="Fig3b.png", width=16, height=13, units="in", res=100)
+ggarrange(violin_gamma + scale_color_viridis_d(), violin_delta +scale_color_viridis_d(), 
+          ncol = 1, nrow = 2)
+dev.off() 
+
+
+
+# Load results
+load("FinMixEstim.RData")
+
+assignment <- as.data.frame(pe1$tau)
+assignment$sid <- rownames(assignment)
+
+data_merged <- merge(data, assignment, by = "sid") # merge type to individual
+rm(assignment)
+data_merged <- data_merged[data_merged$order==1,] # keep only one observation per individual
+data_merged$max <- pmax(data_merged$comp1, data_merged$comp2, data_merged$comp3) # get type that fits best
+data_merged$group <- ifelse(data_merged$max==data_merged$comp1, 1, ifelse(data_merged$max==data_merged$comp2, 2, 3))
+data_merged$treatment <- ifelse(data_merged$treatment=="human", "1 Fellow Human", data_merged$treatment)
+data_merged$treatment <- ifelse(data_merged$treatment=="programmer", "2 Programmer", data_merged$treatment)
+data_merged$treatment <- ifelse(data_merged$treatment=="token", "3 Human Behind Machine", data_merged$treatment)
+data_merged$treatment <- ifelse(data_merged$treatment=="machine earns", "4 Machine Earns", data_merged$treatment)
+data_merged$treatment <- ifelse(data_merged$treatment=="burned", "5 Nobody Earns", data_merged$treatment)
+data_merged$treatment <- ifelse(data_merged$treatment=="no info", "6 No Info", data_merged$treatment)
+
+
+# Stacked bar plot
+library(ggplot2)
+library(jtools)
+treatments <- c(rep("1 Fellow Human",3), rep("2 Programmer",3), rep("3 Human Behind Machine",3), rep("4 Machine Earns",3), rep("5 Nobody Earns",3), rep("6 No Info",3))
+types <- factor(rep(c("mildly altruistic/selfish", "spiteful", "aheadness averse/\npositively reciprocal"), 6), levels = c("mildly altruistic/selfish", "spiteful", "aheadness averse/\npositively reciprocal"))
+count <- c(
+  nrow(data_merged[data_merged$treatment == "1 Fellow Human" & data_merged$group == 1,]), nrow(data_merged[data_merged$treatment == "1 Fellow Human" & data_merged$group == 2,]), nrow(data_merged[data_merged$treatment == "1 Fellow Human" & data_merged$group == 3,]),
+  nrow(data_merged[data_merged$treatment == "2 Programmer" & data_merged$group == 1,]), nrow(data_merged[data_merged$treatment == "2 Programmer" & data_merged$group == 2,]), nrow(data_merged[data_merged$treatment == "2 Programmer" & data_merged$group == 3,]),
+  nrow(data_merged[data_merged$treatment == "3 Human Behind Machine" & data_merged$group == 1,]), nrow(data_merged[data_merged$treatment == "3 Human Behind Machine" & data_merged$group == 2,]), nrow(data_merged[data_merged$treatment == "3 Human Behind Machine" & data_merged$group == 3,]),
+  nrow(data_merged[data_merged$treatment == "4 Machine Earns" & data_merged$group == 1,]), nrow(data_merged[data_merged$treatment == "4 Machine Earns" & data_merged$group == 2,]), nrow(data_merged[data_merged$treatment == "4 Machine Earns" & data_merged$group == 3,]),
+  nrow(data_merged[data_merged$treatment == "5 Nobody Earns" & data_merged$group == 1,]), nrow(data_merged[data_merged$treatment == "5 Nobody Earns" & data_merged$group == 2,]), nrow(data_merged[data_merged$treatment == "5 Nobody Earns" & data_merged$group == 3,]),
+  nrow(data_merged[data_merged$treatment == "6 No Info" & data_merged$group == 1,]), nrow(data_merged[data_merged$treatment == "6 No Info" & data_merged$group == 2,]), nrow(data_merged[data_merged$treatment == "6 No Info" & data_merged$group == 3,])
+)
+shares <- data.frame(treatments, types, count)
+names(shares) <- c("Treatment", "Type", "Share")
+
+plot <- ggplot(shares, aes(fill=Type, y=Share, x=Treatment)) + 
+  geom_bar(position="fill", stat="identity") 
+  #scale_fill_manual(values=c("yellow", "darkred", "darkgreen")) 
+  #ggtitle("Distribution of Types Across Treatments") 
+plot + theme_apa(legend.font.size = 16, x.font.size = 16, y.font.size = 16, facet.title.size = 16, legend.pos = "right", legend.use.title = TRUE)+
+   scale_fill_brewer(name = "Behavioral Social Preference Type", palette = "Dark2", )
+
+
+
+#plot + scale_fill_brewer(palette = "PuOr") +
+#  theme_apa(legend.font.size = 16, x.font.size = 16, y.font.size = 16, facet.title.size = 16, legend.pos = "right")
+
+
+#plot + scale_fill_viridis_d(option = "cividis")
+ #+ theme_apa(legend.font.size = 16, x.font.size = 16, y.font.size = 16, legend.pos = "top")
+
+###########################################KIRA CODING#########################################################
+Coding_for_Kira_KvK <- read_excel("C:/Users/koebis/Dropbox/Work/Post-Doc MPI Berlin/Projects/Project - Behavioral Economics of AI/Coding/Coding for Kira_KvK.xlsx")
+
+table(Coding_for_Kira_KvK$Coding)
+
+44+13+4+6+38
+
+44/105
+38/104
+
+Coding_for_Kira_KvK$Coding_string <- Coding_for_Kira_KvK$Coding
+
+Coding_for_Kira_KvK$Coding_string 
+
+
+g <- ggplot(Coding_for_Kira_KvK, aes(Coding))
+g + geom_bar(fill = "darkblue") +
+  theme_apa() 
+
+##Coding Scheme:
+#1. ... the programmer/company behind the algorithm
+#2. ... another uninvolved person
+#3. ... no one; the money is not paid out
+#4. ... earned by the machine (to use it further)
+#5. ... the experimenter
+#6. ... another uninvolved third party
+#7. ... other / NA
+
+
+
+
+
